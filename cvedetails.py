@@ -57,7 +57,7 @@ for singleyear in cve_table:
     gt_vul_year.append(gs_vul_year.copy())
 
 '''Get Vulnerabilities by year'''
-for vul_year in gt_vul_year[2:]:
+for vul_year in gt_vul_year[-1:]:
     gt_cve = []
     next_url = domain+vul_year['YearLink']
     vuls_content = get_html(next_url)
