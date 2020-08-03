@@ -1,0 +1,15 @@
+﻿#,CVE ID,CWE ID,# of Exploits,Vulnerability Type(s),Publish Date,Update Date,Score,Gained Access Level,Access,Complexity,Authentication,Conf.,Integ.,Avail.,Product Type,Vendor,Product
+1,CVE-2001-0679,,,Exec Code Overflow,1999-11-08,2017-12-18,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Trend Micro,Interscan Viruswall
+2,CVE-2000-1206,,,,1999-08-20,2008-09-10,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Apache,Http Server
+3,CVE-2000-0531,,,DoS,1999-11-23,2017-12-18,2.1,None,Local,Low,Not required,None,None,Partial,OS,Caldera,Openlinux
+3,CVE-2000-0531,,,DoS,1999-11-23,2017-12-18,2.1,None,Local,Low,Not required,None,None,Partial,OS,Caldera,Openlinux Eserver
+3,CVE-2000-0531,,,DoS,1999-11-23,2017-12-18,2.1,None,Local,Low,Not required,None,None,Partial,OS,Redhat,Linux
+4,CVE-2000-0489,,,DoS,1999-09-05,2017-10-09,2.1,None,Local,Low,Not required,None,None,Partial,OS,Freebsd,Freebsd
+4,CVE-2000-0489,,,DoS,1999-09-05,2017-10-09,2.1,None,Local,Low,Not required,None,None,Partial,OS,Netbsd,Netbsd
+4,CVE-2000-0489,,,DoS,1999-09-05,2017-10-09,2.1,None,Local,Low,Not required,None,None,Partial,OS,Openbsd,Openbsd
+5,CVE-2000-0481,,,DoS Overflow,1999-06-01,2017-10-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,KDE,K-mail
+6,CVE-2000-0412,,,,1999-05-01,2008-09-10,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Napster,Knapster
+7,CVE-2000-0374,,,Bypass +Info,1999-08-22,2017-10-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,Caldera,Openlinux
+8,CVE-2000-0373,,,'+Priv,1999-06-01,2017-10-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,KDE,KVT
+9,CVE-2000-0371,,,,1999-03-01,2008-09-10,1.2,None,Local,High,Not required,None,Partial,None,OS,KDE,KDE
+10,CVE-2000-0370,,,Exec Code,1999-01-29,2008-09-10,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,Caldera,Openlinux

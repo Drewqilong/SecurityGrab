@@ -52,12 +52,13 @@ cve_table = cve_soup.find('table', class_='stats').find_all('tr', {"onmouseover"
 gs_vul_year = OrderedDict()
 for singleyear in cve_table:
     gs_vul_year['YearLink'] = singleyear.find('th').find('a').attrs['href']
+    gs_vul_year['Year'] = singleyear.find('th').find('a').text
     gs_vul_year['TotalNO'] = singleyear.find('td', class_='num').text.replace('\n','').strip()
     gt_vul_year.append(gs_vul_year.copy())
 
-gt_cve = []
 '''Get Vulnerabilities by year'''
-for vul_year in gt_vul_year[:1]:
+for vul_year in gt_vul_year[2:]:
+    gt_cve = []
     next_url = domain+vul_year['YearLink']
     vuls_content = get_html(next_url)
     vuls_soup = bs4.BeautifulSoup(vuls_content, 'lxml')
@@ -65,13 +66,16 @@ for vul_year in gt_vul_year[:1]:
     pages = len(gt_pages)
     indx = 0
     while indx < pages:
+#    while indx < 2:
         '''Header'''
         headers = [element.text.strip() for element in vuls_soup.find('table', class_='searchresults sortable', id='vulnslisttable').find('tr').find_all('th')]
         cve_rows = vuls_soup.find('table', class_='searchresults sortable', id='vulnslisttable').find_all('tr', class_='srrowns')
         for row in cve_rows:
             cols = [element.text.strip() for element in row.find_all('td')]
+            
             if cols[4] and cols[4][0] in ['-','+']:cols[4] = '\'' + cols[4]
             cve_record = OrderedDict(zip(headers, cols))
+            cve_record['CVE_Link'] = row.find('td', nowrap = True).find('a').attrs['href']
             gt_cve.append(cve_record.copy())
         indx+=1
         if gt_pages[indx:indx+1]:
@@ -80,10 +84,11 @@ for vul_year in gt_vul_year[:1]:
             vuls_content = get_html(next_url)
             vuls_soup = bs4.BeautifulSoup(vuls_content, 'lxml')
 
-if gt_cve:
-    path = 'cve_vulnerability'
-    filename_review = 'cve_list.csv'
-    exportCSV(gt_cve,filename_review,path)
+    if gt_cve:
+        print('Expected no of vulnerabilities:'+str(vul_year['TotalNO'])+', Actual No of Vulnerabilities:'+str(len(gt_cve)))
+        path = 'cve_vulnerability'
+        filename_review = 'cve_list_'+vul_year['Year']+'.csv'
+        exportCSV(gt_cve,filename_review,path)
         
     
     

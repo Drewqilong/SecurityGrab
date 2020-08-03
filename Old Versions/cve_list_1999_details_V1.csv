@@ -1,0 +1,1064 @@
+﻿#,CVE ID,CWE ID,# of Exploits,Vulnerability Type(s),Publish Date,Update Date,Score,Gained Access Level,Access,Complexity,Authentication,Conf.,Integ.,Avail.,Product Type,Vendor,Product
+1,CVE-2001-0679,,,Exec Code Overflow,1999-11-08,2017-12-18,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Trend Micro,Interscan Viruswall
+2,CVE-2000-1206,,,,1999-08-20,2008-09-10,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Apache,Http Server
+3,CVE-2000-0531,,,DoS,1999-11-23,2017-12-18,2.1,None,Local,Low,Not required,None,None,Partial,OS,Caldera,Openlinux
+3,CVE-2000-0531,,,DoS,1999-11-23,2017-12-18,2.1,None,Local,Low,Not required,None,None,Partial,OS,Caldera,Openlinux Eserver
+3,CVE-2000-0531,,,DoS,1999-11-23,2017-12-18,2.1,None,Local,Low,Not required,None,None,Partial,OS,Redhat,Linux
+4,CVE-2000-0489,,,DoS,1999-09-05,2017-10-09,2.1,None,Local,Low,Not required,None,None,Partial,OS,Freebsd,Freebsd
+4,CVE-2000-0489,,,DoS,1999-09-05,2017-10-09,2.1,None,Local,Low,Not required,None,None,Partial,OS,Netbsd,Netbsd
+4,CVE-2000-0489,,,DoS,1999-09-05,2017-10-09,2.1,None,Local,Low,Not required,None,None,Partial,OS,Openbsd,Openbsd
+5,CVE-2000-0481,,,DoS Overflow,1999-06-01,2017-10-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,KDE,K-mail
+6,CVE-2000-0412,,,,1999-05-01,2008-09-10,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Napster,Knapster
+7,CVE-2000-0374,,,Bypass +Info,1999-08-22,2017-10-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,Caldera,Openlinux
+8,CVE-2000-0373,,,'+Priv,1999-06-01,2017-10-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,KDE,KVT
+9,CVE-2000-0371,,,,1999-03-01,2008-09-10,1.2,None,Local,High,Not required,None,Partial,None,OS,KDE,KDE
+10,CVE-2000-0370,,,Exec Code,1999-01-29,2008-09-10,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,Caldera,Openlinux
+11,CVE-2000-0369,,,DoS,1999-10-08,2008-09-10,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Caldera,Openlinux
+12,CVE-2000-0367,,,'+Priv,1999-02-18,2008-09-10,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Michael Jennings,Eterm
+13,CVE-2000-0366,,,,1999-12-02,2008-09-10,2.1,None,Local,Low,Not required,None,Partial,None,OS,Debian,Debian Linux
+14,CVE-2000-0365,,,,1999-06-01,2016-10-17,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Redhat,Linux
+15,CVE-2000-0364,,,,1999-06-01,2016-10-17,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Redhat,Linux
+16,CVE-2000-0363,,,'+Priv,1999-10-22,2008-09-10,6.2,Admin,Local,High,Not required,Complete,Complete,Complete,OS,Suse,Suse Linux
+17,CVE-2000-0362,,,Overflow +Priv,1999-10-22,2008-09-10,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Suse,Suse Linux
+18,CVE-2000-0361,,,,1999-12-14,2008-09-10,2.1,None,Local,Low,Not required,Partial,None,None,OS,Suse,Suse Linux
+19,CVE-2000-0358,,,,1999-12-03,2008-09-10,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Redhat,Linux
+20,CVE-2000-0357,,,,1999-12-03,2008-09-10,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,Redhat,Linux
+21,CVE-2000-0356,,,,1999-10-13,2008-09-10,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Redhat,Linux
+22,CVE-2000-0355,,,,1999-08-21,2008-09-10,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,Bent Bagger,Pbpg
+22,CVE-2000-0355,,,,1999-08-21,2008-09-10,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,Redhat,Linux
+22,CVE-2000-0355,,,,1999-08-21,2008-09-10,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,Suse,Suse Linux
+23,CVE-2000-0353,,,Exec Code,1999-06-28,2008-09-10,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,University Of Washington,Pine
+24,CVE-2000-0352,,,Exec Code,1999-11-18,2008-09-10,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,University Of Washington,Pine
+25,CVE-2000-0333,,,DoS,1999-05-31,2008-09-10,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Ethereal Group,Ethereal
+25,CVE-2000-0333,,,DoS,1999-05-31,2008-09-10,5.0,None,Remote,Low,Not required,None,None,Partial,Application,LBL,Tcpdump
+26,CVE-2000-0330,,,Exec Code,1999-11-12,2018-10-12,7.6,Admin,Remote,High,Not required,Complete,Complete,Complete,OS,Microsoft,Windows 95
+26,CVE-2000-0330,,,Exec Code,1999-11-12,2018-10-12,7.6,Admin,Remote,High,Not required,Complete,Complete,Complete,OS,Microsoft,Windows 98
+27,CVE-2000-0329,,,,1999-11-11,2018-10-12,5.1,User,Remote,High,Not required,Partial,Partial,Partial,Application,Microsoft,IE
+27,CVE-2000-0329,,,,1999-11-11,2018-10-12,5.1,User,Remote,High,Not required,Partial,Partial,Partial,Application,Microsoft,Outlook
+27,CVE-2000-0329,,,,1999-11-11,2018-10-12,5.1,User,Remote,High,Not required,Partial,Partial,Partial,Application,Microsoft,Outlook Express
+28,CVE-2000-0328,,,,1999-08-24,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None,OS,Microsoft,Windows Nt
+29,CVE-2000-0327,,,Exec Code,1999-10-21,2018-10-12,7.6,Admin,Remote,High,Not required,Complete,Complete,Complete,Application,Microsoft,Virtual Machine
+30,CVE-2000-0325,,,Exec Code,1999-08-20,2018-10-12,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Microsoft,JET
+31,CVE-2000-0323,,,,1999-07-28,2018-10-15,7.6,Admin,Remote,High,Not required,Complete,Complete,Complete,Application,Microsoft,JET
+32,CVE-2000-0165,,,Exec Code Overflow,1999-11-13,2018-05-02,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,ETL,Delegate
+33,CVE-2000-0153,,,,1999-03-26,2008-09-10,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Microsoft,Frontpage
+33,CVE-2000-0153,,,,1999-03-26,2008-09-10,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Microsoft,Personal Web Server
+34,CVE-2000-0139,,,DoS,1999-12-03,2016-10-17,2.1,None,Local,Low,Not required,None,None,Partial,Application,True North,Internet Anywhere Mail Server
+35,CVE-2000-0119,,,,1999-12-22,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Mcafee,Virusscan
+35,CVE-2000-0119,,,,1999-12-22,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Symantec,Norton Antivirus
+36,CVE-2000-0118,,,,1999-06-09,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Redhat,Linux
+36,CVE-2000-0118,,,,1999-06-09,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SUN,Solaris
+36,CVE-2000-0118,,,,1999-06-09,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SUN,Sunos
+37,CVE-2000-0100,,,'+Priv,1999-12-29,2018-10-12,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Microsoft,Systems Management Server
+38,CVE-2000-0076,,,,1999-12-30,2016-10-17,2.1,None,Local,Low,Not required,None,Partial,None,OS,Berkeley,NVI
+38,CVE-2000-0076,,,,1999-12-30,2016-10-17,2.1,None,Local,Low,Not required,None,Partial,None,OS,Debian,Debian Linux
+39,CVE-2000-0073,,,DoS Overflow,1999-11-17,2018-10-12,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Microsoft,Windows 2000
+39,CVE-2000-0073,,,DoS Overflow,1999-11-17,2018-10-12,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Microsoft,Windows 98
+39,CVE-2000-0073,,,DoS Overflow,1999-11-17,2018-10-12,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Microsoft,Windows Nt
+40,CVE-2000-0068,,,,1999-12-14,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Intel,Inbusiness Email Station
+41,CVE-2000-0060,,,DoS Overflow,1999-12-27,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Avirt,Rover
+42,CVE-2000-0054,,,,1999-01-03,2008-09-10,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Solution Scripts,Home Free
+43,CVE-2000-0047,,,DoS Overflow,1999-10-01,2008-09-10,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Yahoo,Pager
+44,CVE-2000-0043,,,Exec Code Overflow,1999-12-30,2008-09-10,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Camshot,Webcam Http Server
+45,CVE-2000-0042,,,DoS Exec Code Overflow,1999-12-29,2008-09-10,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,CSM,Mail Server
+46,CVE-2000-0041,,,,1999-12-28,2008-09-10,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Apple,Mac Os
+47,CVE-2000-0040,,,'+Priv,1999-12-23,2008-09-10,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Glftpd,Glftpd
+48,CVE-2000-0039,,,,1999-12-29,2008-09-10,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Altavista,Search Intranet
+49,CVE-2000-0038,,,,1999-12-23,2008-09-10,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Glftpd,Glftpd
+50,CVE-2000-0037,,,'+Priv,1999-12-28,2016-10-17,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Great Circle Associates,Majordomo
+51,CVE-2000-0036,,,,1999-12-22,2018-10-12,5.0,None,Remote,Low,Not required,None,Partial,None,Application,Microsoft,IE
+51,CVE-2000-0036,,,,1999-12-22,2018-10-12,5.0,None,Remote,Low,Not required,None,Partial,None,Application,Microsoft,Outlook Express
+52,CVE-2000-0035,,,'+Priv,1999-12-28,2016-10-17,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Great Circle Associates,Majordomo
+53,CVE-2000-0034,,,,1999-12-22,2008-09-10,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Netscape,Communicator
+54,CVE-2000-0033,,,,1999-12-27,2008-09-10,5.0,None,Remote,Low,Not required,None,Partial,None,Application,Trend Micro,Interscan Viruswall
+55,CVE-2000-0032,,,,1999-12-22,2018-10-30,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,SUN,Solaris
+55,CVE-2000-0032,,,,1999-12-22,2018-10-30,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,SUN,Sunos
+56,CVE-2000-0030,,,,1999-12-22,2018-10-30,5.0,None,Remote,Low,Not required,None,None,Partial,OS,SUN,Solaris
+56,CVE-2000-0030,,,,1999-12-22,2018-10-30,5.0,None,Remote,Low,Not required,None,None,Partial,OS,SUN,Sunos
+57,CVE-2000-0029,,,'+Priv,1999-12-27,2016-10-17,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,SCO,Unixware
+58,CVE-2000-0028,,,Bypass,1999-12-23,2008-09-10,2.6,None,Remote,High,Not required,Partial,None,None,Application,Microsoft,IE
+59,CVE-2000-0027,,,'+Priv,1999-12-27,2008-09-10,6.2,Admin,Local,High,Not required,Complete,Complete,Complete,Application,IBM,Network Station Manager
+60,CVE-2000-0026,,,Overflow,1999-12-21,2016-10-17,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,SCO,Unixware
+60,CVE-2000-0026,,,Overflow,1999-12-21,2016-10-17,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Windowmaker,Wmmon
+61,CVE-2000-0025,,,,1999-12-21,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Microsoft,Internet Information Server
+61,CVE-2000-0025,,,,1999-12-21,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Microsoft,Site Server
+61,CVE-2000-0025,,,,1999-12-21,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Microsoft,Site Server Commerce
+62,CVE-2000-0024,,,Bypass,1999-12-21,2018-10-12,6.4,None,Remote,Low,Not required,Partial,Partial,None,Application,Microsoft,Internet Information Server
+62,CVE-2000-0024,,,Bypass,1999-12-21,2018-10-12,6.4,None,Remote,Low,Not required,Partial,Partial,None,Application,Microsoft,Site Server
+62,CVE-2000-0024,,,Bypass,1999-12-21,2018-10-12,6.4,None,Remote,Low,Not required,Partial,Partial,None,Application,Microsoft,Site Server Commerce
+63,CVE-2000-0023,,,DoS Overflow,1999-12-21,2008-09-10,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Lotus,Domino Server
+64,CVE-2000-0022,,,,1999-12-21,2008-09-10,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Lotus,Domino Server
+65,CVE-2000-0021,,,,1999-12-01,2008-09-10,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Lotus,Domino Server
+66,CVE-2000-0020,,,DoS,1999-12-20,2008-09-10,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Man And Mice,Dns Pro
+67,CVE-2000-0019,,,,1999-03-04,2008-09-10,2.1,None,Local,Low,Not required,Partial,None,None,Application,Ipswitch,Imail
+68,CVE-2000-0018,,,'+Priv,1999-12-22,2008-09-10,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Windowmaker,Wmmon
+69,CVE-2000-0017,,,Overflow +Priv,1999-12-21,2008-09-10,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,Redhat,Linux
+70,CVE-2000-0016,,,DoS Exec Code Overflow,1999-10-01,2008-09-10,5.0,None,Remote,Low,Not required,None,None,Partial,Application,True North,Internet Anywhere Mail Server
+71,CVE-2000-0015,,,'+Priv,1999-12-31,2008-09-10,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Ascend,Cascadeview Ux
+72,CVE-2000-0014,,,DoS,1999-12-28,2008-09-10,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Michael Lamont,Savant Webserver
+73,CVE-2000-0013,,,'+Priv,1999-12-31,2008-09-10,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SGI,Irix
+74,CVE-2000-0012,,,Exec Code Overflow,1999-12-27,2008-09-10,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Hughes,Msql
+75,CVE-2000-0011,,,Exec Code Overflow,1999-12-31,2008-09-10,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Analogx,Simpleserver Www
+76,CVE-2000-0010,,,Exec Code,1999-12-26,2008-09-10,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Tony Greenwood,Webwho+
+77,CVE-2000-0009,,,Exec Code,1999-12-29,2008-09-10,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Nortel,Optivity Net Architect
+78,CVE-2000-0008,,,,1999-12-26,2008-09-10,2.1,None,Local,Low,Not required,Partial,None,None,Application,1st Choice Software,Ftppro
+79,CVE-2000-0007,,,DoS,1999-12-29,2018-05-02,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Trend Micro,Pc-cillin
+80,CVE-2000-0006,,,,1999-12-25,2017-10-09,2.6,None,Local,High,Not required,Partial,Partial,None,OS,Linux,Linux Kernel
+80,CVE-2000-0006,,,,1999-12-25,2017-10-09,2.6,None,Local,High,Not required,Partial,Partial,None,Application,Paul Kranenburg,Strace
+81,CVE-2000-0005,,,'+Priv,1999-01-02,2018-05-02,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Hardware,HP,9000
+81,CVE-2000-0005,,,'+Priv,1999-01-02,2018-05-02,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,HP,Aserver
+81,CVE-2000-0005,,,'+Priv,1999-01-02,2018-05-02,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,HP,Hp-ux
+82,CVE-2000-0004,,,,1999-12-01,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Zbsoft,Zbserver
+83,CVE-2000-0003,,,Overflow +Priv,1999-12-30,2016-10-17,10.0,None,Remote,Low,Not required,Complete,Complete,Complete,OS,SCO,Unixware
+84,CVE-2000-0002,,,Exec Code Overflow,1999-12-22,2016-10-17,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Zbsoft,Zbserver
+85,CVE-2000-0001,,,DoS,1999-12-23,2008-09-10,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Realnetworks,Realserver
+86,CVE-1999-1592,,,,1999-12-31,2008-09-05,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Sendmail,Sendmail
+87,CVE-1999-1591,,,Bypass,1999-12-31,2008-09-05,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Microsoft,Internet Information Server
+87,CVE-1999-1591,,,Bypass,1999-12-31,2008-09-05,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Microsoft,Visual Interdev
+88,CVE-1999-1590,,,Dir. Trav.,1999-12-31,2008-09-05,3.5,None,Remote,Medium,Single system,Partial,None,None,Application,Wwwcount,Wwwcount
+89,CVE-1999-1589,,,'+Priv,1999-12-31,2008-09-05,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,IBM,AIX
+90,CVE-1999-1588,,1.0,Exec Code Overflow,1999-12-31,2008-09-05,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,SUN,Solaris
+91,CVE-1999-1587,,,,1999-12-31,2018-10-30,2.1,None,Local,Low,Not required,Partial,None,None,OS,SUN,Solaris
+91,CVE-1999-1587,,,,1999-12-31,2018-10-30,2.1,None,Local,Low,Not required,Partial,None,None,OS,SUN,Sunos
+92,CVE-1999-1586,,,'+Priv,1999-12-31,2017-07-10,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SUN,Sunos
+93,CVE-1999-1585,,,'+Priv,1999-12-31,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SUN,Sunos
+94,CVE-1999-1584,,,'+Priv,1999-12-31,2008-09-05,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,SUN,Openwindows
+94,CVE-1999-1584,,,'+Priv,1999-12-31,2008-09-05,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,SUN,Sunos
+95,CVE-1999-1583,,,Exec Code Overflow,1999-09-30,2017-07-10,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,IBM,AIX
+96,CVE-1999-1578,,,Exec Code Overflow,1999-09-24,2017-07-10,5.1,None,Remote,High,Not required,Partial,Partial,Partial,Application,Microsoft,IE
+97,CVE-1999-1577,,,Exec Code Overflow,1999-10-31,2017-07-10,5.1,None,Remote,High,Not required,Partial,Partial,Partial,Application,Microsoft,IE
+98,CVE-1999-1576,,,Exec Code Overflow,1999-09-27,2017-07-10,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Adobe,Acrobat Reader
+99,CVE-1999-1575,,,Exec Code,1999-09-10,2018-10-12,5.1,None,Remote,High,Not required,Partial,Partial,Partial,Application,Microsoft,IE
+100,CVE-1999-1573,,,'+Priv,1999-12-28,2017-10-18,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,HP,Hp-ux
+101,CVE-1999-1571,,,Overflow +Priv,1999-11-04,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SCO,Openserver
+102,CVE-1999-1568,,,DoS,1999-01-01,2017-10-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Ncftpd,Ncftpd Ftp Server
+103,CVE-1999-1567,,,DoS,1999-03-08,2017-12-18,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Seapine Software,Testtrack
+104,CVE-1999-1566,,,DoS Overflow,1999-05-08,2008-09-05,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Intel,Iparty
+105,CVE-1999-1565,,,,1999-08-20,2008-09-05,4.6,None,Local,Low,Not required,Partial,Partial,Partial,OS,Debian,Debian Linux
+105,CVE-1999-1565,,,,1999-08-20,2008-09-05,4.6,None,Local,Low,Not required,Partial,Partial,Partial,Application,Earl Hood,Man2html
+106,CVE-1999-1564,,,DoS,1999-09-02,2008-09-05,2.1,None,Local,Low,Not required,None,None,Partial,OS,Freebsd,Freebsd
+107,CVE-1999-1562,,,,1999-09-05,2008-09-05,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Gftp,Ftp Client
+108,CVE-1999-1561,,,'+Priv,1999-08-20,2008-09-05,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Nullsoft,Shoutcast Server
+109,CVE-1999-1560,,,Exec Code,1999-07-20,2017-12-18,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Tamu,Tiger
+110,CVE-1999-1559,,,Bypass,1999-03-31,2017-12-18,5.0,None,Remote,Low,Not required,None,None,Partial,Hardware,Alcatel,Omniswitch
+111,CVE-1999-1553,,,Exec Code Overflow,1999-05-01,2017-12-18,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Xcmail,Xcmail
+112,CVE-1999-1551,,,DoS Exec Code Overflow,1999-03-02,2017-12-18,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Ipswitch,Imail
+113,CVE-1999-1550,,,,1999-11-08,2018-10-30,5.0,None,Remote,Low,Not required,Partial,None,None,OS,F5,Tmos
+114,CVE-1999-1549,,,Exec Code,1999-11-16,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None,Application,University Of Kansas,Lynx
+115,CVE-1999-1548,,,DoS,1999-11-24,2017-02-15,5.0,None,Remote,Low,Not required,None,None,Partial,Hardware,Cabletron,Smartswitch Router 8000 Firmware
+116,CVE-1999-1547,20.0,,Bypass,1999-11-25,2016-10-17,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Oracle,Web Listener
+117,CVE-1999-1546,,,,1999-01-29,2017-12-18,5.0,None,Remote,Low,Not required,Partial,None,None,Application,IBM,Navio Nc Browser
+118,CVE-1999-1545,,,,1999-07-14,2016-10-17,2.1,None,Local,Low,Not required,Partial,None,None,Application,Joes Own Editor,JOE
+119,CVE-1999-1544,,,DoS Overflow,1999-01-24,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Microsoft,Internet Information Server
+120,CVE-1999-1543,,,,1999-07-10,2016-10-17,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Apple,Mac Os
+121,CVE-1999-1542,,,Exec Code,1999-10-04,2017-10-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,Redhat,Linux
+122,CVE-1999-1541,,,Exec Code,1999-10-04,2017-12-18,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Cactus Software,Shell-lock
+123,CVE-1999-1540,,,,1999-10-04,2017-12-18,2.1,None,Local,Low,Not required,Partial,None,None,Application,Cactus Software,Shell-lock
+124,CVE-1999-1539,,,DoS Exec Code Overflow,1999-11-10,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Qpc Software,Qvt Net
+124,CVE-1999-1539,,,DoS Exec Code Overflow,1999-11-10,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Qpc Software,Qvt Term Plus
+125,CVE-1999-1538,,,,1999-01-14,2016-10-17,2.1,None,Local,Low,Not required,Partial,None,None,Application,Microsoft,Internet Information Server
+126,CVE-1999-1537,,,DoS,1999-07-07,2017-10-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Microsoft,Internet Information Server
+127,CVE-1999-1536,,,'+Priv,1999-07-30,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Acushop,Salesbuilder
+128,CVE-1999-1535,,,DoS Exec Code Overflow,1999-07-20,2017-10-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Persits,Aspupload
+129,CVE-1999-1534,,,Overflow,1999-09-23,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Knox Software,Arkeia
+130,CVE-1999-1533,,,DoS,1999-11-07,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Trend Micro,Interscan Viruswall
+131,CVE-1999-1532,,,DoS,1999-10-29,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Netscape,Messaging Server
+132,CVE-1999-1531,,,Exec Code Overflow,1999-11-02,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,IBM,Homepageprint
+133,CVE-1999-1530,,,,1999-11-08,2016-10-17,3.6,None,Local,Low,Not required,Partial,Partial,None,Hardware,SUN,Cobalt Raq 2
+133,CVE-1999-1530,,,,1999-11-08,2016-10-17,3.6,None,Local,Low,Not required,Partial,Partial,None,Hardware,SUN,Cobalt Raq 3i
+134,CVE-1999-1529,,,Exec Code Overflow,1999-11-07,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Trend Micro,Interscan Viruswall
+135,CVE-1999-1528,,,,1999-11-14,2016-10-17,4.6,None,Local,Low,Not required,Partial,Partial,Partial,Application,Prosoft Engineering,Netware Client
+136,CVE-1999-1527,,,,1999-11-23,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,SUN,Forte
+136,CVE-1999-1527,,,,1999-11-23,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,SUN,Netbeans Developer
+137,CVE-1999-1526,,,,1999-03-11,2017-12-18,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Macromedia,Shockwave Flash Plugin
+138,CVE-1999-1524,,,,1999-08-07,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None,Hardware,Flowpoint,Flowpoint Dsl Router
+139,CVE-1999-1523,,,DoS Exec Code Overflow,1999-10-04,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Sambar,Sambar Server
+140,CVE-1999-1522,,,,1999-10-07,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Roxen,Roxen Web Server
+141,CVE-1999-1521,,,Exec Code Overflow,1999-09-12,2017-12-18,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Computalynx,Cmail
+142,CVE-1999-1520,,,'+Info,1999-05-11,2017-10-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Microsoft,Site Server
+143,CVE-1999-1519,,,DoS,1999-11-17,2017-12-18,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Gene6,G6 Ftp Server
+144,CVE-1999-1518,,,DoS Bypass,1999-07-15,2017-12-18,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Freebsd,Freebsd
+144,CVE-1999-1518,,,DoS Bypass,1999-07-15,2017-12-18,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Netbsd,Netbsd
+145,CVE-1999-1517,,,,1999-11-01,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Freebsd,Freebsd
+146,CVE-1999-1516,,,Exec Code Overflow,1999-09-02,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Tenfour,Tfs Gateway Smtp
+147,CVE-1999-1515,,,DoS,1999-08-31,2017-12-18,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Tenfour,Tfs Gateway
+148,CVE-1999-1513,,,,1999-08-30,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Hardware,3com,Superstack Ii Hub
+149,CVE-1999-1512,,,Exec Code,1999-12-31,2017-10-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Amavis,Virus Scanner
+150,CVE-1999-1511,,,DoS Exec Code Overflow,1999-11-10,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Artisoft,Xtramail
+151,CVE-1999-1510,,,DoS Exec Code Overflow,1999-05-17,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Bisonware,Bisonware Ftp Server
+152,CVE-1999-1509,,,Dir. Trav.,1999-11-04,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Etype,Eserv
+153,CVE-1999-1508,,,,1999-11-16,2016-10-17,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Hardware,TEK,Phaser Network Printer 740
+153,CVE-1999-1508,,,,1999-11-16,2016-10-17,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Hardware,TEK,Phaser Network Printer 750
+153,CVE-1999-1508,,,,1999-11-16,2016-10-17,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Hardware,TEK,Phaser Network Printer 750dp
+153,CVE-1999-1508,,,,1999-11-16,2016-10-17,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Hardware,TEK,Phaser Network Printer 840
+153,CVE-1999-1508,,,,1999-11-16,2016-10-17,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Hardware,TEK,Phaser Network Printer 930
+154,CVE-1999-1500,,,DoS,1999-10-01,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,Application,True North,Internet Anywhere Mail Server
+155,CVE-1999-1497,,,,1999-12-21,2008-09-05,7.2,None,Local,Low,Not required,Complete,Complete,Complete,Application,Ipswitch,Imail
+156,CVE-1999-1496,,,,1999-06-08,2017-12-18,2.1,None,Local,Low,Not required,Partial,None,None,OS,Debian,Debian Linux
+156,CVE-1999-1496,,,,1999-06-08,2017-12-18,2.1,None,Local,Low,Not required,Partial,None,None,OS,Redhat,Linux
+156,CVE-1999-1496,,,,1999-06-08,2017-12-18,2.1,None,Local,Low,Not required,Partial,None,None,Application,Todd Miller,Sudo
+157,CVE-1999-1495,,,,1999-02-18,2017-12-18,2.1,None,Local,Low,Not required,None,None,Partial,OS,Suse,Suse Linux
+158,CVE-1999-1488,,,,1999-12-31,2008-09-05,5.0,None,Remote,Low,Not required,Partial,None,None,Application,IBM,System Data Repository
+159,CVE-1999-1485,,,DoS,1999-05-31,2017-12-18,6.4,None,Remote,Low,Not required,Partial,None,Partial,OS,SGI,Irix
+160,CVE-1999-1484,,,Exec Code Overflow,1999-09-24,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Microsoft,Msn Setup Bulletin Board Services
+161,CVE-1999-1482,,,'+Priv,1999-02-19,2008-09-05,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Svgalib,ZGV
+162,CVE-1999-1481,,,Bypass,1999-12-31,2017-10-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,National Science Foundation,Squid Web Proxy
+163,CVE-1999-1478,,,DoS,1999-07-06,2017-10-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Microsoft,Internet Information Server
+164,CVE-1999-1477,,,Overflow,1999-09-23,2017-12-18,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Gnome,Gnome Libs
+164,CVE-1999-1477,,,Overflow,1999-09-23,2017-12-18,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Mandrakesoft,Mandrake Linux
+165,CVE-1999-1476,,,DoS,1999-12-31,2017-10-09,2.1,None,Local,Low,Not required,None,None,Partial,Hardware,Intel,Pentium
+165,CVE-1999-1476,,,DoS,1999-12-31,2017-10-09,2.1,None,Local,Low,Not required,None,None,Partial,Hardware,Intel,Pentuim
+166,CVE-1999-1475,,,'+Priv,1999-11-19,2008-09-05,4.6,None,Local,Low,Not required,Partial,Partial,Partial,Application,Proftpd Project,Proftpd
+167,CVE-1999-1474,,,,1999-12-31,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Microsoft,Powerpoint
+168,CVE-1999-1473,,,,1999-12-31,2008-09-05,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Microsoft,IE
+169,CVE-1999-1472,,,,1999-12-31,2017-10-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Microsoft,IE
+170,CVE-1999-1470,,,'+Priv,1999-06-24,2017-12-18,4.6,None,Local,Low,Not required,Partial,Partial,Partial,Application,Eastman Software,Work Management
+171,CVE-1999-1469,,,Exec Code Overflow,1999-09-30,2016-10-17,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Hughes Technologies,W3-auth
+172,CVE-1999-1465,,,Bypass,1999-12-31,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,OS,Cisco,IOS
+173,CVE-1999-1464,,,Bypass,1999-12-31,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,OS,Cisco,IOS
+174,CVE-1999-1462,200.0,,'+Info,1999-12-31,2018-11-29,5.0,None,Remote,Low,Not required,Partial,None,None,Application,BB4,Big Brother
+175,CVE-1999-1460,,,,1999-07-13,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,BMC,Patrol Agent
+176,CVE-1999-1458,,,Overflow +Priv,1999-01-25,2017-12-18,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Digital,Unix
+177,CVE-1999-1457,,,Exec Code Overflow,1999-11-16,2008-09-10,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Thttpd,Thttpd Http Server
+178,CVE-1999-1456,,,,1999-12-31,2017-10-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Thttpd,Thttpd Http Server
+179,CVE-1999-1455,,,,1999-12-31,2017-10-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows Nt
+180,CVE-1999-1454,,,Bypass,1999-10-04,2016-10-17,4.6,None,Local,Low,Not required,Partial,Partial,Partial,Application,Macromedia,Matrix Screen Saver
+181,CVE-1999-1453,,,,1999-02-02,2016-10-17,2.6,None,Remote,High,Not required,Partial,None,None,Application,Microsoft,IE
+182,CVE-1999-1452,,,,1999-12-31,2017-10-09,2.1,None,Local,Low,Not required,Partial,None,None,OS,Microsoft,Windows Nt
+183,CVE-1999-1451,,,,1999-12-31,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Microsoft,Internet Information Server
+183,CVE-1999-1451,,,,1999-12-31,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Microsoft,Site Server
+184,CVE-1999-1450,,,'+Priv,1999-01-27,2008-09-10,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,SCO,Openserver
+184,CVE-1999-1450,,,'+Priv,1999-01-27,2008-09-10,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,SCO,Unixware
+185,CVE-1999-1444,,,,1999-12-31,2008-09-10,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Computer Software Manufaktur,Alibaba
+186,CVE-1999-1440,,,,1999-01-01,2016-10-17,5.1,None,Remote,High,Not required,Partial,Partial,Partial,Application,Mirabilis,Icq 98a
+187,CVE-1999-1430,,,,1999-01-01,2016-10-17,2.1,None,Local,Low,Not required,Partial,None,None,Application,Royal,Davinci
+188,CVE-1999-1422,,,,1999-01-02,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Slackware,Slackware Linux
+189,CVE-1999-1418,,,,1999-05-01,2008-09-05,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Mirabilis,Icq Web Front
+190,CVE-1999-1414,,,'+Priv,1999-05-25,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,IBM,Netfinity Remote Control
+191,CVE-1999-1412,,,DoS,1999-06-03,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete,Application,Apache,Http Server
+191,CVE-1999-1412,,,DoS,1999-06-03,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete,OS,Apple,Mac Os X
+192,CVE-1999-1405,,,Exec Code,1999-02-17,2016-10-17,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,IBM,AIX
+193,CVE-1999-1400,,,Bypass,1999-06-03,2016-10-17,2.1,None,Local,Low,Not required,Partial,None,None,Application,The Economist,The Economist 1999 Screen Saver
+194,CVE-1999-1397,,,'+Info,1999-03-23,2016-10-17,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Microsoft,Index Server
+195,CVE-1999-1394,,,,1999-07-02,2016-10-17,2.1,None,Local,Low,Not required,None,Partial,None,OS,BSD,BSD
+196,CVE-1999-1393,,,Bypass,1999-05-21,2008-09-05,4.6,None,Local,Low,Not required,Partial,Partial,Partial,OS,Apple,Mac Os
+197,CVE-1999-1386,,,,1999-12-31,2016-10-17,2.1,None,Local,Low,Not required,None,Partial,None,Application,Larry Wall,Perl
+198,CVE-1999-1382,,,'+Priv,1999-12-31,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Novell,Netware
+199,CVE-1999-1379,,,,1999-12-31,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Dnstools Software,Dnstools
+200,CVE-1999-1378,,,,1999-07-19,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Dbmlparser.exe,Dbmlparser.exe
+201,CVE-1999-1377,,,,1999-09-09,2008-09-05,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Matt Wright,Download.cgi
+202,CVE-1999-1376,,,Exec Code Overflow,1999-01-14,2016-10-17,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Microsoft,Internet Information Server
+203,CVE-1999-1375,,,,1999-02-11,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Microsoft,Internet Information Server
+204,CVE-1999-1372,,,'+Priv,1999-02-19,2016-10-17,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Triactive,Remote Management
+205,CVE-1999-1371,,,Overflow +Priv,1999-03-08,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SUN,Sunos
+206,CVE-1999-1370,,,,1999-03-23,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Microsoft,IE
+207,CVE-1999-1369,,,'+Priv,1999-04-14,2016-10-17,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Realnetworks,Realserver
+208,CVE-1999-1368,,,,1999-05-12,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,CA,Inoculateit
+209,CVE-1999-1367,,,,1999-05-06,2008-09-05,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Microsoft,IE
+210,CVE-1999-1366,,,,1999-05-15,2016-10-17,3.6,None,Local,Low,Not required,Partial,Partial,None,Application,David Harris,Pegasus Mail
+211,CVE-1999-1365,,,'+Priv Bypass,1999-06-28,2017-10-25,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Microsoft,Windows Nt
+212,CVE-1999-1364,,,DoS,1999-12-31,2008-09-05,2.1,None,Local,Low,Not required,None,None,Partial,OS,Microsoft,Windows Nt
+213,CVE-1999-1363,,,DoS,1999-12-31,2008-09-05,2.1,None,Local,Low,Not required,None,None,Partial,OS,Microsoft,Windows Nt
+214,CVE-1999-1362,,,DoS,1999-12-31,2008-09-05,2.1,None,Local,Low,Not required,None,None,Partial,OS,Microsoft,Windows Nt
+215,CVE-1999-1360,,,DoS,1999-12-31,2008-09-05,2.1,None,Local,Low,Not required,None,None,Partial,OS,Microsoft,Windows Nt
+216,CVE-1999-1359,,,Bypass,1999-12-31,2008-09-05,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows Nt
+217,CVE-1999-1358,,,Bypass,1999-12-31,2008-09-05,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows 2000
+217,CVE-1999-1358,,,Bypass,1999-12-31,2008-09-05,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows Nt
+218,CVE-1999-1357,,,XSS,1999-10-05,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Netscape,Communicator
+219,CVE-1999-1356,,,,1999-09-02,2016-10-17,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Compaq,Smartstart
+220,CVE-1999-1355,,,,1999-12-31,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Compaq,Insight Management Agent
+220,CVE-1999-1355,,,,1999-12-31,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Compaq,Management Agents For Servers
+221,CVE-1999-1354,,,,1999-08-30,2016-10-17,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Softarc,Firstclass Internet Server
+222,CVE-1999-1353,,,'+Priv,1999-09-07,2017-04-28,4.6,None,Local,Low,Not required,Partial,Partial,Partial,Application,Nosque,Msgcore
+223,CVE-1999-1352,,,'+Priv,1999-09-28,2016-10-17,4.6,None,Local,Low,Not required,Partial,Partial,Partial,OS,Linux,Linux Kernel
+224,CVE-1999-1351,,,Dir. Trav.,1999-09-24,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Kvirc,Irc Client
+225,CVE-1999-1350,,,'+Priv,1999-09-29,2016-10-17,4.6,None,Local,Low,Not required,Partial,Partial,Partial,Application,Arcad Systemhaus,Arcad
+226,CVE-1999-1349,,,DoS,1999-10-06,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Xlink Technology,Omni-nfs X Enterprise
+227,CVE-1999-1348,,,DoS,1999-06-30,2016-10-17,2.1,None,Local,Low,Not required,None,None,Partial,OS,Redhat,Linux
+228,CVE-1999-1347,,,Bypass,1999-10-07,2016-10-17,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Redhat,Linux
+229,CVE-1999-1346,,,,1999-10-07,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,OS,Redhat,Linux
+230,CVE-1999-1345,,,,1999-10-05,2016-10-17,4.6,None,Local,Low,Not required,Partial,Partial,Partial,Application,Auto Ftp,Auto Ftp
+231,CVE-1999-1344,,,,1999-10-05,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Auto Ftp,Auto Ftp
+232,CVE-1999-1343,,,DoS,1999-10-13,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,Hardware,Xerox,Docucolor 4lp
+233,CVE-1999-1342,,,DoS,1999-10-17,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,Application,ICQ,Activelist Server
+234,CVE-1999-1341,,,,1999-10-22,2018-09-11,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Linux,Linux Kernel
+235,CVE-1999-1340,,,Overflow +Priv,1999-11-04,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Hylafax,Hylafax
+236,CVE-1999-1339,,,DoS,1999-12-31,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Freebsd,Freebsd
+236,CVE-1999-1339,,,DoS,1999-12-31,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Linux,Linux Kernel
+237,CVE-1999-1338,,,,1999-07-21,2016-10-17,5.0,None,Remote,Low,Not required,None,Partial,None,Application,Delegate,Delegate
+238,CVE-1999-1337,,,'+Priv,1999-08-01,2016-10-17,4.6,None,Local,Low,Not required,Partial,Partial,Partial,Application,Midnight Commander,Midnight Commander
+239,CVE-1999-1336,,,DoS,1999-08-12,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,Hardware,3com,Hiperarc
+240,CVE-1999-1335,,,,1999-12-31,2017-10-09,6.4,None,Remote,Low,Not required,Partial,Partial,None,OS,Redhat,Linux
+241,CVE-1999-1334,,,Exec Code Overflow,1999-12-31,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Elm Development Group,ELM
+242,CVE-1999-1333,,,Exec Code,1999-12-31,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,OS,Redhat,Linux
+243,CVE-1999-1332,,,,1999-12-31,2016-10-17,2.1,None,Local,Low,Not required,None,Partial,None,OS,Redhat,Linux
+244,CVE-1999-1331,,,DoS,1999-12-31,2008-09-10,2.1,None,Local,Low,Not required,None,None,Partial,OS,Redhat,Linux
+245,CVE-1999-1330,,,Overflow,1999-12-31,2016-10-17,4.6,None,Local,Low,Not required,Partial,Partial,Partial,OS,Debian,Debian Linux
+245,CVE-1999-1330,,,Overflow,1999-12-31,2016-10-17,4.6,None,Local,Low,Not required,Partial,Partial,Partial,OS,Redhat,Linux
+246,CVE-1999-1329,,,Overflow +Priv,1999-12-31,2008-09-10,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Redhat,Linux
+247,CVE-1999-1328,,,,1999-12-31,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Redhat,Linux
+248,CVE-1999-1327,,,Overflow +Priv,1999-12-31,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Redhat,Linux
+249,CVE-1999-1325,,,'+Priv,1999-12-31,2017-10-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Vax Vms,Sas System
+250,CVE-1999-1324,,,,1999-12-31,2017-10-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,DEC,Dec Openvms Vax
+251,CVE-1999-1323,,,,1999-04-09,2016-10-17,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Symantec,Norton Antivirus
+252,CVE-1999-1320,,,'+Priv,1999-12-31,2008-09-05,4.6,None,Local,Low,Not required,Partial,Partial,Partial,OS,Novell,Netware
+253,CVE-1999-1317,,,'+Priv,1999-12-31,2017-10-09,4.6,None,Local,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows Nt
+254,CVE-1999-1316,,,,1999-12-31,2017-10-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows Nt
+255,CVE-1999-1315,,,DoS +Priv,1999-12-31,2008-09-05,4.6,None,Local,Low,Not required,Partial,Partial,Partial,Application,DEC,Dec Openvms
+256,CVE-1999-1307,,,'+Priv,1999-12-31,2008-09-05,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Novell,Unixware
+257,CVE-1999-1300,,,,1999-12-31,2008-09-05,3.6,None,Local,Low,Not required,Partial,Partial,None,OS,Cray,Unicos
+258,CVE-1999-1294,,,,1999-12-31,2017-10-09,2.1,None,Local,Low,Not required,Partial,None,None,OS,Microsoft,Windows Nt
+259,CVE-1999-1293,,,DoS,1999-12-31,2016-10-17,10.0,None,Remote,Low,Not required,Complete,Complete,Complete,Application,Apache,Http Server
+260,CVE-1999-1290,,,DoS Exec Code Overflow,1999-12-31,2017-10-09,5.1,None,Remote,High,Not required,Partial,Partial,Partial,Application,Chris Matthee,Nftp
+261,CVE-1999-1287,,,,1999-12-31,2017-12-18,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Stephen Turner,Analog
+262,CVE-1999-1279,,,,1999-12-31,2017-10-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Microsoft,Sna Server
+263,CVE-1999-1268,,,,1999-01-06,2017-12-18,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,KDE,KDE
+264,CVE-1999-1264,,,,1999-01-21,2017-12-19,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Hardware,Ramp Networks,Webramp
+265,CVE-1999-1260,,,'+Info,1999-02-15,2017-12-18,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Hughes,Msql
+266,CVE-1999-1259,,,'+Info,1999-12-31,2017-10-09,2.1,None,Local,Low,Not required,Partial,None,None,Application,Microsoft,Office
+267,CVE-1999-1256,,,,1999-03-04,2017-12-18,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Oracle,Database Assistant
+268,CVE-1999-1255,,,,1999-02-19,2017-12-18,5.0,None,Remote,Low,Not required,None,Partial,None,Application,Ccs Network,Hyperseek Search Engine
+269,CVE-1999-1254,,,DoS,1999-03-08,2017-12-18,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Microsoft,Windows 95
+269,CVE-1999-1254,,,DoS,1999-03-08,2017-12-18,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Microsoft,Windows 98
+269,CVE-1999-1254,,,DoS,1999-03-08,2017-12-18,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Microsoft,Windows Nt
+270,CVE-1999-1247,,1.0,'+Priv,1999-02-24,2017-12-18,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,HP,Hp-ux
+271,CVE-1999-1246,,,'+Priv,1999-12-31,2017-10-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Microsoft,Site Server
+272,CVE-1999-1245,,,'+Info,1999-04-06,2017-12-18,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Ucd-snmp,Ucd-snmp
+273,CVE-1999-1244,,,,1999-04-15,2017-12-18,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Darren Reed,Ipfilter
+274,CVE-1999-1241,,,Exec Code,1999-05-06,2017-12-18,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Microsoft,IE
+275,CVE-1999-1237,,,Exec Code Overflow,1999-06-06,2017-12-18,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Apache,Http Server
+276,CVE-1999-1236,,,'+Priv,1999-10-01,2017-12-18,4.6,None,Local,Low,Not required,Partial,Partial,Partial,Application,True North,Internet Anywhere Mail Server
+277,CVE-1999-1235,,,,1999-08-25,2017-12-18,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Microsoft,IE
+278,CVE-1999-1234,,,DoS,1999-10-26,2017-12-18,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Microsoft,Windows Nt
+279,CVE-1999-1233,,,,1999-12-31,2018-10-12,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Microsoft,Internet Information Server
+280,CVE-1999-1231,,,,1999-06-09,2017-12-18,5.0,None,Remote,Low,Not required,Partial,None,None,Application,SSH,Ssh2
+281,CVE-1999-1227,,,,1999-07-30,2017-12-18,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Ethereal Group,Ethereal
+282,CVE-1999-1226,,,DoS Exec Code,1999-10-28,2017-10-09,2.6,None,Remote,High,Not required,None,None,Partial,Application,Netscape,Communicator
+283,CVE-1999-1223,,,DoS,1999-12-31,2017-10-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Microsoft,Internet Information Server
+284,CVE-1999-1222,,,DoS,1999-12-31,2017-10-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Microsoft,Windows Nt
+285,CVE-1999-1206,,,Exec Code,1999-12-31,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Systemsoft,Systemwizard
+286,CVE-1999-1203,,,DoS,1999-02-12,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Ascend,Multilink Ppp For Isdn
+287,CVE-1999-1201,,,DoS,1999-02-06,2017-10-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Microsoft,Windows 95
+287,CVE-1999-1201,,,DoS,1999-02-06,2017-10-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Microsoft,Windows 98
+288,CVE-1999-1196,,,DoS,1999-04-07,2008-09-05,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Hummingbird,Exceed
+289,CVE-1999-1195,,,,1999-05-05,2016-10-17,5.1,None,Remote,High,Not required,Partial,Partial,Partial,Application,Network Associates,Virusscan
+290,CVE-1999-1190,,,Exec Code Overflow,1999-11-15,2008-09-05,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Admiral Systems,Emailclub
+291,CVE-1999-1189,,,DoS Exec Code Overflow,1999-11-24,2017-10-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Netscape,Communicator
+291,CVE-1999-1189,,,DoS Exec Code Overflow,1999-11-24,2017-10-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Netscape,Navigator
+292,CVE-1999-1180,,,Exec Code,1999-02-16,2008-09-10,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Oreilly,Website
+292,CVE-1999-1180,,,Exec Code,1999-02-16,2008-09-10,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Oreilly,Website Pro
+293,CVE-1999-1177,,,Dir. Trav.,1999-12-31,2017-10-09,5.0,None,Remote,Low,Not required,None,Partial,None,Application,Lincoln D. Stein,Nph-publish
+294,CVE-1999-1175,,,,1999-12-31,2017-10-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,Cisco,IOS
+295,CVE-1999-1172,,,,1999-01-14,2008-09-05,5.0,None,Remote,Low,Not required,None,Partial,None,Application,Maximizer,Maximizer Enterprise
+296,CVE-1999-1171,,,'+Priv,1999-02-02,2019-08-13,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Ipswitch,Imail
+296,CVE-1999-1171,,,'+Priv,1999-02-02,2019-08-13,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Progress,Ipswitch Ws Ftp Server
+297,CVE-1999-1170,,,'+Priv,1999-01-02,2019-08-13,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Ipswitch,Imail
+297,CVE-1999-1170,,,'+Priv,1999-01-02,2019-08-13,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Progress,Ipswitch Ws Ftp Server
+298,CVE-1999-1169,,,DoS,1999-02-04,2008-09-10,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Flavio Veloso,Nobo
+299,CVE-1999-1168,,,,1999-02-20,2008-09-05,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,ISS,Internet Security Scanner
+300,CVE-1999-1167,,,XSS,1999-12-31,2008-09-05,6.4,None,Remote,Low,Not required,Partial,Partial,None,Application,Third Voice,Third Voice Web
+301,CVE-1999-1166,,,'+Priv,1999-07-11,2008-09-05,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Linux,Linux Kernel
+302,CVE-1999-1165,,,'+Priv,1999-07-21,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,GNU,Fingerd
+303,CVE-1999-1164,,,DoS,1999-06-25,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Microsoft,Outlook
+303,CVE-1999-1164,,,DoS,1999-06-25,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Microsoft,Outlook Express
+304,CVE-1999-1163,,,,1999-11-24,2016-10-17,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Hardware,HP,9000
+305,CVE-1999-1157,,,DoS,1999-12-31,2017-10-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Microsoft,Windows Nt
+306,CVE-1999-1156,,,DoS,1999-05-17,2018-05-02,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Bisonware,Bisonware Ftp Server
+307,CVE-1999-1148,,,DoS,1999-12-31,2018-10-12,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Microsoft,Internet Information Server
+308,CVE-1999-1132,,,DoS,1999-12-31,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Microsoft,Windows Nt
+309,CVE-1999-1130,,,,1999-07-30,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Netscape,Enterprise Server
+310,CVE-1999-1129,,,,1999-09-01,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Hardware,Cisco,Catalyst 2900 Vlan
+310,CVE-1999-1129,,,,1999-09-01,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,OS,Cisco,IOS
+311,CVE-1999-1127,,,DoS,1999-12-31,2018-10-12,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Microsoft,Windows Nt
+312,CVE-1999-1126,,,'+Info,1999-12-31,2017-12-18,2.1,None,Local,Low,Not required,Partial,None,None,Application,Cisco,Resource Manager
+313,CVE-1999-1124,,,Bypass,1999-12-31,2008-09-05,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Allaire,Coldfusion
+314,CVE-1999-1117,,,,1999-12-31,2017-10-09,2.1,None,Local,Low,Not required,Partial,None,None,OS,IBM,AIX
+315,CVE-1999-1112,,,Exec Code Overflow,1999-11-09,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Irfanview,Irfanview
+316,CVE-1999-1111,,,Overflow Bypass,1999-11-09,2017-10-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Immunix,Stackguard
+317,CVE-1999-1110,,,,1999-11-14,2008-09-05,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Microsoft,IE
+318,CVE-1999-1109,,,DoS,1999-12-22,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Sendmail,Sendmail
+319,CVE-1999-1105,,,,1999-12-31,2008-09-05,5.0,None,Remote,Low,Not required,Partial,None,None,OS,Microsoft,Windows 95
+320,CVE-1999-1104,,,'+Priv,1999-12-31,2016-10-17,4.6,None,Local,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows 95
+321,CVE-1999-1102,,,,1999-12-31,2008-09-05,2.1,None,Local,Low,Not required,None,Partial,None,OS,Apple,A Ux
+321,CVE-1999-1102,,,,1999-12-31,2008-09-05,2.1,None,Local,Low,Not required,None,Partial,None,OS,BSD,BSD
+321,CVE-1999-1102,,,,1999-12-31,2008-09-05,2.1,None,Local,Low,Not required,None,Partial,None,OS,SGI,Irix
+321,CVE-1999-1102,,,,1999-12-31,2008-09-05,2.1,None,Local,Low,Not required,None,Partial,None,OS,SUN,Sunos
+322,CVE-1999-1101,,,'+Priv,1999-02-19,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Kab Software,Lydia
+323,CVE-1999-1100,,,,1999-12-31,2017-10-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Cisco,Pix Private Link
+324,CVE-1999-1097,,,,1999-05-04,2017-12-18,6.4,None,Remote,Low,Not required,Partial,Partial,None,Application,Microsoft,Netmeeting
+325,CVE-1999-1094,,,Exec Code Overflow,1999-12-31,2017-10-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Microsoft,IE
+326,CVE-1999-1093,,,Exec Code Overflow,1999-12-31,2018-10-12,5.1,None,Remote,High,Not required,Partial,Partial,Partial,Application,Microsoft,IE
+327,CVE-1999-1092,,,,1999-11-17,2016-10-17,4.6,None,Local,Low,Not required,Partial,Partial,Partial,Application,Iain Lea,TIN
+328,CVE-1999-1087,,,,1999-12-31,2018-10-12,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Microsoft,IE
+329,CVE-1999-1086,,,'+Priv,1999-07-15,2016-10-17,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,Novell,Netware
+330,CVE-1999-1084,,,,1999-12-31,2018-10-12,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows Nt
+331,CVE-1999-1083,,,Dir. Trav.,1999-10-08,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None,Application,T. Hauck,Jana Web Server
+332,CVE-1999-1082,,,Dir. Trav.,1999-10-08,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None,Application,T. Hauck,Jana Web Server
+333,CVE-1999-1079,,,'+Priv,1999-05-06,2016-10-17,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,IBM,AIX
+334,CVE-1999-1078,,,'+Priv,1999-07-29,2008-09-05,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Ipswitch,Ws Ftp Pro
+335,CVE-1999-1077,,,Bypass,1999-11-01,2016-10-17,4.6,None,Local,Low,Not required,Partial,Partial,Partial,OS,Apple,Mac Os
+336,CVE-1999-1076,,,Bypass,1999-10-26,2016-10-17,4.6,None,Local,Low,Not required,Partial,Partial,Partial,OS,Apple,Mac Os
+337,CVE-1999-1074,,,'+Priv,1999-12-31,2008-09-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Webmin,Webmin
+338,CVE-1999-1066,,,,1999-12-22,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,Application,SGI,Quake 1 Server
+339,CVE-1999-1065,,,DoS Exec Code,1999-11-04,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Palm Pilot,Hotsync Manager
+340,CVE-1999-1064,,,DoS Exec Code Overflow,1999-08-22,2016-10-17,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Windowmaker,Windowmaker
+341,CVE-1999-1063,,,Exec Code,1999-06-01,2017-12-18,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Cdomain,Cdomainfree
+342,CVE-1999-1060,,,DoS Exec Code Overflow,1999-02-17,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Tetrix,Tetrinet
+343,CVE-1999-1058,,,DoS Exec Code Overflow,1999-11-22,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Arcane Software,Vermillion Ftp Daemon
+344,CVE-1999-1055,,,Exec Code,1999-12-31,2018-10-12,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Microsoft,Excel
+345,CVE-1999-1053,,,Exec Code,1999-09-13,2008-09-05,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Apache,Http Server
+345,CVE-1999-1053,,,Exec Code,1999-09-13,2008-09-05,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Matt Wright,Matt Wright Guestbook
+346,CVE-1999-1052,,,,1999-08-24,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Microsoft,Frontpage
+347,CVE-1999-1051,,,,1999-11-16,2008-09-05,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Matt Wright,Formhandler.cgi
+348,CVE-1999-1050,,,Dir. Trav.,1999-11-12,2017-12-18,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Matt Wright,Formhandler.cgi
+349,CVE-1999-1049,,,,1999-02-21,2016-10-17,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,CA,Arcserve Backup
+350,CVE-1999-1047,,,Bypass,1999-10-18,2016-10-17,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Bsdi,Gauntlet
+351,CVE-1999-1046,,,DoS Exec Code Overflow,1999-03-01,2017-12-18,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Ipswitch,Imail
+352,CVE-1999-1043,,,DoS,1999-12-31,2018-10-12,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Microsoft,Exchange Server
+353,CVE-1999-1042,,,,1999-12-31,2008-09-05,1.2,None,Local,High,Not required,Partial,None,None,Application,Cisco,Resource Manager
+354,CVE-1999-1035,,,DoS,1999-12-31,2018-10-12,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Microsoft,Internet Information Server
+355,CVE-1999-1033,,,,1999-05-11,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Microsoft,Outlook Express
+356,CVE-1999-1031,,,DoS,1999-05-19,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Behold Software,Web Page Counter
+357,CVE-1999-1030,,,DoS,1999-05-19,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Behold Software,Web Page Counter
+358,CVE-1999-1029,,,,1999-05-13,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,SSH,Ssh2
+359,CVE-1999-1028,,,DoS,1999-05-28,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Symantec,Pcanywhere
+360,CVE-1999-1023,,,,1999-06-10,2018-10-30,4.6,None,Local,Low,Not required,Partial,Partial,Partial,OS,SUN,Sunos
+361,CVE-1999-1019,,,,1999-06-23,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Cabletron,Spectrum Enterprise Manager
+362,CVE-1999-1018,,,Bypass,1999-07-27,2016-10-17,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,Linux,Linux Kernel
+363,CVE-1999-1017,,,,1999-07-28,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Seattle Lab Software,Emurl
+364,CVE-1999-1016,,,DoS,1999-08-27,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Microsoft,Frontpage
+364,CVE-1999-1016,,,DoS,1999-08-27,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Microsoft,IE
+364,CVE-1999-1016,,,DoS,1999-08-27,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Microsoft,Outlook Express
+364,CVE-1999-1016,,,DoS,1999-08-27,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Qualcomm,Eudora
+365,CVE-1999-1014,,,Overflow +Priv,1999-09-13,2018-10-30,4.6,None,Local,Low,Not required,Partial,Partial,Partial,OS,SUN,Solaris
+365,CVE-1999-1014,,,Overflow +Priv,1999-09-13,2018-10-30,4.6,None,Local,Low,Not required,Partial,Partial,Partial,OS,SUN,Sunos
+366,CVE-1999-1013,,,,1999-09-23,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,IBM,AIX
+367,CVE-1999-1012,,,,1999-05-04,2008-09-05,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Lotus,Domino
+368,CVE-1999-1011,264.0,,Exec Code,1999-07-19,2018-10-15,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Microsoft,Data Access Components
+368,CVE-1999-1011,264.0,,Exec Code,1999-07-19,2018-10-15,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Microsoft,Index Server
+368,CVE-1999-1011,264.0,,Exec Code,1999-07-19,2018-10-15,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Microsoft,Internet Information Server
+368,CVE-1999-1011,264.0,,Exec Code,1999-07-19,2018-10-15,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Microsoft,Site Server
+369,CVE-1999-1010,,,,1999-12-14,2016-10-17,2.1,None,Local,Low,Not required,Partial,None,None,Application,Openbsd,Openssh
+370,CVE-1999-1009,,,,1999-12-12,2008-09-09,2.6,None,Remote,High,Not required,Partial,None,None,Application,Disney,Go Express Search
+371,CVE-1999-1007,,,Exec Code Overflow,1999-12-13,2016-10-17,7.6,Admin,Remote,High,Not required,Complete,Complete,Complete,Application,Vdonet,Vdolive Player
+372,CVE-1999-1006,,,,1999-12-19,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Novell,Groupwise
+373,CVE-1999-1005,,,,1999-12-19,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Netscape,Enterprise Server
+373,CVE-1999-1005,,,,1999-12-19,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Novell,Groupwise
+374,CVE-1999-1004,,,Overflow,1999-12-16,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Symantec,Norton Antivirus
+375,CVE-1999-1003,,,DoS,1999-12-13,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Jgaa,Warftpd
+376,CVE-1999-1001,,,,1999-12-16,2008-09-09,2.6,None,Remote,High,Not required,None,Partial,None,Hardware,Cisco,Cache Engine
+377,CVE-1999-1000,,,,1999-12-16,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,Hardware,Cisco,Cache Engine
+378,CVE-1999-0999,20.0,,DoS,1999-11-19,2018-10-12,4.3,None,Remote,Medium,Not required,None,None,Partial,Application,Microsoft,Sql Server
+379,CVE-1999-0998,,,,1999-12-16,2008-09-09,5.0,None,Remote,Low,Not required,None,Partial,None,Hardware,Cisco,Cache Engine
+380,CVE-1999-0997,,,Exec Code,1999-12-20,2008-09-05,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Millenux Gmbh,Anonftp
+380,CVE-1999-0997,,,Exec Code,1999-12-20,2008-09-05,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,Redhat,Linux
+380,CVE-1999-0997,,,Exec Code,1999-12-20,2008-09-05,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,University Of Washington,Wu-ftpd
+381,CVE-1999-0996,,,Exec Code Overflow,1999-12-15,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Infoseek,Ultraseek Server
+382,CVE-1999-0995,20.0,,DoS,1999-12-16,2018-10-12,7.8,None,Remote,Low,Not required,None,None,Complete,OS,Microsoft,Windows Nt
+383,CVE-1999-0994,255.0,,,1999-12-16,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None,OS,Microsoft,Windows Nt
+384,CVE-1999-0993,16.0,,,1999-12-13,2017-01-19,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Microsoft,Exchange Server
+385,CVE-1999-0991,,,DoS Overflow,1999-12-06,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Goodtech,Telnet Server Nt
+386,CVE-1999-0990,,,,1999-12-05,2008-09-09,2.1,None,Local,Low,Not required,Partial,None,None,Application,Gnome,GDM
+387,CVE-1999-0989,,,Exec Code Overflow,1999-12-06,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Microsoft,IE
+388,CVE-1999-0988,,,,1999-12-04,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SCO,Unixware
+389,CVE-1999-0987,287.0,,,1999-11-18,2018-08-13,10.0,None,Remote,Low,Not required,Complete,Complete,Complete,OS,Microsoft,Windows Nt
+390,CVE-1999-0986,,,DoS,1999-12-08,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Debian,Debian Linux
+390,CVE-1999-0986,,,DoS,1999-12-08,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Linux,Linux Kernel
+390,CVE-1999-0986,,,DoS,1999-12-08,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Redhat,Linux
+391,CVE-1999-0985,,,Exec Code,1999-11-09,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,CC,Cc Whois
+392,CVE-1999-0984,,,Exec Code,1999-11-09,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Matts Whois,Matts Whois
+393,CVE-1999-0983,,,Exec Code,1999-11-09,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Internic,Whois Lookup
+394,CVE-1999-0982,,,,1999-12-05,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SUN,Solaris
+394,CVE-1999-0982,,,,1999-12-05,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,SUN,Web-based Enterprise Management
+395,CVE-1999-0981,59.0,,,1999-12-08,2018-10-12,5.1,None,Remote,High,Not required,Partial,Partial,Partial,Application,Microsoft,IE
+396,CVE-1999-0978,,,Exec Code,1999-12-09,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,Debian,Debian Linux
+397,CVE-1999-0977,,,Overflow +Priv,1999-12-10,2018-10-30,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,SUN,Solaris
+397,CVE-1999-0977,,,Overflow +Priv,1999-12-10,2018-10-30,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,SUN,Sunos
+398,CVE-1999-0976,,,DoS,1999-12-07,2008-09-09,2.1,None,Local,Low,Not required,None,None,Partial,Application,Eric Allman,Sendmail
+399,CVE-1999-0975,,,Exec Code,1999-12-10,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows 95
+399,CVE-1999-0975,,,Exec Code,1999-12-10,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows 98
+399,CVE-1999-0975,,,Exec Code,1999-12-10,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows Nt
+400,CVE-1999-0974,,,Overflow +Priv,1999-12-09,2018-10-30,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,SUN,Solaris
+400,CVE-1999-0974,,,Overflow +Priv,1999-12-09,2018-10-30,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,SUN,Sunos
+401,CVE-1999-0973,,,Overflow +Priv,1999-12-07,2018-10-30,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,SUN,Solaris
+401,CVE-1999-0973,,,Overflow +Priv,1999-12-07,2018-10-30,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,SUN,Sunos
+402,CVE-1999-0972,,,Overflow,1999-12-09,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Wolfpack Development,Xshipwars
+403,CVE-1999-0970,,,DoS,1999-06-05,2017-12-18,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Omnicron,Omnihttpd
+404,CVE-1999-0963,,,'+Priv,1999-12-01,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Freebsd,Freebsd
+405,CVE-1999-0954,,,,1999-09-16,2008-09-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Matt Wright,Wwwboard
+406,CVE-1999-0953,,,,1999-09-16,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Matt Wright,Wwwboard
+407,CVE-1999-0952,,,Overflow,1999-01-28,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SUN,Solaris
+407,CVE-1999-0952,,,Overflow,1999-01-28,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SUN,Sunos
+408,CVE-1999-0951,,,Exec Code Overflow,1999-10-22,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Omnicron,Omnihttpd
+409,CVE-1999-0950,,,Overflow,1999-10-28,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Texas Imperial Software,Wftpd
+410,CVE-1999-0949,,,Overflow +Priv,1999-11-02,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SGI,Irix
+410,CVE-1999-0949,,,Overflow +Priv,1999-11-02,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SUN,Solaris
+410,CVE-1999-0949,,,Overflow +Priv,1999-11-02,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SUN,Sunos
+410,CVE-1999-0949,,,Overflow +Priv,1999-11-02,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Turbolinux,Turbolinux
+411,CVE-1999-0948,,,Overflow +Priv,1999-11-02,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SGI,Irix
+411,CVE-1999-0948,,,Overflow +Priv,1999-11-02,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SUN,Solaris
+411,CVE-1999-0948,,,Overflow +Priv,1999-11-02,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SUN,Sunos
+411,CVE-1999-0948,,,Overflow +Priv,1999-11-02,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Turbolinux,Turbolinux
+412,CVE-1999-0947,,,Exec Code,1999-11-02,2016-10-17,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,AN,An-httpd
+413,CVE-1999-0946,,,Overflow,1999-11-02,2016-10-17,5.1,User,Remote,High,Not required,Partial,Partial,Partial,Application,Yamaha,Midiplug
+415,CVE-1999-0943,,,Overflow +Priv,1999-10-15,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Openlink,Openlink
+416,CVE-1999-0942,,,'+Priv,1999-10-04,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SCO,Unixware
+417,CVE-1999-0940,,,Exec Code Overflow,1999-09-27,2008-09-05,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Mutt,Mutt Mail Client
+418,CVE-1999-0939,,,DoS,1999-08-26,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Debian,Debian Linux
+419,CVE-1999-0938,,,Exec Code,1999-06-28,2016-09-16,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,University College London,SDR
+422,CVE-1999-0933,,,,1999-10-01,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Teamshare,Teamtrack
+423,CVE-1999-0932,,,,1999-09-30,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Mediahouse Software,Statistics Server
+424,CVE-1999-0931,,,Exec Code Overflow,1999-09-30,2008-09-09,5.0,None,Remote,Low,Not required,None,Partial,None,Application,Mediahouse Software,Statistics Server
+425,CVE-1999-0929,,,DoS,1999-06-16,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Novell,Http Server
+425,CVE-1999-0929,,,DoS,1999-06-16,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Novell,Netware
+426,CVE-1999-0928,,,DoS Overflow,1999-05-23,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Smartdesk,Websuite
+427,CVE-1999-0927,,,,1999-05-26,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Gordano,Ntmail
+428,CVE-1999-0926,,,DoS,1999-09-03,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete,Application,Apache,Http Server
+429,CVE-1999-0925,,,DoS,1999-09-03,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Messagemedia,Unitymail
+430,CVE-1999-0921,,,DoS,1999-04-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,BMC,Patrol Agent
+431,CVE-1999-0920,,,Overflow +Priv,1999-05-26,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,University Of Washington,Imap
+431,CVE-1999-0920,,,Overflow +Priv,1999-05-26,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,University Of Washington,Pop2d
+432,CVE-1999-0918,20.0,,DoS,1999-07-03,2018-10-12,7.8,None,Remote,Low,Not required,None,None,Complete,OS,Microsoft,Windows 2000
+432,CVE-1999-0918,20.0,,DoS,1999-07-03,2018-10-12,7.8,None,Remote,Low,Not required,None,None,Complete,OS,Microsoft,Windows 95
+432,CVE-1999-0918,20.0,,DoS,1999-07-03,2018-10-12,7.8,None,Remote,Low,Not required,None,None,Complete,OS,Microsoft,Windows 98
+432,CVE-1999-0918,20.0,,DoS,1999-07-03,2018-10-12,7.8,None,Remote,Low,Not required,None,None,Complete,OS,Microsoft,Windows Nt
+433,CVE-1999-0917,,,,1999-05-27,2018-10-12,5.1,None,Remote,High,Not required,Partial,Partial,Partial,Application,Microsoft,IE
+434,CVE-1999-0916,,,,1999-06-29,2008-09-09,2.1,None,Local,Low,Not required,Partial,None,None,Application,Webtrends,Webtrends Enterprise Suite
+434,CVE-1999-0916,,,,1999-06-29,2008-09-09,2.1,None,Local,Low,Not required,Partial,None,None,Application,Webtrends,Webtrends For Firewalls
+434,CVE-1999-0916,,,,1999-06-29,2008-09-09,2.1,None,Local,Low,Not required,Partial,None,None,Application,Webtrends,Webtrends Log Analyzer
+434,CVE-1999-0916,,,,1999-06-29,2008-09-09,2.1,None,Local,Low,Not required,Partial,None,None,Application,Webtrends,Webtrends Professional Suite
+434,CVE-1999-0916,,,,1999-06-29,2008-09-09,2.1,None,Local,Low,Not required,Partial,None,None,Application,Webtrends,Webtrends Security Analyzer
+435,CVE-1999-0915,,,,1999-10-28,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Pacific Software,Url Live
+436,CVE-1999-0914,,,Overflow,1999-01-03,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Debian,Debian Linux
+437,CVE-1999-0913,,,Exec Code,1999-08-05,2016-10-17,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Network Security Wizards,Dragon-fire Ids
+438,CVE-1999-0912,,,DoS,1999-09-22,2008-09-09,2.1,None,Local,Low,Not required,None,None,Partial,OS,Freebsd,Freebsd
+439,CVE-1999-0911,,,Overflow,1999-08-27,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Proftpd Project,Proftpd
+440,CVE-1999-0910,,,,1999-09-10,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Microsoft,Commercial Internet System
+440,CVE-1999-0910,,,,1999-09-10,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Microsoft,Site Server
+440,CVE-1999-0910,,,,1999-09-10,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Microsoft,Site Server Commerce
+441,CVE-1999-0909,264.0,,Bypass,1999-09-20,2018-10-12,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Microsoft,Terminal Server
+441,CVE-1999-0909,264.0,,Bypass,1999-09-20,2018-10-12,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows 95
+441,CVE-1999-0909,264.0,,Bypass,1999-09-20,2018-10-12,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows 98se
+441,CVE-1999-0909,264.0,,Bypass,1999-09-20,2018-10-12,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows Nt
+442,CVE-1999-0908,,,DoS,1999-09-23,2018-10-30,5.0,None,Remote,Low,Not required,None,None,Partial,OS,SUN,Solaris
+442,CVE-1999-0908,,,DoS,1999-09-23,2018-10-30,5.0,None,Remote,Low,Not required,None,None,Partial,OS,SUN,Sunos
+443,CVE-1999-0907,,,,1999-09-16,2008-09-09,2.1,None,Local,Low,Not required,Partial,None,None,Application,Steven J. Merrifield,Soundcard Cw
+444,CVE-1999-0906,,,Overflow,1999-09-23,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Suse,Suse Linux
+445,CVE-1999-0905,,,DoS,1999-10-21,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Axent,Raptor Firewall
+446,CVE-1999-0904,,,DoS Overflow,1999-11-03,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Byte Fusion,Bftelnet
+447,CVE-1999-0903,,,,1999-10-26,2008-09-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,OS,IBM,AIX
+448,CVE-1999-0902,,,,1999-10-23,2008-09-09,7.2,None,Local,Low,Not required,Complete,Complete,Complete,Application,Linux-nis,Ypserv
+449,CVE-1999-0901,,,,1999-10-23,2008-09-09,7.2,None,Local,Low,Not required,Complete,Complete,Complete,Application,Linux-nis,Ypserv
+450,CVE-1999-0900,,,Overflow +Priv,1999-10-23,2008-09-09,7.2,None,Local,Low,Not required,Complete,Complete,Complete,Application,Linux-nis,Rpc.yppasswdd
+451,CVE-1999-0899,264.0,,Exec Code,1999-11-04,2018-10-12,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Microsoft,Windows Nt
+452,CVE-1999-0898,119.0,,DoS Overflow +Priv,1999-11-04,2018-10-12,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Microsoft,Windows Nt
+453,CVE-1999-0896,,,Exec Code Overflow,1999-11-04,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Realnetworks,Realserver G2
+454,CVE-1999-0895,,,,1999-10-20,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Checkpoint,Firewall-1
+455,CVE-1999-0893,,,,1999-10-11,2008-09-09,2.1,None,Local,Low,Not required,None,Partial,None,OS,SCO,Openserver
+456,CVE-1999-0892,,,Overflow,1999-12-24,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Netscape,Communicator
+457,CVE-1999-0891,94.0,,,1999-09-01,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Microsoft,IE
+458,CVE-1999-0890,,,Exec Code +Info,1999-09-16,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Ihtml Merchant,Ihtml Merchant
+459,CVE-1999-0889,,,,1999-07-01,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Hardware,Cisco,675 Router
+460,CVE-1999-0888,,,'+Priv,1999-08-16,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Oracle,Database Server
+460,CVE-1999-0888,,,'+Priv,1999-08-16,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Oracle,Oracle8i
+461,CVE-1999-0887,,,,1999-11-04,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Floosietek,Ftgate
+462,CVE-1999-0886,16.0,,,1999-09-17,2018-10-12,9.0,Admin,Remote,Low,Single system,Complete,Complete,Complete,OS,Microsoft,Windows Nt
+463,CVE-1999-0885,,,Exec Code,1999-11-03,2008-09-09,3.6,None,Local,Low,Not required,Partial,Partial,None,Application,Computer Software Manufaktur,Alibaba
+464,CVE-1999-0884,,,,1999-10-25,2018-05-02,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Zeus Technologies,Zeus Web Server
+465,CVE-1999-0883,,,,1999-10-25,2018-05-02,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Zeus Technologies,Zeus Web Server
+466,CVE-1999-0882,,,,1999-10-28,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Falcon,Falcon Web Server
+467,CVE-1999-0881,,,,1999-10-26,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Blueface,Falcon Web Server
+468,CVE-1999-0880,,,DoS,1999-10-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Bsdi,Bsd Os
+468,CVE-1999-0880,,,DoS,1999-10-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Caldera,Openlinux
+469,CVE-1999-0879,,,Overflow +Priv,1999-10-01,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,Bsdi,Bsd Os
+469,CVE-1999-0879,,,Overflow +Priv,1999-10-01,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,Caldera,Openlinux
+470,CVE-1999-0878,,,Overflow +Priv,1999-08-22,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Beroftpd,Beroftpd
+470,CVE-1999-0878,,,Overflow +Priv,1999-08-22,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Washington University,Wu-ftpd
+471,CVE-1999-0877,200.0,,'+Info,1999-10-01,2018-10-12,4.3,None,Remote,Medium,Not required,Partial,None,None,Application,Microsoft,IE
+472,CVE-1999-0875,16.0,,,1999-08-11,2018-10-30,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows 2000
+472,CVE-1999-0875,16.0,,,1999-08-11,2018-10-30,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows 95
+472,CVE-1999-0875,16.0,,,1999-08-11,2018-10-30,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows 98se
+472,CVE-1999-0875,16.0,,,1999-08-11,2018-10-30,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,OS,SUN,Solaris
+472,CVE-1999-0875,16.0,,,1999-08-11,2018-10-30,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,OS,SUN,Sunos
+473,CVE-1999-0874,119.0,,DoS Overflow,1999-06-16,2018-10-12,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Microsoft,Internet Information Server
+473,CVE-1999-0874,119.0,,DoS Overflow,1999-06-16,2018-10-12,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,Microsoft,Windows 2000
+473,CVE-1999-0874,119.0,,DoS Overflow,1999-06-16,2018-10-12,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,Microsoft,Windows Nt
+474,CVE-1999-0873,,,Overflow,1999-10-30,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Sky Communications,Skyfull
+475,CVE-1999-0872,,,Overflow,1999-08-25,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Caldera,Openlinux
+475,CVE-1999-0872,,,Overflow,1999-08-25,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Debian,Debian Linux
+475,CVE-1999-0872,,,Overflow,1999-08-25,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Paul Vixie,Vixie Cron
+475,CVE-1999-0872,,,Overflow,1999-08-25,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Redhat,Linux
+476,CVE-1999-0867,20.0,,DoS,1999-08-11,2018-10-12,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Microsoft,Commercial Internet System
+476,CVE-1999-0867,20.0,,DoS,1999-08-11,2018-10-12,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Microsoft,Internet Information Server
+476,CVE-1999-0867,20.0,,DoS,1999-08-11,2018-10-12,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Microsoft,Site Server
+477,CVE-1999-0866,,,Overflow +Priv,1999-12-03,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SCO,Unixware
+478,CVE-1999-0865,,,Overflow,1999-12-03,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Stalker,Communigate Pro
+479,CVE-1999-0864,,,,1999-12-03,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SCO,Unixware
+480,CVE-1999-0863,,,Overflow,1999-11-08,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Freebsd,Freebsd
+481,CVE-1999-0862,,,'+Priv,1999-12-02,2008-09-09,2.1,None,Local,Low,Not required,Partial,None,None,Application,Postgresql,Postgresql
+482,CVE-1999-0861,362.0,,'+Info,1999-08-11,2018-10-12,2.6,None,Remote,High,Not required,Partial,None,None,Application,Microsoft,Commercial Internet System
+482,CVE-1999-0861,362.0,,'+Info,1999-08-11,2018-10-12,2.6,None,Remote,High,Not required,Partial,None,None,Application,Microsoft,Internet Information Server
+482,CVE-1999-0861,362.0,,'+Info,1999-08-11,2018-10-12,2.6,None,Remote,High,Not required,Partial,None,None,Application,Microsoft,Site Server
+482,CVE-1999-0861,362.0,,'+Info,1999-08-11,2018-10-12,2.6,None,Remote,High,Not required,Partial,None,None,Application,Microsoft,Site Server Commerce
+483,CVE-1999-0860,,,,1999-12-01,2018-10-30,2.1,None,Local,Low,Not required,Partial,None,None,OS,SUN,Solaris
+483,CVE-1999-0860,,,,1999-12-01,2018-10-30,2.1,None,Local,Low,Not required,Partial,None,None,OS,SUN,Sunos
+484,CVE-1999-0859,,,,1999-12-01,2018-10-30,2.1,None,Local,Low,Not required,Partial,None,None,OS,SUN,Solaris
+484,CVE-1999-0859,,,,1999-12-01,2018-10-30,2.1,None,Local,Low,Not required,Partial,None,None,OS,SUN,Sunos
+485,CVE-1999-0858,16.0,,,1999-12-02,2018-10-12,5.0,None,Remote,Low,Not required,None,Partial,None,Application,Microsoft,IE
+486,CVE-1999-0857,,,,1999-12-01,2008-09-09,2.1,None,Local,Low,Not required,None,Partial,None,OS,Freebsd,Freebsd
+487,CVE-1999-0856,,,,1999-12-01,2008-09-09,5.0,None,Remote,Low,Not required,None,Partial,None,OS,Slackware,Slackware Linux
+488,CVE-1999-0855,,,Overflow,1999-12-01,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Freebsd,Freebsd
+489,CVE-1999-0854,,,,1999-11-01,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Infopop,Ultimate Bulletin Board
+490,CVE-1999-0853,,,Overflow +Priv,1999-12-01,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Netscape,Enterprise Server
+490,CVE-1999-0853,,,Overflow +Priv,1999-12-01,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Netscape,Fasttrack Server
+491,CVE-1999-0852,,,,1999-12-02,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,IBM,Websphere Application Server
+492,CVE-1999-0851,,,DoS,1999-11-10,2018-10-30,2.1,None,Local,Low,Not required,None,None,Partial,OS,IBM,AIX
+492,CVE-1999-0851,,,DoS,1999-11-10,2018-10-30,2.1,None,Local,Low,Not required,None,None,Partial,OS,SCO,Openserver
+492,CVE-1999-0851,,,DoS,1999-11-10,2018-10-30,2.1,None,Local,Low,Not required,None,None,Partial,OS,SCO,Unixware
+492,CVE-1999-0851,,,DoS,1999-11-10,2018-10-30,2.1,None,Local,Low,Not required,None,None,Partial,OS,SUN,Sunos
+493,CVE-1999-0850,,,,1999-12-02,2008-09-09,3.6,None,Local,Low,Not required,Partial,Partial,None,Application,Endymion,Mailman Webmail
+494,CVE-1999-0849,,,DoS,1999-11-10,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,ISC,Bind
+495,CVE-1999-0848,,,DoS,1999-11-10,2018-10-30,5.0,None,Remote,Low,Not required,None,None,Partial,Application,ISC,Bind
+495,CVE-1999-0848,,,DoS,1999-11-10,2018-10-30,5.0,None,Remote,Low,Not required,None,None,Partial,OS,SUN,Solaris
+495,CVE-1999-0848,,,DoS,1999-11-10,2018-10-30,5.0,None,Remote,Low,Not required,None,None,Partial,OS,SUN,Sunos
+496,CVE-1999-0847,,,Overflow,1999-11-29,2008-09-05,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Freechess.org,Fics Program
+497,CVE-1999-0846,,,DoS,1999-12-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Deerfield,Mdaemon
+498,CVE-1999-0845,,,Overflow,1999-11-25,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SCO,Unixware
+499,CVE-1999-0844,,,DoS,1999-11-24,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Deerfield,Mdaemon
+500,CVE-1999-0843,,,DoS,1999-11-04,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Hardware,Cisco,Router
+501,CVE-1999-0842,,,,1999-11-29,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Symantec,Mail-gear
+502,CVE-1999-0841,,,Overflow +Priv,1999-11-30,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SUN,Sunos
+503,CVE-1999-0840,,,Overflow +Priv,1999-11-30,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SUN,Sunos
+504,CVE-1999-0839,264.0,,'+Priv,1999-11-29,2018-10-12,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Microsoft,IE
+505,CVE-1999-0838,,,DoS Overflow,1999-12-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Deerfield,Serv-u Ftp-server
+506,CVE-1999-0837,,,DoS,1999-11-10,2018-10-30,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,ISC,Bind
+506,CVE-1999-0837,,,DoS,1999-11-10,2018-10-30,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,SUN,Solaris
+506,CVE-1999-0837,,,DoS,1999-11-10,2018-10-30,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,SUN,Sunos
+507,CVE-1999-0835,,,DoS,1999-11-10,2018-10-30,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,IBM,AIX
+507,CVE-1999-0835,,,DoS,1999-11-10,2018-10-30,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,SCO,Openserver
+507,CVE-1999-0835,,,DoS,1999-11-10,2018-10-30,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,SCO,Unixware
+507,CVE-1999-0835,,,DoS,1999-11-10,2018-10-30,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,SUN,Sunos
+508,CVE-1999-0834,,,Overflow,1999-12-01,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,RSA,Rsaref
+509,CVE-1999-0833,,,Overflow,1999-11-10,2018-10-30,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,ISC,Bind
+509,CVE-1999-0833,,,Overflow,1999-11-10,2018-10-30,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,OS,SUN,Solaris
+509,CVE-1999-0833,,,Overflow,1999-11-10,2018-10-30,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,OS,SUN,Sunos
+510,CVE-1999-0832,,,Exec Code Overflow,1999-11-09,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,Debian,Debian Linux
+510,CVE-1999-0832,,,Exec Code Overflow,1999-11-09,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,Redhat,Linux
+511,CVE-1999-0831,,,DoS,1999-11-19,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Cobalt,Qube
+511,CVE-1999-0831,,,DoS,1999-11-19,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Debian,Debian Linux
+511,CVE-1999-0831,,,DoS,1999-11-19,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,SUN,Cobalt Raq
+511,CVE-1999-0831,,,DoS,1999-11-19,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Hardware,SUN,Cobalt Raq 2
+511,CVE-1999-0831,,,DoS,1999-11-19,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Hardware,SUN,Cobalt Raq 3i
+511,CVE-1999-0831,,,DoS,1999-11-19,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Suse,Suse Linux
+512,CVE-1999-0830,,,Overflow,1999-11-01,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SCO,Unixware
+513,CVE-1999-0829,,,,1999-11-01,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,HP,Secure Web Console
+514,CVE-1999-0828,,,,1999-12-02,2008-09-09,3.6,None,Local,Low,Not required,Partial,Partial,None,OS,SCO,Unixware
+515,CVE-1999-0827,,,,1999-11-01,2008-09-09,2.6,None,Remote,High,Not required,Partial,None,None,Application,Microsoft,IE
+515,CVE-1999-0827,,,,1999-11-01,2008-09-09,2.6,None,Remote,High,Not required,Partial,None,None,Application,Netscape,Navigator
+516,CVE-1999-0826,,,Overflow +Priv,1999-12-01,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Freebsd,Freebsd
+517,CVE-1999-0825,,,,1999-12-03,2008-09-09,3.6,None,Local,Low,Not required,Partial,Partial,None,OS,SCO,Unixware
+518,CVE-1999-0824,,,,1999-11-30,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows Nt
+519,CVE-1999-0823,,,Overflow +Priv,1999-12-01,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Freebsd,Freebsd
+520,CVE-1999-0822,,,Overflow,1999-11-30,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Qualcomm,Qpopper
+521,CVE-1999-0821,,,'+Priv,1999-11-08,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Freebsd,Freebsd
+522,CVE-1999-0820,,,'+Priv,1999-12-01,2008-09-09,4.6,None,Local,Low,Not required,Partial,Partial,Partial,OS,Freebsd,Freebsd
+523,CVE-1999-0819,,,,1999-12-01,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None,OS,Microsoft,Windows 2000
+523,CVE-1999-0819,,,,1999-12-01,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None,OS,Microsoft,Windows Nt
+524,CVE-1999-0818,,,Overflow,1999-11-20,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SUN,Solaris
+524,CVE-1999-0818,,,Overflow,1999-11-20,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SUN,Sunos
+525,CVE-1999-0817,,,,1999-09-15,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete,Application,University Of Kansas,Lynx
+526,CVE-1999-0815,,,DoS,1999-12-31,2017-10-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Microsoft,Windows Nt
+527,CVE-1999-0814,,,,1999-08-11,2008-09-09,10.0,None,Remote,Low,Not required,Complete,Complete,Complete,OS,Redhat,Linux
+528,CVE-1999-0813,,,'+Priv,1999-08-10,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Infodrom,Cfingerd
+529,CVE-1999-0811,,,Overflow,1999-07-21,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Samba,Samba
+530,CVE-1999-0810,,,DoS,1999-07-21,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete,Application,Samba,Samba
+531,CVE-1999-0809,,,,1999-07-09,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Netscape,Communicator
+532,CVE-1999-0808,,,DoS Exec Code Overflow,1999-12-31,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,ISC,Dhcp Client
+533,CVE-1999-0807,,,,1999-05-01,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Netscape,Directory Server
+534,CVE-1999-0806,,,Overflow,1999-05-10,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SUN,Sunos
+535,CVE-1999-0804,,,DoS,1999-06-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Debian,Debian Linux
+535,CVE-1999-0804,,,DoS,1999-06-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Linux,Linux Kernel
+535,CVE-1999-0804,,,DoS,1999-06-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Redhat,Linux
+535,CVE-1999-0804,,,DoS,1999-06-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Suse,Suse Linux
+536,CVE-1999-0803,,,,1999-05-25,2016-10-17,2.1,None,Local,Low,Not required,None,Partial,None,Application,IBM,Aix Enetwork Firewall
+537,CVE-1999-0802,119.0,,Exec Code Overflow,1999-05-27,2018-10-12,7.6,Admin,Remote,High,Not required,Complete,Complete,Complete,Application,Microsoft,IE
+538,CVE-1999-0801,,,,1999-04-09,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,BMC,Patrol Agent
+539,CVE-1999-0794,59.0,,,1999-10-01,2018-10-12,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Microsoft,Excel
+539,CVE-1999-0794,59.0,,,1999-10-01,2018-10-12,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Microsoft,Office
+540,CVE-1999-0793,,,,1999-11-17,2018-10-12,2.6,None,Remote,High,Not required,Partial,None,None,Application,Microsoft,IE
+541,CVE-1999-0791,,,,1999-10-06,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Hardware,Hybrid Network,Cable Modem
+541,CVE-1999-0791,,,,1999-10-06,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Hybrid Network,Hsmp
+542,CVE-1999-0789,,,Overflow,1999-09-28,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,IBM,AIX
+543,CVE-1999-0788,,,DoS,1999-09-26,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Knox Software,Arkeia
+544,CVE-1999-0787,,,,1999-09-17,2016-10-17,2.1,None,Local,Low,Not required,None,Partial,None,Application,SSH,SSH
+545,CVE-1999-0786,,,,1999-09-22,2018-10-30,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,SUN,Solaris
+545,CVE-1999-0786,,,,1999-09-22,2018-10-30,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,SUN,Sunos
+546,CVE-1999-0785,,,'+Priv,1999-05-11,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,ISC,INN
+547,CVE-1999-0778,,,Overflow,1999-06-25,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Xi Graphics,Accelerated-x Server
+548,CVE-1999-0777,264.0,,,1999-09-23,2018-10-12,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Microsoft,Commercial Internet System
+548,CVE-1999-0777,264.0,,,1999-09-23,2018-10-12,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Microsoft,Internet Information Server
+549,CVE-1999-0776,,,,1999-05-12,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Computer Software Manufaktur,Alibaba
+550,CVE-1999-0775,,,,1999-06-10,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,Cisco,IOS
+551,CVE-1999-0774,,,Overflow,1999-08-31,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Martin Stover,Mars Nwe
+552,CVE-1999-0773,,,Overflow,1999-05-11,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SUN,Solaris
+552,CVE-1999-0773,,,Overflow,1999-05-11,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SUN,Sunos
+553,CVE-1999-0772,,,DoS,1999-06-01,2008-09-09,6.4,None,Remote,Low,Not required,Partial,None,Partial,Application,Compaq,Insight Management Agent
+553,CVE-1999-0772,,,DoS,1999-06-01,2008-09-09,6.4,None,Remote,Low,Not required,Partial,None,Partial,Application,Compaq,Power Management
+554,CVE-1999-0771,,,,1999-05-26,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Compaq,Insight Management Agent
+554,CVE-1999-0771,,,,1999-05-26,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Compaq,Power Management
+555,CVE-1999-0770,,,DoS,1999-07-29,2008-09-09,2.1,None,Local,Low,Not required,None,None,Partial,Application,Checkpoint,Firewall-1
+556,CVE-1999-0769,,,,1999-08-25,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Caldera,Openlinux
+556,CVE-1999-0769,,,,1999-08-25,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Debian,Debian Linux
+556,CVE-1999-0769,,,,1999-08-25,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Paul Vixie,Vixie Cron
+556,CVE-1999-0769,,,,1999-08-25,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Redhat,Linux
+557,CVE-1999-0768,,,Overflow,1999-08-25,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,Redhat,Linux
+557,CVE-1999-0768,,,Overflow,1999-08-25,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,Suse,Suse Linux
+558,CVE-1999-0767,,,Overflow,1999-09-08,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SUN,Solaris
+558,CVE-1999-0767,,,Overflow,1999-09-08,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SUN,Sunos
+559,CVE-1999-0766,16.0,,Exec Code,1999-10-21,2018-10-12,9.3,Admin,Remote,Medium,Not required,Complete,Complete,Complete,Application,Microsoft,IE
+559,CVE-1999-0766,16.0,,Exec Code,1999-10-21,2018-10-12,9.3,Admin,Remote,Medium,Not required,Complete,Complete,Complete,Application,Microsoft,Java Virtual Machine
+560,CVE-1999-0765,,,,1999-05-19,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,SGI,Irix
+561,CVE-1999-0764,,,,1999-05-01,2008-09-09,6.4,None,Remote,Low,Not required,None,Partial,Partial,OS,Netbsd,Netbsd
+562,CVE-1999-0763,,,,1999-05-01,2008-09-09,6.4,None,Remote,Low,Not required,None,Partial,Partial,OS,Netbsd,Netbsd
+563,CVE-1999-0762,,,,1999-05-24,2008-09-09,2.6,None,Remote,High,Not required,Partial,None,None,Application,Netscape,Communicator
+563,CVE-1999-0762,,,,1999-05-24,2008-09-09,2.6,None,Remote,High,Not required,Partial,None,None,Application,Netscape,Navigator
+564,CVE-1999-0759,,,Overflow,1999-09-13,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Fuseware,Fusemail
+565,CVE-1999-0755,255.0,,,1999-05-27,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None,OS,Microsoft,Windows 2000
+565,CVE-1999-0755,255.0,,,1999-05-27,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None,OS,Microsoft,Windows Nt
+566,CVE-1999-0754,,,'+Priv,1999-05-11,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,ISC,INN
+567,CVE-1999-0753,,,,1999-08-17,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Hughes,Msql
+568,CVE-1999-0752,,,DoS Overflow,1999-07-06,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Netscape,Enterprise Server
+569,CVE-1999-0751,,,Overflow,1999-09-13,2018-05-02,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Netscape,Enterprise Server
+570,CVE-1999-0750,,,Exec Code,1999-09-13,2008-09-09,5.1,User,Remote,High,Not required,Partial,Partial,Partial,Application,Microsoft,Hotmail
+571,CVE-1999-0749,,,Overflow,1999-08-16,2018-10-12,2.6,None,Remote,High,Not required,None,Partial,None,OS,Microsoft,Windows 95
+571,CVE-1999-0749,,,Overflow,1999-08-16,2018-10-12,2.6,None,Remote,High,Not required,None,Partial,None,OS,Microsoft,Windows 98
+572,CVE-1999-0748,,,Overflow,1999-06-24,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,Redhat,Linux
+573,CVE-1999-0747,,,DoS,1999-08-18,2008-09-09,2.1,None,Local,Low,Not required,None,None,Partial,OS,Bsdi,Bsd Os
+574,CVE-1999-0746,,,DoS,1999-08-16,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Slackware,Slackware Linux
+574,CVE-1999-0746,,,DoS,1999-08-16,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Suse,Suse Linux
+575,CVE-1999-0745,,,Overflow,1999-08-18,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,IBM,AIX
+576,CVE-1999-0743,,,,1999-08-20,2018-05-02,2.1,None,Local,Low,Not required,None,Partial,None,OS,Debian,Debian Linux
+577,CVE-1999-0742,,,'+Priv,1999-06-22,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,OS,Debian,Debian Linux
+578,CVE-1999-0741,,,,1999-08-19,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,QMS,Crownnet Unix Utilities
+579,CVE-1999-0740,,,DoS,1999-08-19,2008-09-09,6.4,None,Remote,Low,Not required,Partial,None,Partial,OS,Redhat,Linux
+580,CVE-1999-0739,,,,1999-05-07,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Microsoft,Internet Information Server
+581,CVE-1999-0738,,,,1999-05-07,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Microsoft,Internet Information Server
+582,CVE-1999-0737,,,,1999-05-07,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Microsoft,Internet Information Server
+583,CVE-1999-0736,,,,1999-05-07,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Microsoft,Internet Information Server
+584,CVE-1999-0734,,,,1999-08-19,2019-10-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Cisco,Ciscosecure
+585,CVE-1999-0733,,,Overflow,1999-06-26,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Vmware,Workstation
+586,CVE-1999-0732,,,,1999-08-19,2016-09-16,2.1,None,Local,Low,Not required,None,Partial,None,OS,Debian,Debian Linux
+587,CVE-1999-0731,,,,1999-06-23,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Caldera,Openlinux
+588,CVE-1999-0730,,,,1999-06-12,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete,OS,Debian,Debian Linux
+589,CVE-1999-0728,264.0,,,1999-07-06,2018-10-12,7.8,None,Remote,Low,Not required,None,None,Complete,OS,Microsoft,Windows Nt
+590,CVE-1999-0727,,,,1999-08-06,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,OS,Openbsd,Openbsd
+591,CVE-1999-0726,20.0,,DoS,1999-06-30,2018-10-12,7.8,None,Remote,Low,Not required,None,None,Complete,OS,Microsoft,Windows 2000
+591,CVE-1999-0726,20.0,,DoS,1999-06-30,2018-10-12,7.8,None,Remote,Low,Not required,None,None,Complete,OS,Microsoft,Windows Nt
+592,CVE-1999-0725,16.0,,,1999-08-19,2018-10-12,7.1,None,Remote,Medium,Not required,Complete,None,None,Application,Microsoft,Internet Information Server
+593,CVE-1999-0724,,,Overflow,1999-08-12,2008-09-09,4.6,None,Local,Low,Not required,Partial,Partial,Partial,OS,Openbsd,Openbsd
+594,CVE-1999-0723,,,DoS,1999-06-23,2018-10-12,7.1,None,Remote,Medium,Not required,None,None,Complete,OS,Microsoft,Windows 2000
+594,CVE-1999-0723,,,DoS,1999-06-23,2018-10-12,7.1,None,Remote,Medium,Not required,None,None,Complete,OS,Microsoft,Windows Nt
+595,CVE-1999-0722,,,,1999-08-08,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Hardware,SUN,Cobalt Raq 2
+596,CVE-1999-0721,20.0,,DoS,1999-07-20,2018-10-12,7.8,None,Remote,Low,Not required,None,None,Complete,OS,Microsoft,Windows 2000
+596,CVE-1999-0721,20.0,,DoS,1999-07-20,2018-10-12,7.8,None,Remote,Low,Not required,None,None,Complete,OS,Microsoft,Windows Nt
+597,CVE-1999-0720,,,,1999-08-23,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Linux,Linux Kernel
+598,CVE-1999-0719,,,Exec Code,1999-08-05,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,GNU,Gnumeric
+599,CVE-1999-0717,,,,1999-05-07,2018-10-12,2.6,None,Remote,High,Not required,None,Partial,None,Application,Microsoft,Excel
+599,CVE-1999-0717,,,,1999-05-07,2018-10-12,2.6,None,Remote,High,Not required,None,Partial,None,OS,Microsoft,Windows 2000
+599,CVE-1999-0717,,,,1999-05-07,2018-10-12,2.6,None,Remote,High,Not required,None,Partial,None,OS,Microsoft,Windows 95
+599,CVE-1999-0717,,,,1999-05-07,2018-10-12,2.6,None,Remote,High,Not required,None,Partial,None,OS,Microsoft,Windows 98
+599,CVE-1999-0717,,,,1999-05-07,2018-10-12,2.6,None,Remote,High,Not required,None,Partial,None,OS,Microsoft,Windows Nt
+600,CVE-1999-0716,,,Overflow,1999-05-17,2018-10-12,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows 2000
+600,CVE-1999-0716,,,Overflow,1999-05-17,2018-10-12,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows Nt
+601,CVE-1999-0715,,,DoS Exec Code Overflow,1999-05-20,2018-10-12,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows 2000
+601,CVE-1999-0715,,,DoS Exec Code Overflow,1999-05-20,2018-10-12,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows Nt
+602,CVE-1999-0714,,,,1999-02-15,2008-09-09,2.1,None,Local,Low,Not required,Partial,None,None,OS,Digital,Unix
+603,CVE-1999-0713,,,'+Priv,1999-06-11,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,CDE,CDE
+603,CVE-1999-0713,,,'+Priv,1999-06-11,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Digital,Unix
+603,CVE-1999-0713,,,'+Priv,1999-06-11,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,MIT,Kerberos
+603,CVE-1999-0713,,,'+Priv,1999-06-11,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Transarc,AFS
+604,CVE-1999-0712,,,,1999-04-27,2008-09-09,2.1,None,Local,Low,Not required,Partial,None,None,Application,Caldera,Coas
+604,CVE-1999-0712,,,,1999-04-27,2008-09-09,2.1,None,Local,Low,Not required,Partial,None,None,OS,Caldera,Openlinux
+605,CVE-1999-0711,,,Exec Code,1999-04-29,2016-10-17,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Oracle,Oracle8i
+606,CVE-1999-0710,,,,1999-07-25,2018-05-02,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,Redhat,Linux
+607,CVE-1999-0708,,,Overflow +Priv,1999-09-21,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Infodrom,Cfingerd
+608,CVE-1999-0707,,,,1999-07-01,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,HP,Hp-ux
+608,CVE-1999-0707,,,,1999-07-01,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,HP,Visualize Conference Ftp
+609,CVE-1999-0705,,,Overflow,1999-09-01,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,ISC,INN
+609,CVE-1999-0705,,,Overflow,1999-09-01,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,Redhat,Linux
+610,CVE-1999-0704,,,Overflow,1999-09-16,2008-09-09,9.3,Admin,Remote,Medium,Not required,Complete,Complete,Complete,OS,Bsdi,Bsd Os
+610,CVE-1999-0704,,,Overflow,1999-09-16,2008-09-09,9.3,Admin,Remote,Medium,Not required,Complete,Complete,Complete,OS,Freebsd,Freebsd
+610,CVE-1999-0704,,,Overflow,1999-09-16,2008-09-09,9.3,Admin,Remote,Medium,Not required,Complete,Complete,Complete,OS,Redhat,Linux
+611,CVE-1999-0703,,,,1999-08-03,2008-09-09,3.6,None,Local,Low,Not required,None,Partial,Partial,OS,Bsdi,Bsd Os
+611,CVE-1999-0703,,,,1999-08-03,2008-09-09,3.6,None,Local,Low,Not required,None,Partial,Partial,OS,Freebsd,Freebsd
+611,CVE-1999-0703,,,,1999-08-03,2008-09-09,3.6,None,Local,Low,Not required,None,Partial,Partial,OS,Openbsd,Openbsd
+612,CVE-1999-0702,94.0,,,1999-09-10,2018-10-12,10.0,None,Remote,Low,Not required,Complete,Complete,Complete,Application,Microsoft,IE
+613,CVE-1999-0700,119.0,,Overflow,1999-07-29,2018-10-12,6.2,None,Local,High,Not required,Complete,Complete,Complete,OS,Microsoft,Windows 2000
+613,CVE-1999-0700,119.0,,Overflow,1999-07-29,2018-10-12,6.2,None,Local,High,Not required,Complete,Complete,Complete,OS,Microsoft,Windows Nt
+615,CVE-1999-0697,,,'+Priv,1999-09-09,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SCO,Openserver
+616,CVE-1999-0696,,,Overflow,1999-07-01,2018-10-30,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,HP,Hp-ux
+616,CVE-1999-0696,,,Overflow,1999-07-01,2018-10-30,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,SUN,Solaris
+616,CVE-1999-0696,,,Overflow,1999-07-01,2018-10-30,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,SUN,Sunos
+617,CVE-1999-0694,,,DoS,1999-08-11,2008-09-09,2.1,None,Local,Low,Not required,None,None,Partial,OS,IBM,AIX
+618,CVE-1999-0692,,,'+Priv,1999-07-19,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,Cray,Unicos
+618,CVE-1999-0692,,,'+Priv,1999-07-19,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,SGI,Irix
+619,CVE-1999-0691,,,Overflow +Priv,1999-09-13,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,CDE,CDE
+619,CVE-1999-0691,,,Overflow +Priv,1999-09-13,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Digital,Unix
+619,CVE-1999-0691,,,Overflow +Priv,1999-09-13,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,IBM,AIX
+619,CVE-1999-0691,,,Overflow +Priv,1999-09-13,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SUN,Solaris
+619,CVE-1999-0691,,,Overflow +Priv,1999-09-13,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SUN,Sunos
+620,CVE-1999-0690,,,,1999-07-01,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,CDE,CDE
+620,CVE-1999-0690,,,,1999-07-01,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,HP,Hp-ux
+621,CVE-1999-0689,,,Exec Code,1999-09-13,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,CDE,CDE
+621,CVE-1999-0689,,,Exec Code,1999-09-13,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SUN,Solaris
+621,CVE-1999-0689,,,Exec Code,1999-09-13,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SUN,Sunos
+622,CVE-1999-0688,,,Overflow,1999-07-01,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,HP,Hp-ux
+623,CVE-1999-0687,,,Exec Code,1999-09-13,2018-10-30,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,CDE,CDE
+623,CVE-1999-0687,,,Exec Code,1999-09-13,2018-10-30,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,Digital,Unix
+623,CVE-1999-0687,,,Exec Code,1999-09-13,2018-10-30,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,IBM,AIX
+623,CVE-1999-0687,,,Exec Code,1999-09-13,2018-10-30,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,SUN,Solaris
+623,CVE-1999-0687,,,Exec Code,1999-09-13,2018-10-30,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,SUN,Sunos
+624,CVE-1999-0686,,,DoS,1999-05-07,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,HP,Hp-ux
+624,CVE-1999-0686,,,DoS,1999-05-07,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Netscape,Enterprise Server
+625,CVE-1999-0685,,,Overflow,1999-09-02,2008-09-09,5.1,User,Remote,High,Not required,Partial,Partial,Partial,Application,Netscape,Communicator
+626,CVE-1999-0684,,,DoS,1999-04-19,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,HP,Sendmail
+627,CVE-1999-0683,,,DoS,1999-07-30,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Network Associates,Gauntlet Firewall
+628,CVE-1999-0682,,,,1999-08-06,2018-10-12,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Microsoft,Exchange Server
+629,CVE-1999-0680,287.0,,DoS,1999-08-09,2018-10-12,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Microsoft,Terminal Server
+630,CVE-1999-0679,,,Exec Code Overflow,1999-08-13,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Hybrid Network,Hybrid Ircd
+631,CVE-1999-0678,,,,1999-01-17,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Apache,Http Server
+631,CVE-1999-0678,,,,1999-01-17,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,OS,Debian,Debian Linux
+632,CVE-1999-0677,,,,1999-08-03,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Hardware,Ramp Networks,Webramp 200i
+632,CVE-1999-0677,,,,1999-08-03,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Hardware,Ramp Networks,Webramp M3
+633,CVE-1999-0676,,,,1999-08-09,2018-10-30,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,SUN,Solaris
+633,CVE-1999-0676,,,,1999-08-09,2018-10-30,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,SUN,Sunos
+634,CVE-1999-0675,,,DoS,1999-08-09,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Checkpoint,Firewall-1
+635,CVE-1999-0674,,,,1999-08-09,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Netbsd,Netbsd
+635,CVE-1999-0674,,,,1999-08-09,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Openbsd,Openbsd
+635,CVE-1999-0674,,,,1999-08-09,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SUN,Solaris
+635,CVE-1999-0674,,,,1999-08-09,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SUN,Sunos
+636,CVE-1999-0673,,,Overflow,1999-08-08,2008-09-09,5.1,User,Remote,High,Not required,Partial,Partial,Partial,Application,Crear,Almail32
+637,CVE-1999-0672,,,Overflow,1999-08-01,2008-09-09,5.1,User,Remote,High,Not required,Partial,Partial,Partial,Application,Fujitsu,Chocoa
+638,CVE-1999-0671,,,Overflow,1999-08-03,2008-09-09,5.1,User,Remote,High,Not required,Partial,Partial,Partial,Application,Toxsoft,Nextftp
+639,CVE-1999-0670,,,Exec Code Overflow,1999-09-01,2018-10-12,4.0,None,Remote,High,Not required,Partial,Partial,None,Application,Microsoft,IE
+640,CVE-1999-0669,,,Exec Code,1999-09-01,2008-09-09,4.0,None,Remote,High,Not required,Partial,Partial,None,Application,Microsoft,IE
+641,CVE-1999-0668,,,Exec Code,1999-08-21,2018-10-12,5.1,None,Remote,High,Not required,Partial,Partial,Partial,Application,Microsoft,IE
+648,CVE-1999-0656,16.0,,,1999-01-01,2017-07-10,5.0,None,Remote,Low,Not required,Partial,None,None,OS,Linux,Linux Kernel
+668,CVE-1999-0610,,,,1999-04-01,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Mountain Network Systems,Webcart
+669,CVE-1999-0609,,,,1999-04-01,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Mercantec,Softcart
+670,CVE-1999-0608,,,,1999-04-01,2017-10-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Pdgsoft,Pdg Shopping Cart
+671,CVE-1999-0607,,,'+Priv,1999-04-20,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None,Application,I-soft,Quikstore
+672,CVE-1999-0606,200.0,,'+Info,1999-04-01,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Seaside Enterprises,Ezmall
+673,CVE-1999-0605,200.0,,'+Info,1999-04-01,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Austin Contract Computing,Merchant Order Form
+674,CVE-1999-0604,,,,1999-04-20,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Selena Sol,Selena Sol Webstore
+684,CVE-1999-0593,,,,1999-01-01,2017-07-10,4.9,None,Local,Low,Not required,None,None,Complete,OS,Microsoft,Windows Nt
+693,CVE-1999-0581,,,,1999-01-01,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete,OS,Microsoft,Windows Nt
+695,CVE-1999-0579,,,,1999-01-01,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete,OS,Microsoft,Windows Nt
+696,CVE-1999-0578,,,,1999-01-01,2008-09-05,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows Nt
+697,CVE-1999-0577,,,,1999-01-01,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete,OS,Microsoft,Windows Nt
+699,CVE-1999-0570,,,,1999-01-01,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete,OS,Microsoft,Windows Nt
+701,CVE-1999-0568,,,,1999-01-01,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete,OS,SUN,Solaris
+705,CVE-1999-0560,,,,1999-01-01,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete,OS,Microsoft,Windows Nt
+710,CVE-1999-0549,,,,1999-01-01,2008-09-05,7.2,None,Local,Low,Not required,Complete,Complete,Complete,OS,Microsoft,Windows Nt
+724,CVE-1999-0493,,,,1999-06-07,2018-10-30,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,OS,SUN,Solaris
+724,CVE-1999-0493,,,,1999-06-07,2018-10-30,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,OS,SUN,Sunos
+726,CVE-1999-0491,94.0,,Exec Code,1999-04-20,2014-12-31,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,GNU,Bash
+727,CVE-1999-0490,,,,1999-04-21,2018-10-12,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Microsoft,IE
+728,CVE-1999-0489,,,,1999-05-17,2018-10-12,10.0,None,Remote,Low,Not required,Complete,Complete,Complete,OS,Microsoft,Windows Nt
+729,CVE-1999-0488,,,,1999-04-21,2018-10-12,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Microsoft,IE
+730,CVE-1999-0487,,,,1999-05-01,2018-10-12,2.6,None,Remote,High,Not required,Partial,None,None,Application,Microsoft,IE
+731,CVE-1999-0485,,,,1999-02-19,2008-09-09,2.6,None,Remote,High,Not required,None,None,Partial,OS,Openbsd,Openbsd
+732,CVE-1999-0484,,,Overflow,1999-02-23,2008-09-09,2.1,None,Local,Low,Not required,None,Partial,None,OS,Openbsd,Openbsd
+733,CVE-1999-0483,,,,1999-02-25,2008-09-09,2.1,None,Local,Low,Not required,None,None,Partial,OS,Openbsd,Openbsd
+734,CVE-1999-0482,,,,1999-03-21,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Openbsd,Openbsd
+735,CVE-1999-0481,,,DoS,1999-03-22,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Openbsd,Openbsd
+736,CVE-1999-0480,,,DoS,1999-04-01,2008-09-09,2.1,None,Local,Low,Not required,None,None,Partial,Application,Midnight Commander,Midnight Commander
+737,CVE-1999-0479,,,DoS,1999-03-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,HP,Hp-ux
+737,CVE-1999-0479,,,DoS,1999-03-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Netscape,Enterprise Server
+738,CVE-1999-0477,,,,1999-12-25,2008-09-05,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Allaire,Coldfusion Server
+739,CVE-1999-0476,,,,1999-03-01,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SCO,Openserver
+740,CVE-1999-0475,,,,1999-04-05,2008-09-09,1.2,None,Local,High,Not required,Partial,None,None,Application,Procmail,Procmail
+741,CVE-1999-0474,,,,1999-04-05,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Mirabilis,ICQ
+742,CVE-1999-0473,,,,1999-04-07,2008-09-09,2.1,None,Local,Low,Not required,None,Partial,None,Application,Andrew Tridgell,Rsync
+743,CVE-1999-0472,,,,1999-04-07,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,Hardware,Network Appliance,Netcache
+743,CVE-1999-0472,,,,1999-04-07,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Snmp,Snmp
+744,CVE-1999-0471,,,,1999-04-09,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Winroute,Winroute
+745,CVE-1999-0470,,,,1999-04-09,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,OS,Novell,Netware
+746,CVE-1999-0469,,,,1999-04-01,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Microsoft,IE
+747,CVE-1999-0468,,,,1999-04-09,2018-10-12,2.6,None,Remote,High,Not required,Partial,None,None,Application,Microsoft,IE
+748,CVE-1999-0467,,,,1999-04-01,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Webcom,Cgi Guestbook
+749,CVE-1999-0466,,,,1999-04-21,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Netbsd,Netbsd
+751,CVE-1999-0464,,,DoS,1999-01-04,2016-10-17,2.1,None,Local,Low,Not required,None,None,Partial,Application,Tripwire,Tripwire
+752,CVE-1999-0462,,,,1999-03-17,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Suse,Suse Linux
+753,CVE-1999-0461,,,,1999-01-28,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,Linux,Linux Kernel
+753,CVE-1999-0461,,,,1999-01-28,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,SGI,Irix
+754,CVE-1999-0460,,,DoS Overflow,1999-02-19,2008-09-05,2.1,None,Local,Low,Not required,None,None,Partial,OS,Linux,Linux Kernel
+756,CVE-1999-0458,,,,1999-01-06,2008-09-09,2.1,None,Local,Low,Not required,Partial,None,None,Application,L0pht,L0phtcrack
+757,CVE-1999-0457,,,'+Priv,1999-01-17,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Debian,Debian Linux
+758,CVE-1999-0455,,,,1999-12-25,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Allaire,Coldfusion Server
+760,CVE-1999-0453,200.0,,'+Info,1999-01-01,2008-09-05,5.0,None,Remote,Low,Not required,Partial,None,None,Hardware,Cisco,Router
+762,CVE-1999-0451,,,DoS,1999-01-19,2008-09-05,2.1,None,Local,Low,Not required,None,None,Partial,OS,Linux,Linux Kernel
+763,CVE-1999-0450,,,,1999-01-26,2018-10-30,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Microsoft,Internet Information Server
+763,CVE-1999-0450,,,,1999-01-26,2018-10-30,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Microsoft,Internet Information Services
+764,CVE-1999-0449,,,DoS,1999-01-26,2008-09-09,7.8,None,Remote,Low,Not required,None,None,Complete,Application,Microsoft,Internet Information Server
+765,CVE-1999-0448,,,,1999-01-01,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Microsoft,Internet Information Server
+766,CVE-1999-0447,,,'+Priv,1999-04-01,2013-07-23,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,HP,Mpe Ix
+767,CVE-1999-0446,,,DoS,1999-04-12,2008-09-09,2.1,None,Local,Low,Not required,None,None,Partial,OS,Netbsd,Netbsd
+768,CVE-1999-0445,,,,1999-04-01,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,OS,Cisco,IOS
+769,CVE-1999-0444,,,DoS,1999-04-12,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Microsoft,Windows 95
+769,CVE-1999-0444,,,DoS,1999-04-12,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Microsoft,Windows 98
+769,CVE-1999-0444,,,DoS,1999-04-12,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Microsoft,Windows Nt
+770,CVE-1999-0443,,,,1999-04-01,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,BMC,Patrol Agent
+771,CVE-1999-0442,,,,1999-01-07,2018-10-30,2.1,None,Local,Low,Not required,None,Partial,None,OS,SUN,Solaris
+771,CVE-1999-0442,,,,1999-01-07,2018-10-30,2.1,None,Local,Low,Not required,None,Partial,None,OS,SUN,Sunos
+772,CVE-1999-0441,,,DoS Overflow,1999-02-22,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Qbik,Wingate
+773,CVE-1999-0440,,,Exec Code,1999-03-01,2016-10-17,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Netscape,Communicator
+773,CVE-1999-0440,,,Exec Code,1999-03-01,2016-10-17,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Netscape,Navigator
+773,CVE-1999-0440,,,Exec Code,1999-03-01,2016-10-17,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,SUN,Java
+774,CVE-1999-0439,,,Exec Code Overflow,1999-04-05,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,Caldera,Openlinux
+774,CVE-1999-0439,,,Exec Code Overflow,1999-04-05,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Procmail,Procmail
+775,CVE-1999-0438,,,DoS,1999-03-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Hardware,Ramp Networks,Webramp 200i
+775,CVE-1999-0438,,,DoS,1999-03-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Hardware,Ramp Networks,Webramp M3
+776,CVE-1999-0437,,,DoS,1999-03-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Hardware,Ramp Networks,Webramp
+777,CVE-1999-0436,,,'+Priv,1999-03-01,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,HP,Desms
+777,CVE-1999-0436,,,'+Priv,1999-03-01,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,HP,Hp-ux
+778,CVE-1999-0435,,,'+Priv,1999-03-01,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,HP,Hp-ux
+779,CVE-1999-0434,,,DoS +Priv,1999-03-30,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,Caldera,Openlinux
+779,CVE-1999-0434,,,DoS +Priv,1999-03-30,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,Debian,Debian Linux
+779,CVE-1999-0434,,,DoS +Priv,1999-03-30,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,Netbsd,Netbsd
+779,CVE-1999-0434,,,DoS +Priv,1999-03-30,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,Redhat,Linux
+779,CVE-1999-0434,,,DoS +Priv,1999-03-30,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,Suse,Suse Linux
+780,CVE-1999-0433,,,DoS +Priv,1999-03-21,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Netbsd,Netbsd
+780,CVE-1999-0433,,,DoS +Priv,1999-03-21,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Redhat,Linux
+780,CVE-1999-0433,,,DoS +Priv,1999-03-21,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Slackware,Slackware Linux
+780,CVE-1999-0433,,,DoS +Priv,1999-03-21,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Suse,Suse Linux
+780,CVE-1999-0433,,,DoS +Priv,1999-03-21,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Xfree86 Project,X11r6
+781,CVE-1999-0432,,,'+Priv,1999-03-01,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,HP,Hp-ux
+782,CVE-1999-0431,,,DoS,1999-03-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Linux,Linux Kernel
+783,CVE-1999-0430,,,DoS,1999-03-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Cisco,Catalyst 12xx Supervisor Software
+783,CVE-1999-0430,,,DoS,1999-03-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Cisco,Catalyst 29xx Supervisor Software
+783,CVE-1999-0430,,,DoS,1999-03-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Cisco,Catalyst 5xxx Supervisor Software
+784,CVE-1999-0429,,,,1999-03-01,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,IBM,Lotus Notes
+785,CVE-1999-0428,,,Bypass,1999-03-22,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Openssl,Openssl
+785,CVE-1999-0428,,,Bypass,1999-03-22,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Ssleay,Ssleay
+786,CVE-1999-0426,,,,1999-03-01,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,Suse,Suse Linux
+787,CVE-1999-0425,,,,1999-03-18,2008-09-09,6.4,None,Remote,Low,Not required,None,Partial,Partial,Application,Netscape,Communicator
+788,CVE-1999-0424,,,,1999-03-18,2008-09-09,2.1,None,Local,Low,Not required,Partial,None,None,Application,Netscape,Communicator
+789,CVE-1999-0422,,,,1999-03-17,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Netbsd,Netbsd
+790,CVE-1999-0421,,,,1999-03-17,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Slackware,Slackware Linux
+791,CVE-1999-0420,,,'+Priv,1999-03-17,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,Netbsd,Umapfs
+794,CVE-1999-0417,,,DoS,1999-03-09,2018-10-30,2.1,None,Local,Low,Not required,None,None,Partial,OS,SUN,Sunos
+795,CVE-1999-0416,,,,1999-03-11,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Hardware,Cisco,Cisco 7xx Routers
+796,CVE-1999-0415,,,,1999-03-11,2008-09-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Hardware,Cisco,Cisco 7xx Routers
+797,CVE-1999-0414,,,,1999-03-01,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,OS,Linux,Linux Kernel
+798,CVE-1999-0413,,,Overflow,1999-03-01,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SGI,Irix
+799,CVE-1999-0412,,,,1999-02-19,2008-09-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Microsoft,Internet Information Server
+800,CVE-1999-0411,,,,1999-03-07,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SCO,Openserver
+801,CVE-1999-0410,,,Overflow,1999-03-05,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,SUN,Sunos
+802,CVE-1999-0409,,,Overflow,1999-03-04,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Suse,Suse Linux
+803,CVE-1999-0408,,,,1999-02-25,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,SUN,Cobalt Raq
+804,CVE-1999-0407,,,,1999-02-09,2016-10-17,10.0,None,Remote,Low,Not required,Complete,Complete,Complete,Application,Microsoft,Internet Information Server
+805,CVE-1999-0406,,,Overflow,1999-02-19,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Digital,Unix
+806,CVE-1999-0405,,,Overflow,1999-02-18,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Debian,Debian Linux
+806,CVE-1999-0405,,,Overflow,1999-02-18,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Freebsd,Freebsd
+806,CVE-1999-0405,,,Overflow,1999-02-18,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Redhat,Linux
+806,CVE-1999-0405,,,Overflow,1999-02-18,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Suse,Suse Linux
+807,CVE-1999-0404,,,Exec Code Overflow,1999-02-14,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Smartmax Software,Mailmax
+808,CVE-1999-0403,,,DoS,1999-02-01,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,Hardware,Cyrix,Linux
+809,CVE-1999-0402,,,,1999-01-02,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,GNU,Wget
+810,CVE-1999-0401,,,,1999-01-01,2008-09-09,3.7,User,Local,High,Not required,Partial,Partial,Partial,OS,Linux,Linux Kernel
+811,CVE-1999-0400,,,DoS,1999-01-26,2008-09-05,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Linux,Linux Kernel
+812,CVE-1999-0399,,,Exec Code,1999-01-01,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Khaled Mardam-bey,Mirc
+813,CVE-1999-0398,,,,1999-01-01,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,SSH,SSH
+813,CVE-1999-0398,,,,1999-01-01,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,SSH,Ssh2
+815,CVE-1999-0396,,,DoS,1999-02-17,2008-09-09,2.6,None,Remote,High,Not required,None,None,Partial,OS,Netbsd,Netbsd
+815,CVE-1999-0396,,,DoS,1999-02-17,2008-09-09,2.6,None,Remote,High,Not required,None,None,Partial,OS,Openbsd,Openbsd
+816,CVE-1999-0395,,,,1999-01-01,2008-09-09,5.1,None,Remote,High,Not required,Partial,Partial,Partial,Application,Backweb Technologies,Backweb Polite Agent Protocol
+818,CVE-1999-0393,,,DoS,1999-01-01,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Eric Allman,Sendmail
+819,CVE-1999-0392,,,Overflow,1999-01-10,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Thomas Boutell,Cgic Library
+820,CVE-1999-0391,,,,1999-01-05,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Microsoft,Terminal Server
+820,CVE-1999-0391,,,,1999-01-05,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows 2000
+820,CVE-1999-0391,,,,1999-01-05,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows Nt
+821,CVE-1999-0390,,,Overflow,1999-01-04,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Redhat,Linux
+821,CVE-1999-0390,,,Overflow,1999-01-04,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Suse,Suse Linux
+822,CVE-1999-0389,,,Overflow,1999-01-03,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Debian,Debian Linux
+823,CVE-1999-0388,,,Exec Code,1999-01-01,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Datalynx,Suguard
+824,CVE-1999-0387,255.0,,,1999-11-29,2018-10-12,7.8,None,Remote,Low,Not required,Complete,None,None,OS,Microsoft,Windows 95
+824,CVE-1999-0387,255.0,,,1999-11-29,2018-10-12,7.8,None,Remote,Low,Not required,Complete,None,None,OS,Microsoft,Windows 98
+825,CVE-1999-0386,,,,1999-03-01,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Microsoft,Frontpage
+825,CVE-1999-0386,,,,1999-03-01,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Microsoft,Personal Web Server
+826,CVE-1999-0384,,,,1999-01-01,2018-10-12,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Microsoft,Office
+826,CVE-1999-0384,,,,1999-01-01,2018-10-12,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Microsoft,Outlook
+826,CVE-1999-0384,,,,1999-01-01,2018-10-12,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Microsoft,Project
+826,CVE-1999-0384,,,,1999-01-01,2018-10-12,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Microsoft,Visual Basic
+826,CVE-1999-0384,,,,1999-01-01,2018-10-12,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows 2000
+826,CVE-1999-0384,,,,1999-01-01,2018-10-12,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows Nt
+827,CVE-1999-0383,,,,1999-02-02,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,ACC,Tigris
+828,CVE-1999-0382,,,,1999-03-12,2018-10-12,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Microsoft,Windows Nt
+829,CVE-1999-0381,,,Overflow,1999-02-26,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Debian,Debian Linux
+829,CVE-1999-0381,,,Overflow,1999-02-26,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Linux,Linux Kernel
+830,CVE-1999-0380,,,,1999-02-25,2017-10-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial,Application,Seattle Lab Software,Slmail
+831,CVE-1999-0379,,,Exec Code,1999-02-22,2018-10-12,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Microsoft,Backoffice Resource Kit
+832,CVE-1999-0378,,,,1999-02-22,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Trend Micro,Interscan Viruswall
+833,CVE-1999-0377,,,DoS,1999-02-22,2016-12-27,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Unix,Unix
+834,CVE-1999-0376,,,,1999-02-20,2018-10-12,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows Nt
+835,CVE-1999-0375,,,Exec Code Overflow,1999-02-16,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Network Flight Recorder,Network Flight Recorder
+836,CVE-1999-0374,,,,1999-02-16,2008-09-09,2.1,None,Local,Low,Not required,Partial,None,None,OS,Debian,Debian Linux
+837,CVE-1999-0373,,,Exec Code Overflow,1999-02-01,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Debian,Debian Linux
+838,CVE-1999-0372,200.0,,'+Info,1999-02-12,2018-10-12,2.1,None,Local,Low,Not required,Partial,None,None,Application,Microsoft,Backoffice
+838,CVE-1999-0372,200.0,,'+Info,1999-02-12,2018-10-12,2.1,None,Local,Low,Not required,Partial,None,None,OS,Microsoft,Windows 2000
+838,CVE-1999-0372,200.0,,'+Info,1999-02-12,2018-10-12,2.1,None,Local,Low,Not required,Partial,None,None,OS,Microsoft,Windows Nt
+839,CVE-1999-0371,,,,1999-02-11,2008-09-09,1.2,None,Local,High,Not required,Partial,None,None,Application,University Of Kansas,Lynx
+840,CVE-1999-0370,,,,1999-02-10,2018-10-30,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,SUN,Solaris
+840,CVE-1999-0370,,,,1999-02-10,2018-10-30,4.6,User,Local,Low,Not required,Partial,Partial,Partial,OS,SUN,Sunos
+841,CVE-1999-0368,,,Overflow,1999-02-09,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,Caldera,Openlinux
+841,CVE-1999-0368,,,Overflow,1999-02-09,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,Debian,Debian Linux
+841,CVE-1999-0368,,,Overflow,1999-02-09,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Proftpd Project,Proftpd
+841,CVE-1999-0368,,,Overflow,1999-02-09,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,Redhat,Linux
+841,CVE-1999-0368,,,Overflow,1999-02-09,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,SCO,Openserver
+841,CVE-1999-0368,,,Overflow,1999-02-09,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,SCO,Unixware
+841,CVE-1999-0368,,,Overflow,1999-02-09,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,OS,Slackware,Slackware Linux
+841,CVE-1999-0368,,,Overflow,1999-02-09,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete,Application,Washington University,Wu-ftpd
+842,CVE-1999-0367,,,,1999-02-09,2008-09-09,2.1,None,Local,Low,Not required,Partial,None,None,OS,Netbsd,Netbsd
+843,CVE-1999-0366,287.0,,,1999-02-08,2018-10-12,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,OS,Microsoft,Windows Nt
+844,CVE-1999-0365,,,Exec Code,1999-02-04,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Metainfo,Metaip
+844,CVE-1999-0365,,,Exec Code,1999-02-04,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Metainfo,Sendmail
+845,CVE-1999-0364,,,,1999-01-01,2016-10-17,10.0,None,Remote,Low,Not required,Complete,Complete,Complete,Application,Fms Inc.,Total Vb Sourcebook
+845,CVE-1999-0364,,,,1999-01-01,2016-10-17,10.0,None,Remote,Low,Not required,Complete,Complete,Complete,Application,Microsoft,Access
+846,CVE-1999-0363,,,Overflow,1999-02-02,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,Application,PLP,Line Printer Control
+846,CVE-1999-0363,,,Overflow,1999-02-02,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Suse,Suse Linux
+847,CVE-1999-0362,,,DoS,1999-02-02,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Ipswitch,Ws Ftp Server
+849,CVE-1999-0360,,,Exec Code,1999-01-30,2016-10-17,7.2,None,Local,Low,Not required,Complete,Complete,Complete,Application,Microsoft,Site Server
+850,CVE-1999-0358,,,Overflow,1999-02-01,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Digital,Unix
+851,CVE-1999-0357,,,DoS,1999-01-25,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Microsoft,Windows 98
+853,CVE-1999-0355,,,DoS,1999-01-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,CA,Controlit
+854,CVE-1999-0354,,,,1999-11-01,2018-10-12,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Microsoft,IE
+854,CVE-1999-0354,,,,1999-11-01,2018-10-12,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Microsoft,Word
+855,CVE-1999-0353,,,,1999-02-10,2013-09-03,9.3,Admin,Remote,Medium,Not required,Complete,Complete,Complete,OS,HP,Hp-ux
+857,CVE-1999-0351,,,DoS,1999-02-01,2018-05-02,6.4,None,Remote,Low,Not required,Partial,None,Partial,Application,FTP,Ftp Pasv
+858,CVE-1999-0350,,,,1999-02-08,2008-09-09,6.2,Admin,Local,High,Not required,Complete,Complete,Complete,Application,Rational Software,Clearcase
+859,CVE-1999-0349,119.0,,DoS Exec Code Overflow,1999-01-27,2018-10-12,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Microsoft,Internet Information Server
+860,CVE-1999-0348,200.0,,'+Info,1999-01-27,2018-08-13,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Microsoft,Internet Information Server
+862,CVE-1999-0317,,,Overflow,1999-11-25,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete,OS,Linux,Linux Kernel
+863,CVE-1999-0291,,,,1999-02-01,2008-09-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial,Application,Qbik,Wingate
+864,CVE-1999-0289,,,,1999-12-12,2008-09-05,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Apache,Http Server
+865,CVE-1999-0287,,,,1999-04-09,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Webcom,Cgi Guestbook
+867,CVE-1999-0285,,,DoS,1999-01-01,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete,OS,Microsoft,Windows Nt
+869,CVE-1999-0276,,,Overflow,1999-01-01,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial,Application,Hughes,Msql
+870,CVE-1999-0268,,,,1999-01-01,2008-09-09,10.0,None,Remote,Low,Not required,Complete,Complete,Complete,Application,Metainfo,Metaweb
+873,CVE-1999-0248,,,,1999-01-01,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete,Application,SSH,SSH
+876,CVE-1999-0231,,,DoS Overflow,1999-01-01,2008-09-05,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Seattle Lab Software,Slmail
+877,CVE-1999-0229,,,DoS,1999-05-12,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Microsoft,Internet Information Server
+878,CVE-1999-0226,19.0,,DoS,1999-01-01,2017-05-03,10.0,None,Remote,Low,Not required,Complete,Complete,Complete,OS,Microsoft,Windows Nt
+879,CVE-1999-0224,,,DoS,1999-07-23,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,OS,Microsoft,Windows Nt
+880,CVE-1999-0223,,,,1999-03-01,2018-10-30,2.1,None,Local,Low,Not required,None,None,Partial,OS,SUN,Sunos
+881,CVE-1999-0222,,,DoS,1999-03-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Hardware,Cisco,Router
+882,CVE-1999-0221,,,DoS,1999-03-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Hardware,Lucent,Ascend Routers
+884,CVE-1999-0205,,,DoS,1999-01-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,Application,Eric Allman,Sendmail
+889,CVE-1999-0154,,,,1999-12-31,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None,Application,Microsoft,Internet Information Server
+890,CVE-1999-0140,,,DoS,1999-06-30,2008-09-05,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Microsoft,Windows Nt
+892,CVE-1999-0119,,,,1999-01-19,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete,OS,Microsoft,Windows Nt
+893,CVE-1999-0063,,,,1999-01-11,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Cisco,IOS
+894,CVE-1999-0001,20.0,,DoS,1999-12-30,2010-12-16,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Bsdi,Bsd Os
+894,CVE-1999-0001,20.0,,DoS,1999-12-30,2010-12-16,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Freebsd,Freebsd
+894,CVE-1999-0001,20.0,,DoS,1999-12-30,2010-12-16,5.0,None,Remote,Low,Not required,None,None,Partial,OS,Openbsd,Openbsd

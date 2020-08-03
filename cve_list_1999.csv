@@ -1,0 +1,895 @@
+﻿#,CVE ID,CWE ID,# of Exploits,Vulnerability Type(s),Publish Date,Update Date,Score,Gained Access Level,Access,Complexity,Authentication,Conf.,Integ.,Avail.
+1,CVE-2001-0679,,,Exec Code Overflow,1999-11-08,2017-12-18,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+2,CVE-2000-1206,,,,1999-08-20,2008-09-10,5.0,None,Remote,Low,Not required,Partial,None,None
+3,CVE-2000-0531,,,DoS,1999-11-23,2017-12-18,2.1,None,Local,Low,Not required,None,None,Partial
+4,CVE-2000-0489,,,DoS,1999-09-05,2017-10-09,2.1,None,Local,Low,Not required,None,None,Partial
+5,CVE-2000-0481,,,DoS Overflow,1999-06-01,2017-10-09,5.0,None,Remote,Low,Not required,None,None,Partial
+6,CVE-2000-0412,,,,1999-05-01,2008-09-10,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+7,CVE-2000-0374,,,Bypass +Info,1999-08-22,2017-10-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+8,CVE-2000-0373,,,'+Priv,1999-06-01,2017-10-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+9,CVE-2000-0371,,,,1999-03-01,2008-09-10,1.2,None,Local,High,Not required,None,Partial,None
+10,CVE-2000-0370,,,Exec Code,1999-01-29,2008-09-10,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+11,CVE-2000-0369,,,DoS,1999-10-08,2008-09-10,5.0,None,Remote,Low,Not required,None,None,Partial
+12,CVE-2000-0367,,,'+Priv,1999-02-18,2008-09-10,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+13,CVE-2000-0366,,,,1999-12-02,2008-09-10,2.1,None,Local,Low,Not required,None,Partial,None
+14,CVE-2000-0365,,,,1999-06-01,2016-10-17,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+15,CVE-2000-0364,,,,1999-06-01,2016-10-17,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+16,CVE-2000-0363,,,'+Priv,1999-10-22,2008-09-10,6.2,Admin,Local,High,Not required,Complete,Complete,Complete
+17,CVE-2000-0362,,,Overflow +Priv,1999-10-22,2008-09-10,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+18,CVE-2000-0361,,,,1999-12-14,2008-09-10,2.1,None,Local,Low,Not required,Partial,None,None
+19,CVE-2000-0358,,,,1999-12-03,2008-09-10,5.0,None,Remote,Low,Not required,None,None,Partial
+20,CVE-2000-0357,,,,1999-12-03,2008-09-10,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+21,CVE-2000-0356,,,,1999-10-13,2008-09-10,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+22,CVE-2000-0355,,,,1999-08-21,2008-09-10,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+23,CVE-2000-0353,,,Exec Code,1999-06-28,2008-09-10,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+24,CVE-2000-0352,,,Exec Code,1999-11-18,2008-09-10,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+25,CVE-2000-0333,,,DoS,1999-05-31,2008-09-10,5.0,None,Remote,Low,Not required,None,None,Partial
+26,CVE-2000-0330,,,Exec Code,1999-11-12,2018-10-12,7.6,Admin,Remote,High,Not required,Complete,Complete,Complete
+27,CVE-2000-0329,,,,1999-11-11,2018-10-12,5.1,User,Remote,High,Not required,Partial,Partial,Partial
+28,CVE-2000-0328,,,,1999-08-24,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None
+29,CVE-2000-0327,,,Exec Code,1999-10-21,2018-10-12,7.6,Admin,Remote,High,Not required,Complete,Complete,Complete
+30,CVE-2000-0325,,,Exec Code,1999-08-20,2018-10-12,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+31,CVE-2000-0323,,,,1999-07-28,2018-10-15,7.6,Admin,Remote,High,Not required,Complete,Complete,Complete
+32,CVE-2000-0165,,,Exec Code Overflow,1999-11-13,2018-05-02,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+33,CVE-2000-0153,,,,1999-03-26,2008-09-10,5.0,None,Remote,Low,Not required,Partial,None,None
+34,CVE-2000-0139,,,DoS,1999-12-03,2016-10-17,2.1,None,Local,Low,Not required,None,None,Partial
+35,CVE-2000-0119,,,,1999-12-22,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+36,CVE-2000-0118,,,,1999-06-09,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+37,CVE-2000-0100,,,'+Priv,1999-12-29,2018-10-12,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+38,CVE-2000-0076,,,,1999-12-30,2016-10-17,2.1,None,Local,Low,Not required,None,Partial,None
+39,CVE-2000-0073,,,DoS Overflow,1999-11-17,2018-10-12,5.0,None,Remote,Low,Not required,None,None,Partial
+40,CVE-2000-0068,,,,1999-12-14,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+41,CVE-2000-0060,,,DoS Overflow,1999-12-27,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial
+42,CVE-2000-0054,,,,1999-01-03,2008-09-10,5.0,None,Remote,Low,Not required,Partial,None,None
+43,CVE-2000-0047,,,DoS Overflow,1999-10-01,2008-09-10,5.0,None,Remote,Low,Not required,None,None,Partial
+44,CVE-2000-0043,,,Exec Code Overflow,1999-12-30,2008-09-10,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+45,CVE-2000-0042,,,DoS Exec Code Overflow,1999-12-29,2008-09-10,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+46,CVE-2000-0041,,,,1999-12-28,2008-09-10,5.0,None,Remote,Low,Not required,None,None,Partial
+47,CVE-2000-0040,,,'+Priv,1999-12-23,2008-09-10,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+48,CVE-2000-0039,,,,1999-12-29,2008-09-10,5.0,None,Remote,Low,Not required,Partial,None,None
+49,CVE-2000-0038,,,,1999-12-23,2008-09-10,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+50,CVE-2000-0037,,,'+Priv,1999-12-28,2016-10-17,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+51,CVE-2000-0036,,,,1999-12-22,2018-10-12,5.0,None,Remote,Low,Not required,None,Partial,None
+52,CVE-2000-0035,,,'+Priv,1999-12-28,2016-10-17,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+53,CVE-2000-0034,,,,1999-12-22,2008-09-10,5.0,None,Remote,Low,Not required,Partial,None,None
+54,CVE-2000-0033,,,,1999-12-27,2008-09-10,5.0,None,Remote,Low,Not required,None,Partial,None
+55,CVE-2000-0032,,,,1999-12-22,2018-10-30,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+56,CVE-2000-0030,,,,1999-12-22,2018-10-30,5.0,None,Remote,Low,Not required,None,None,Partial
+57,CVE-2000-0029,,,'+Priv,1999-12-27,2016-10-17,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+58,CVE-2000-0028,,,Bypass,1999-12-23,2008-09-10,2.6,None,Remote,High,Not required,Partial,None,None
+59,CVE-2000-0027,,,'+Priv,1999-12-27,2008-09-10,6.2,Admin,Local,High,Not required,Complete,Complete,Complete
+60,CVE-2000-0026,,,Overflow,1999-12-21,2016-10-17,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+61,CVE-2000-0025,,,,1999-12-21,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None
+62,CVE-2000-0024,,,Bypass,1999-12-21,2018-10-12,6.4,None,Remote,Low,Not required,Partial,Partial,None
+63,CVE-2000-0023,,,DoS Overflow,1999-12-21,2008-09-10,5.0,None,Remote,Low,Not required,None,None,Partial
+64,CVE-2000-0022,,,,1999-12-21,2008-09-10,5.0,None,Remote,Low,Not required,Partial,None,None
+65,CVE-2000-0021,,,,1999-12-01,2008-09-10,5.0,None,Remote,Low,Not required,Partial,None,None
+66,CVE-2000-0020,,,DoS,1999-12-20,2008-09-10,5.0,None,Remote,Low,Not required,None,None,Partial
+67,CVE-2000-0019,,,,1999-03-04,2008-09-10,2.1,None,Local,Low,Not required,Partial,None,None
+68,CVE-2000-0018,,,'+Priv,1999-12-22,2008-09-10,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+69,CVE-2000-0017,,,Overflow +Priv,1999-12-21,2008-09-10,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+70,CVE-2000-0016,,,DoS Exec Code Overflow,1999-10-01,2008-09-10,5.0,None,Remote,Low,Not required,None,None,Partial
+71,CVE-2000-0015,,,'+Priv,1999-12-31,2008-09-10,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+72,CVE-2000-0014,,,DoS,1999-12-28,2008-09-10,5.0,None,Remote,Low,Not required,None,None,Partial
+73,CVE-2000-0013,,,'+Priv,1999-12-31,2008-09-10,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+74,CVE-2000-0012,,,Exec Code Overflow,1999-12-27,2008-09-10,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+75,CVE-2000-0011,,,Exec Code Overflow,1999-12-31,2008-09-10,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+76,CVE-2000-0010,,,Exec Code,1999-12-26,2008-09-10,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+77,CVE-2000-0009,,,Exec Code,1999-12-29,2008-09-10,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+78,CVE-2000-0008,,,,1999-12-26,2008-09-10,2.1,None,Local,Low,Not required,Partial,None,None
+79,CVE-2000-0007,,,DoS,1999-12-29,2018-05-02,5.0,None,Remote,Low,Not required,None,None,Partial
+80,CVE-2000-0006,,,,1999-12-25,2017-10-09,2.6,None,Local,High,Not required,Partial,Partial,None
+81,CVE-2000-0005,,,'+Priv,1999-01-02,2018-05-02,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+82,CVE-2000-0004,,,,1999-12-01,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None
+83,CVE-2000-0003,,,Overflow +Priv,1999-12-30,2016-10-17,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+84,CVE-2000-0002,,,Exec Code Overflow,1999-12-22,2016-10-17,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+85,CVE-2000-0001,,,DoS,1999-12-23,2008-09-10,5.0,None,Remote,Low,Not required,None,None,Partial
+86,CVE-1999-1592,,,,1999-12-31,2008-09-05,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+87,CVE-1999-1591,,,Bypass,1999-12-31,2008-09-05,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+88,CVE-1999-1590,,,Dir. Trav.,1999-12-31,2008-09-05,3.5,None,Remote,Medium,Single system,Partial,None,None
+89,CVE-1999-1589,,,'+Priv,1999-12-31,2008-09-05,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+90,CVE-1999-1588,,1,Exec Code Overflow,1999-12-31,2008-09-05,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+91,CVE-1999-1587,,,,1999-12-31,2018-10-30,2.1,None,Local,Low,Not required,Partial,None,None
+92,CVE-1999-1586,,,'+Priv,1999-12-31,2017-07-10,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+93,CVE-1999-1585,,,'+Priv,1999-12-31,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+94,CVE-1999-1584,,,'+Priv,1999-12-31,2008-09-05,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+95,CVE-1999-1583,,,Exec Code Overflow,1999-09-30,2017-07-10,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+96,CVE-1999-1578,,,Exec Code Overflow,1999-09-24,2017-07-10,5.1,None,Remote,High,Not required,Partial,Partial,Partial
+97,CVE-1999-1577,,,Exec Code Overflow,1999-10-31,2017-07-10,5.1,None,Remote,High,Not required,Partial,Partial,Partial
+98,CVE-1999-1576,,,Exec Code Overflow,1999-09-27,2017-07-10,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+99,CVE-1999-1575,,,Exec Code,1999-09-10,2018-10-12,5.1,None,Remote,High,Not required,Partial,Partial,Partial
+100,CVE-1999-1573,,,'+Priv,1999-12-28,2017-10-18,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+101,CVE-1999-1571,,,Overflow +Priv,1999-11-04,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+102,CVE-1999-1568,,,DoS,1999-01-01,2017-10-09,5.0,None,Remote,Low,Not required,None,None,Partial
+103,CVE-1999-1567,,,DoS,1999-03-08,2017-12-18,5.0,None,Remote,Low,Not required,None,None,Partial
+104,CVE-1999-1566,,,DoS Overflow,1999-05-08,2008-09-05,5.0,None,Remote,Low,Not required,None,None,Partial
+105,CVE-1999-1565,,,,1999-08-20,2008-09-05,4.6,None,Local,Low,Not required,Partial,Partial,Partial
+106,CVE-1999-1564,,,DoS,1999-09-02,2008-09-05,2.1,None,Local,Low,Not required,None,None,Partial
+107,CVE-1999-1562,,,,1999-09-05,2008-09-05,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+108,CVE-1999-1561,,,'+Priv,1999-08-20,2008-09-05,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+109,CVE-1999-1560,,,Exec Code,1999-07-20,2017-12-18,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+110,CVE-1999-1559,,,Bypass,1999-03-31,2017-12-18,5.0,None,Remote,Low,Not required,None,None,Partial
+111,CVE-1999-1553,,,Exec Code Overflow,1999-05-01,2017-12-18,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+112,CVE-1999-1551,,,DoS Exec Code Overflow,1999-03-02,2017-12-18,5.0,None,Remote,Low,Not required,None,None,Partial
+113,CVE-1999-1550,,,,1999-11-08,2018-10-30,5.0,None,Remote,Low,Not required,Partial,None,None
+114,CVE-1999-1549,,,Exec Code,1999-11-16,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None
+115,CVE-1999-1548,,,DoS,1999-11-24,2017-02-15,5.0,None,Remote,Low,Not required,None,None,Partial
+116,CVE-1999-1547,20,,Bypass,1999-11-25,2016-10-17,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+117,CVE-1999-1546,,,,1999-01-29,2017-12-18,5.0,None,Remote,Low,Not required,Partial,None,None
+118,CVE-1999-1545,,,,1999-07-14,2016-10-17,2.1,None,Local,Low,Not required,Partial,None,None
+119,CVE-1999-1544,,,DoS Overflow,1999-01-24,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial
+120,CVE-1999-1543,,,,1999-07-10,2016-10-17,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+121,CVE-1999-1542,,,Exec Code,1999-10-04,2017-10-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+122,CVE-1999-1541,,,Exec Code,1999-10-04,2017-12-18,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+123,CVE-1999-1540,,,,1999-10-04,2017-12-18,2.1,None,Local,Low,Not required,Partial,None,None
+124,CVE-1999-1539,,,DoS Exec Code Overflow,1999-11-10,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+125,CVE-1999-1538,,,,1999-01-14,2016-10-17,2.1,None,Local,Low,Not required,Partial,None,None
+126,CVE-1999-1537,,,DoS,1999-07-07,2017-10-09,5.0,None,Remote,Low,Not required,None,None,Partial
+127,CVE-1999-1536,,,'+Priv,1999-07-30,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+128,CVE-1999-1535,,,DoS Exec Code Overflow,1999-07-20,2017-10-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+129,CVE-1999-1534,,,Overflow,1999-09-23,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+130,CVE-1999-1533,,,DoS,1999-11-07,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+131,CVE-1999-1532,,,DoS,1999-10-29,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial
+132,CVE-1999-1531,,,Exec Code Overflow,1999-11-02,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+133,CVE-1999-1530,,,,1999-11-08,2016-10-17,3.6,None,Local,Low,Not required,Partial,Partial,None
+134,CVE-1999-1529,,,Exec Code Overflow,1999-11-07,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+135,CVE-1999-1528,,,,1999-11-14,2016-10-17,4.6,None,Local,Low,Not required,Partial,Partial,Partial
+136,CVE-1999-1527,,,,1999-11-23,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+137,CVE-1999-1526,,,,1999-03-11,2017-12-18,5.0,None,Remote,Low,Not required,Partial,None,None
+138,CVE-1999-1524,,,,1999-08-07,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None
+139,CVE-1999-1523,,,DoS Exec Code Overflow,1999-10-04,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+140,CVE-1999-1522,,,,1999-10-07,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial
+141,CVE-1999-1521,,,Exec Code Overflow,1999-09-12,2017-12-18,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+142,CVE-1999-1520,,,'+Info,1999-05-11,2017-10-09,5.0,None,Remote,Low,Not required,Partial,None,None
+143,CVE-1999-1519,,,DoS,1999-11-17,2017-12-18,5.0,None,Remote,Low,Not required,None,None,Partial
+144,CVE-1999-1518,,,DoS Bypass,1999-07-15,2017-12-18,5.0,None,Remote,Low,Not required,None,None,Partial
+145,CVE-1999-1517,,,,1999-11-01,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+146,CVE-1999-1516,,,Exec Code Overflow,1999-09-02,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+147,CVE-1999-1515,,,DoS,1999-08-31,2017-12-18,5.0,None,Remote,Low,Not required,None,None,Partial
+148,CVE-1999-1513,,,,1999-08-30,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+149,CVE-1999-1512,,,Exec Code,1999-12-31,2017-10-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+150,CVE-1999-1511,,,DoS Exec Code Overflow,1999-11-10,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+151,CVE-1999-1510,,,DoS Exec Code Overflow,1999-05-17,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+152,CVE-1999-1509,,,Dir. Trav.,1999-11-04,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None
+153,CVE-1999-1508,,,,1999-11-16,2016-10-17,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+154,CVE-1999-1500,,,DoS,1999-10-01,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial
+155,CVE-1999-1497,,,,1999-12-21,2008-09-05,7.2,None,Local,Low,Not required,Complete,Complete,Complete
+156,CVE-1999-1496,,,,1999-06-08,2017-12-18,2.1,None,Local,Low,Not required,Partial,None,None
+157,CVE-1999-1495,,,,1999-02-18,2017-12-18,2.1,None,Local,Low,Not required,None,None,Partial
+158,CVE-1999-1488,,,,1999-12-31,2008-09-05,5.0,None,Remote,Low,Not required,Partial,None,None
+159,CVE-1999-1485,,,DoS,1999-05-31,2017-12-18,6.4,None,Remote,Low,Not required,Partial,None,Partial
+160,CVE-1999-1484,,,Exec Code Overflow,1999-09-24,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+161,CVE-1999-1482,,,'+Priv,1999-02-19,2008-09-05,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+162,CVE-1999-1481,,,Bypass,1999-12-31,2017-10-09,5.0,None,Remote,Low,Not required,Partial,None,None
+163,CVE-1999-1478,,,DoS,1999-07-06,2017-10-09,5.0,None,Remote,Low,Not required,None,None,Partial
+164,CVE-1999-1477,,,Overflow,1999-09-23,2017-12-18,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+165,CVE-1999-1476,,,DoS,1999-12-31,2017-10-09,2.1,None,Local,Low,Not required,None,None,Partial
+166,CVE-1999-1475,,,'+Priv,1999-11-19,2008-09-05,4.6,None,Local,Low,Not required,Partial,Partial,Partial
+167,CVE-1999-1474,,,,1999-12-31,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+168,CVE-1999-1473,,,,1999-12-31,2008-09-05,5.0,None,Remote,Low,Not required,Partial,None,None
+169,CVE-1999-1472,,,,1999-12-31,2017-10-09,5.0,None,Remote,Low,Not required,Partial,None,None
+170,CVE-1999-1470,,,'+Priv,1999-06-24,2017-12-18,4.6,None,Local,Low,Not required,Partial,Partial,Partial
+171,CVE-1999-1469,,,Exec Code Overflow,1999-09-30,2016-10-17,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+172,CVE-1999-1465,,,Bypass,1999-12-31,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+173,CVE-1999-1464,,,Bypass,1999-12-31,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+174,CVE-1999-1462,200,,'+Info,1999-12-31,2018-11-29,5.0,None,Remote,Low,Not required,Partial,None,None
+175,CVE-1999-1460,,,,1999-07-13,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+176,CVE-1999-1458,,,Overflow +Priv,1999-01-25,2017-12-18,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+177,CVE-1999-1457,,,Exec Code Overflow,1999-11-16,2008-09-10,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+178,CVE-1999-1456,,,,1999-12-31,2017-10-09,5.0,None,Remote,Low,Not required,Partial,None,None
+179,CVE-1999-1455,,,,1999-12-31,2017-10-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+180,CVE-1999-1454,,,Bypass,1999-10-04,2016-10-17,4.6,None,Local,Low,Not required,Partial,Partial,Partial
+181,CVE-1999-1453,,,,1999-02-02,2016-10-17,2.6,None,Remote,High,Not required,Partial,None,None
+182,CVE-1999-1452,,,,1999-12-31,2017-10-09,2.1,None,Local,Low,Not required,Partial,None,None
+183,CVE-1999-1451,,,,1999-12-31,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None
+184,CVE-1999-1450,,,'+Priv,1999-01-27,2008-09-10,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+185,CVE-1999-1444,,,,1999-12-31,2008-09-10,5.0,None,Remote,Low,Not required,Partial,None,None
+186,CVE-1999-1440,,,,1999-01-01,2016-10-17,5.1,None,Remote,High,Not required,Partial,Partial,Partial
+187,CVE-1999-1430,,,,1999-01-01,2016-10-17,2.1,None,Local,Low,Not required,Partial,None,None
+188,CVE-1999-1422,,,,1999-01-02,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+189,CVE-1999-1418,,,,1999-05-01,2008-09-05,5.0,None,Remote,Low,Not required,Partial,None,None
+190,CVE-1999-1414,,,'+Priv,1999-05-25,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+191,CVE-1999-1412,,,DoS,1999-06-03,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+192,CVE-1999-1405,,,Exec Code,1999-02-17,2016-10-17,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+193,CVE-1999-1400,,,Bypass,1999-06-03,2016-10-17,2.1,None,Local,Low,Not required,Partial,None,None
+194,CVE-1999-1397,,,'+Info,1999-03-23,2016-10-17,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+195,CVE-1999-1394,,,,1999-07-02,2016-10-17,2.1,None,Local,Low,Not required,None,Partial,None
+196,CVE-1999-1393,,,Bypass,1999-05-21,2008-09-05,4.6,None,Local,Low,Not required,Partial,Partial,Partial
+197,CVE-1999-1386,,,,1999-12-31,2016-10-17,2.1,None,Local,Low,Not required,None,Partial,None
+198,CVE-1999-1382,,,'+Priv,1999-12-31,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+199,CVE-1999-1379,,,,1999-12-31,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial
+200,CVE-1999-1378,,,,1999-07-19,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None
+201,CVE-1999-1377,,,,1999-09-09,2008-09-05,5.0,None,Remote,Low,Not required,Partial,None,None
+202,CVE-1999-1376,,,Exec Code Overflow,1999-01-14,2016-10-17,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+203,CVE-1999-1375,,,,1999-02-11,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None
+204,CVE-1999-1372,,,'+Priv,1999-02-19,2016-10-17,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+205,CVE-1999-1371,,,Overflow +Priv,1999-03-08,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+206,CVE-1999-1370,,,,1999-03-23,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+207,CVE-1999-1369,,,'+Priv,1999-04-14,2016-10-17,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+208,CVE-1999-1368,,,,1999-05-12,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+209,CVE-1999-1367,,,,1999-05-06,2008-09-05,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+210,CVE-1999-1366,,,,1999-05-15,2016-10-17,3.6,None,Local,Low,Not required,Partial,Partial,None
+211,CVE-1999-1365,,,'+Priv Bypass,1999-06-28,2017-10-25,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+212,CVE-1999-1364,,,DoS,1999-12-31,2008-09-05,2.1,None,Local,Low,Not required,None,None,Partial
+213,CVE-1999-1363,,,DoS,1999-12-31,2008-09-05,2.1,None,Local,Low,Not required,None,None,Partial
+214,CVE-1999-1362,,,DoS,1999-12-31,2008-09-05,2.1,None,Local,Low,Not required,None,None,Partial
+215,CVE-1999-1360,,,DoS,1999-12-31,2008-09-05,2.1,None,Local,Low,Not required,None,None,Partial
+216,CVE-1999-1359,,,Bypass,1999-12-31,2008-09-05,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+217,CVE-1999-1358,,,Bypass,1999-12-31,2008-09-05,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+218,CVE-1999-1357,,,XSS,1999-10-05,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+219,CVE-1999-1356,,,,1999-09-02,2016-10-17,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+220,CVE-1999-1355,,,,1999-12-31,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+221,CVE-1999-1354,,,,1999-08-30,2016-10-17,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+222,CVE-1999-1353,,,'+Priv,1999-09-07,2017-04-28,4.6,None,Local,Low,Not required,Partial,Partial,Partial
+223,CVE-1999-1352,,,'+Priv,1999-09-28,2016-10-17,4.6,None,Local,Low,Not required,Partial,Partial,Partial
+224,CVE-1999-1351,,,Dir. Trav.,1999-09-24,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None
+225,CVE-1999-1350,,,'+Priv,1999-09-29,2016-10-17,4.6,None,Local,Low,Not required,Partial,Partial,Partial
+226,CVE-1999-1349,,,DoS,1999-10-06,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial
+227,CVE-1999-1348,,,DoS,1999-06-30,2016-10-17,2.1,None,Local,Low,Not required,None,None,Partial
+228,CVE-1999-1347,,,Bypass,1999-10-07,2016-10-17,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+229,CVE-1999-1346,,,,1999-10-07,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+230,CVE-1999-1345,,,,1999-10-05,2016-10-17,4.6,None,Local,Low,Not required,Partial,Partial,Partial
+231,CVE-1999-1344,,,,1999-10-05,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+232,CVE-1999-1343,,,DoS,1999-10-13,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial
+233,CVE-1999-1342,,,DoS,1999-10-17,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial
+234,CVE-1999-1341,,,,1999-10-22,2018-09-11,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+235,CVE-1999-1340,,,Overflow +Priv,1999-11-04,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+236,CVE-1999-1339,,,DoS,1999-12-31,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial
+237,CVE-1999-1338,,,,1999-07-21,2016-10-17,5.0,None,Remote,Low,Not required,None,Partial,None
+238,CVE-1999-1337,,,'+Priv,1999-08-01,2016-10-17,4.6,None,Local,Low,Not required,Partial,Partial,Partial
+239,CVE-1999-1336,,,DoS,1999-08-12,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial
+240,CVE-1999-1335,,,,1999-12-31,2017-10-09,6.4,None,Remote,Low,Not required,Partial,Partial,None
+241,CVE-1999-1334,,,Exec Code Overflow,1999-12-31,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+242,CVE-1999-1333,,,Exec Code,1999-12-31,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+243,CVE-1999-1332,,,,1999-12-31,2016-10-17,2.1,None,Local,Low,Not required,None,Partial,None
+244,CVE-1999-1331,,,DoS,1999-12-31,2008-09-10,2.1,None,Local,Low,Not required,None,None,Partial
+245,CVE-1999-1330,,,Overflow,1999-12-31,2016-10-17,4.6,None,Local,Low,Not required,Partial,Partial,Partial
+246,CVE-1999-1329,,,Overflow +Priv,1999-12-31,2008-09-10,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+247,CVE-1999-1328,,,,1999-12-31,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+248,CVE-1999-1327,,,Overflow +Priv,1999-12-31,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+249,CVE-1999-1325,,,'+Priv,1999-12-31,2017-10-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+250,CVE-1999-1324,,,,1999-12-31,2017-10-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+251,CVE-1999-1323,,,,1999-04-09,2016-10-17,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+252,CVE-1999-1320,,,'+Priv,1999-12-31,2008-09-05,4.6,None,Local,Low,Not required,Partial,Partial,Partial
+253,CVE-1999-1317,,,'+Priv,1999-12-31,2017-10-09,4.6,None,Local,Low,Not required,Partial,Partial,Partial
+254,CVE-1999-1316,,,,1999-12-31,2017-10-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+255,CVE-1999-1315,,,DoS +Priv,1999-12-31,2008-09-05,4.6,None,Local,Low,Not required,Partial,Partial,Partial
+256,CVE-1999-1307,,,'+Priv,1999-12-31,2008-09-05,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+257,CVE-1999-1300,,,,1999-12-31,2008-09-05,3.6,None,Local,Low,Not required,Partial,Partial,None
+258,CVE-1999-1294,,,,1999-12-31,2017-10-09,2.1,None,Local,Low,Not required,Partial,None,None
+259,CVE-1999-1293,,,DoS,1999-12-31,2016-10-17,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+260,CVE-1999-1290,,,DoS Exec Code Overflow,1999-12-31,2017-10-09,5.1,None,Remote,High,Not required,Partial,Partial,Partial
+261,CVE-1999-1287,,,,1999-12-31,2017-12-18,5.0,None,Remote,Low,Not required,Partial,None,None
+262,CVE-1999-1279,,,,1999-12-31,2017-10-09,5.0,None,Remote,Low,Not required,Partial,None,None
+263,CVE-1999-1268,,,,1999-01-06,2017-12-18,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+264,CVE-1999-1264,,,,1999-01-21,2017-12-19,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+265,CVE-1999-1260,,,'+Info,1999-02-15,2017-12-18,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+266,CVE-1999-1259,,,'+Info,1999-12-31,2017-10-09,2.1,None,Local,Low,Not required,Partial,None,None
+267,CVE-1999-1256,,,,1999-03-04,2017-12-18,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+268,CVE-1999-1255,,,,1999-02-19,2017-12-18,5.0,None,Remote,Low,Not required,None,Partial,None
+269,CVE-1999-1254,,,DoS,1999-03-08,2017-12-18,5.0,None,Remote,Low,Not required,None,None,Partial
+270,CVE-1999-1247,,1,'+Priv,1999-02-24,2017-12-18,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+271,CVE-1999-1246,,,'+Priv,1999-12-31,2017-10-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+272,CVE-1999-1245,,,'+Info,1999-04-06,2017-12-18,5.0,None,Remote,Low,Not required,Partial,None,None
+273,CVE-1999-1244,,,,1999-04-15,2017-12-18,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+274,CVE-1999-1241,,,Exec Code,1999-05-06,2017-12-18,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+275,CVE-1999-1237,,,Exec Code Overflow,1999-06-06,2017-12-18,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+276,CVE-1999-1236,,,'+Priv,1999-10-01,2017-12-18,4.6,None,Local,Low,Not required,Partial,Partial,Partial
+277,CVE-1999-1235,,,,1999-08-25,2017-12-18,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+278,CVE-1999-1234,,,DoS,1999-10-26,2017-12-18,5.0,None,Remote,Low,Not required,None,None,Partial
+279,CVE-1999-1233,,,,1999-12-31,2018-10-12,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+280,CVE-1999-1231,,,,1999-06-09,2017-12-18,5.0,None,Remote,Low,Not required,Partial,None,None
+281,CVE-1999-1227,,,,1999-07-30,2017-12-18,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+282,CVE-1999-1226,,,DoS Exec Code,1999-10-28,2017-10-09,2.6,None,Remote,High,Not required,None,None,Partial
+283,CVE-1999-1223,,,DoS,1999-12-31,2017-10-09,5.0,None,Remote,Low,Not required,None,None,Partial
+284,CVE-1999-1222,,,DoS,1999-12-31,2017-10-09,5.0,None,Remote,Low,Not required,None,None,Partial
+285,CVE-1999-1206,,,Exec Code,1999-12-31,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+286,CVE-1999-1203,,,DoS,1999-02-12,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial
+287,CVE-1999-1201,,,DoS,1999-02-06,2017-10-09,5.0,None,Remote,Low,Not required,None,None,Partial
+288,CVE-1999-1196,,,DoS,1999-04-07,2008-09-05,5.0,None,Remote,Low,Not required,None,None,Partial
+289,CVE-1999-1195,,,,1999-05-05,2016-10-17,5.1,None,Remote,High,Not required,Partial,Partial,Partial
+290,CVE-1999-1190,,,Exec Code Overflow,1999-11-15,2008-09-05,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+291,CVE-1999-1189,,,DoS Exec Code Overflow,1999-11-24,2017-10-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+292,CVE-1999-1180,,,Exec Code,1999-02-16,2008-09-10,5.0,None,Remote,Low,Not required,None,None,Partial
+293,CVE-1999-1177,,,Dir. Trav.,1999-12-31,2017-10-09,5.0,None,Remote,Low,Not required,None,Partial,None
+294,CVE-1999-1175,,,,1999-12-31,2017-10-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+295,CVE-1999-1172,,,,1999-01-14,2008-09-05,5.0,None,Remote,Low,Not required,None,Partial,None
+296,CVE-1999-1171,,,'+Priv,1999-02-02,2019-08-13,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+297,CVE-1999-1170,,,'+Priv,1999-01-02,2019-08-13,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+298,CVE-1999-1169,,,DoS,1999-02-04,2008-09-10,5.0,None,Remote,Low,Not required,None,None,Partial
+299,CVE-1999-1168,,,,1999-02-20,2008-09-05,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+300,CVE-1999-1167,,,XSS,1999-12-31,2008-09-05,6.4,None,Remote,Low,Not required,Partial,Partial,None
+301,CVE-1999-1166,,,'+Priv,1999-07-11,2008-09-05,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+302,CVE-1999-1165,,,'+Priv,1999-07-21,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+303,CVE-1999-1164,,,DoS,1999-06-25,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial
+304,CVE-1999-1163,,,,1999-11-24,2016-10-17,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+305,CVE-1999-1157,,,DoS,1999-12-31,2017-10-09,5.0,None,Remote,Low,Not required,None,None,Partial
+306,CVE-1999-1156,,,DoS,1999-05-17,2018-05-02,5.0,None,Remote,Low,Not required,None,None,Partial
+307,CVE-1999-1148,,,DoS,1999-12-31,2018-10-12,5.0,None,Remote,Low,Not required,None,None,Partial
+308,CVE-1999-1132,,,DoS,1999-12-31,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial
+309,CVE-1999-1130,,,,1999-07-30,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None
+310,CVE-1999-1129,,,,1999-09-01,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+311,CVE-1999-1127,,,DoS,1999-12-31,2018-10-12,5.0,None,Remote,Low,Not required,None,None,Partial
+312,CVE-1999-1126,,,'+Info,1999-12-31,2017-12-18,2.1,None,Local,Low,Not required,Partial,None,None
+313,CVE-1999-1124,,,Bypass,1999-12-31,2008-09-05,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+314,CVE-1999-1117,,,,1999-12-31,2017-10-09,2.1,None,Local,Low,Not required,Partial,None,None
+315,CVE-1999-1112,,,Exec Code Overflow,1999-11-09,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+316,CVE-1999-1111,,,Overflow Bypass,1999-11-09,2017-10-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+317,CVE-1999-1110,,,,1999-11-14,2008-09-05,5.0,None,Remote,Low,Not required,Partial,None,None
+318,CVE-1999-1109,,,DoS,1999-12-22,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial
+319,CVE-1999-1105,,,,1999-12-31,2008-09-05,5.0,None,Remote,Low,Not required,Partial,None,None
+320,CVE-1999-1104,,,'+Priv,1999-12-31,2016-10-17,4.6,None,Local,Low,Not required,Partial,Partial,Partial
+321,CVE-1999-1102,,,,1999-12-31,2008-09-05,2.1,None,Local,Low,Not required,None,Partial,None
+322,CVE-1999-1101,,,'+Priv,1999-02-19,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+323,CVE-1999-1100,,,,1999-12-31,2017-10-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+324,CVE-1999-1097,,,,1999-05-04,2017-12-18,6.4,None,Remote,Low,Not required,Partial,Partial,None
+325,CVE-1999-1094,,,Exec Code Overflow,1999-12-31,2017-10-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+326,CVE-1999-1093,,,Exec Code Overflow,1999-12-31,2018-10-12,5.1,None,Remote,High,Not required,Partial,Partial,Partial
+327,CVE-1999-1092,,,,1999-11-17,2016-10-17,4.6,None,Local,Low,Not required,Partial,Partial,Partial
+328,CVE-1999-1087,,,,1999-12-31,2018-10-12,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+329,CVE-1999-1086,,,'+Priv,1999-07-15,2016-10-17,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+330,CVE-1999-1084,,,,1999-12-31,2018-10-12,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+331,CVE-1999-1083,,,Dir. Trav.,1999-10-08,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None
+332,CVE-1999-1082,,,Dir. Trav.,1999-10-08,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None
+333,CVE-1999-1079,,,'+Priv,1999-05-06,2016-10-17,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+334,CVE-1999-1078,,,'+Priv,1999-07-29,2008-09-05,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+335,CVE-1999-1077,,,Bypass,1999-11-01,2016-10-17,4.6,None,Local,Low,Not required,Partial,Partial,Partial
+336,CVE-1999-1076,,,Bypass,1999-10-26,2016-10-17,4.6,None,Local,Low,Not required,Partial,Partial,Partial
+337,CVE-1999-1074,,,'+Priv,1999-12-31,2008-09-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+338,CVE-1999-1066,,,,1999-12-22,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial
+339,CVE-1999-1065,,,DoS Exec Code,1999-11-04,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+340,CVE-1999-1064,,,DoS Exec Code Overflow,1999-08-22,2016-10-17,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+341,CVE-1999-1063,,,Exec Code,1999-06-01,2017-12-18,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+342,CVE-1999-1060,,,DoS Exec Code Overflow,1999-02-17,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial
+343,CVE-1999-1058,,,DoS Exec Code Overflow,1999-11-22,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+344,CVE-1999-1055,,,Exec Code,1999-12-31,2018-10-12,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+345,CVE-1999-1053,,,Exec Code,1999-09-13,2008-09-05,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+346,CVE-1999-1052,,,,1999-08-24,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None
+347,CVE-1999-1051,,,,1999-11-16,2008-09-05,5.0,None,Remote,Low,Not required,Partial,None,None
+348,CVE-1999-1050,,,Dir. Trav.,1999-11-12,2017-12-18,5.0,None,Remote,Low,Not required,Partial,None,None
+349,CVE-1999-1049,,,,1999-02-21,2016-10-17,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+350,CVE-1999-1047,,,Bypass,1999-10-18,2016-10-17,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+351,CVE-1999-1046,,,DoS Exec Code Overflow,1999-03-01,2017-12-18,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+352,CVE-1999-1043,,,DoS,1999-12-31,2018-10-12,5.0,None,Remote,Low,Not required,None,None,Partial
+353,CVE-1999-1042,,,,1999-12-31,2008-09-05,1.2,None,Local,High,Not required,Partial,None,None
+354,CVE-1999-1035,,,DoS,1999-12-31,2018-10-12,5.0,None,Remote,Low,Not required,None,None,Partial
+355,CVE-1999-1033,,,,1999-05-11,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial
+356,CVE-1999-1031,,,DoS,1999-05-19,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial
+357,CVE-1999-1030,,,DoS,1999-05-19,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial
+358,CVE-1999-1029,,,,1999-05-13,2017-12-18,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+359,CVE-1999-1028,,,DoS,1999-05-28,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial
+360,CVE-1999-1023,,,,1999-06-10,2018-10-30,4.6,None,Local,Low,Not required,Partial,Partial,Partial
+361,CVE-1999-1019,,,,1999-06-23,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+362,CVE-1999-1018,,,Bypass,1999-07-27,2016-10-17,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+363,CVE-1999-1017,,,,1999-07-28,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+364,CVE-1999-1016,,,DoS,1999-08-27,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial
+365,CVE-1999-1014,,,Overflow +Priv,1999-09-13,2018-10-30,4.6,None,Local,Low,Not required,Partial,Partial,Partial
+366,CVE-1999-1013,,,,1999-09-23,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+367,CVE-1999-1012,,,,1999-05-04,2008-09-05,5.0,None,Remote,Low,Not required,None,None,Partial
+368,CVE-1999-1011,264,,Exec Code,1999-07-19,2018-10-15,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+369,CVE-1999-1010,,,,1999-12-14,2016-10-17,2.1,None,Local,Low,Not required,Partial,None,None
+370,CVE-1999-1009,,,,1999-12-12,2008-09-09,2.6,None,Remote,High,Not required,Partial,None,None
+371,CVE-1999-1007,,,Exec Code Overflow,1999-12-13,2016-10-17,7.6,Admin,Remote,High,Not required,Complete,Complete,Complete
+372,CVE-1999-1006,,,,1999-12-19,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None
+373,CVE-1999-1005,,,,1999-12-19,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None
+374,CVE-1999-1004,,,Overflow,1999-12-16,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+375,CVE-1999-1003,,,DoS,1999-12-13,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+376,CVE-1999-1001,,,,1999-12-16,2008-09-09,2.6,None,Remote,High,Not required,None,Partial,None
+377,CVE-1999-1000,,,,1999-12-16,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+378,CVE-1999-0999,20,,DoS,1999-11-19,2018-10-12,4.3,None,Remote,Medium,Not required,None,None,Partial
+379,CVE-1999-0998,,,,1999-12-16,2008-09-09,5.0,None,Remote,Low,Not required,None,Partial,None
+380,CVE-1999-0997,,,Exec Code,1999-12-20,2008-09-05,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+381,CVE-1999-0996,,,Exec Code Overflow,1999-12-15,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+382,CVE-1999-0995,20,,DoS,1999-12-16,2018-10-12,7.8,None,Remote,Low,Not required,None,None,Complete
+383,CVE-1999-0994,255,,,1999-12-16,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None
+384,CVE-1999-0993,16,,,1999-12-13,2017-01-19,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+385,CVE-1999-0991,,,DoS Overflow,1999-12-06,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+386,CVE-1999-0990,,,,1999-12-05,2008-09-09,2.1,None,Local,Low,Not required,Partial,None,None
+387,CVE-1999-0989,,,Exec Code Overflow,1999-12-06,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+388,CVE-1999-0988,,,,1999-12-04,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+389,CVE-1999-0987,287,,,1999-11-18,2018-08-13,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+390,CVE-1999-0986,,,DoS,1999-12-08,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+391,CVE-1999-0985,,,Exec Code,1999-11-09,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+392,CVE-1999-0984,,,Exec Code,1999-11-09,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+393,CVE-1999-0983,,,Exec Code,1999-11-09,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+394,CVE-1999-0982,,,,1999-12-05,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+395,CVE-1999-0981,59,,,1999-12-08,2018-10-12,5.1,None,Remote,High,Not required,Partial,Partial,Partial
+396,CVE-1999-0978,,,Exec Code,1999-12-09,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+397,CVE-1999-0977,,,Overflow +Priv,1999-12-10,2018-10-30,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+398,CVE-1999-0976,,,DoS,1999-12-07,2008-09-09,2.1,None,Local,Low,Not required,None,None,Partial
+399,CVE-1999-0975,,,Exec Code,1999-12-10,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+400,CVE-1999-0974,,,Overflow +Priv,1999-12-09,2018-10-30,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+401,CVE-1999-0973,,,Overflow +Priv,1999-12-07,2018-10-30,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+402,CVE-1999-0972,,,Overflow,1999-12-09,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+403,CVE-1999-0970,,,DoS,1999-06-05,2017-12-18,5.0,None,Remote,Low,Not required,None,None,Partial
+404,CVE-1999-0963,,,'+Priv,1999-12-01,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+405,CVE-1999-0954,,,,1999-09-16,2008-09-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+406,CVE-1999-0953,,,,1999-09-16,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+407,CVE-1999-0952,,,Overflow,1999-01-28,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+408,CVE-1999-0951,,,Exec Code Overflow,1999-10-22,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+409,CVE-1999-0950,,,Overflow,1999-10-28,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+410,CVE-1999-0949,,,Overflow +Priv,1999-11-02,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+411,CVE-1999-0948,,,Overflow +Priv,1999-11-02,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+412,CVE-1999-0947,,,Exec Code,1999-11-02,2016-10-17,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+413,CVE-1999-0946,,,Overflow,1999-11-02,2016-10-17,5.1,User,Remote,High,Not required,Partial,Partial,Partial
+414,CVE-1999-0944,,,,1999-10-24,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+415,CVE-1999-0943,,,Overflow +Priv,1999-10-15,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+416,CVE-1999-0942,,,'+Priv,1999-10-04,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+417,CVE-1999-0940,,,Exec Code Overflow,1999-09-27,2008-09-05,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+418,CVE-1999-0939,,,DoS,1999-08-26,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+419,CVE-1999-0938,,,Exec Code,1999-06-28,2016-09-16,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+420,CVE-1999-0935,,,Exec Code,1999-12-15,2005-05-02,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+421,CVE-1999-0934,,,,1999-12-15,2018-05-02,5.0,None,Remote,Low,Not required,Partial,None,None
+422,CVE-1999-0933,,,,1999-10-01,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+423,CVE-1999-0932,,,,1999-09-30,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+424,CVE-1999-0931,,,Exec Code Overflow,1999-09-30,2008-09-09,5.0,None,Remote,Low,Not required,None,Partial,None
+425,CVE-1999-0929,,,DoS,1999-06-16,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+426,CVE-1999-0928,,,DoS Overflow,1999-05-23,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+427,CVE-1999-0927,,,,1999-05-26,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+428,CVE-1999-0926,,,DoS,1999-09-03,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+429,CVE-1999-0925,,,DoS,1999-09-03,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial
+430,CVE-1999-0921,,,DoS,1999-04-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+431,CVE-1999-0920,,,Overflow +Priv,1999-05-26,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+432,CVE-1999-0918,20,,DoS,1999-07-03,2018-10-12,7.8,None,Remote,Low,Not required,None,None,Complete
+433,CVE-1999-0917,,,,1999-05-27,2018-10-12,5.1,None,Remote,High,Not required,Partial,Partial,Partial
+434,CVE-1999-0916,,,,1999-06-29,2008-09-09,2.1,None,Local,Low,Not required,Partial,None,None
+435,CVE-1999-0915,,,,1999-10-28,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+436,CVE-1999-0914,,,Overflow,1999-01-03,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+437,CVE-1999-0913,,,Exec Code,1999-08-05,2016-10-17,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+438,CVE-1999-0912,,,DoS,1999-09-22,2008-09-09,2.1,None,Local,Low,Not required,None,None,Partial
+439,CVE-1999-0911,,,Overflow,1999-08-27,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+440,CVE-1999-0910,,,,1999-09-10,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None
+441,CVE-1999-0909,264,,Bypass,1999-09-20,2018-10-12,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+442,CVE-1999-0908,,,DoS,1999-09-23,2018-10-30,5.0,None,Remote,Low,Not required,None,None,Partial
+443,CVE-1999-0907,,,,1999-09-16,2008-09-09,2.1,None,Local,Low,Not required,Partial,None,None
+444,CVE-1999-0906,,,Overflow,1999-09-23,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+445,CVE-1999-0905,,,DoS,1999-10-21,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+446,CVE-1999-0904,,,DoS Overflow,1999-11-03,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+447,CVE-1999-0903,,,,1999-10-26,2008-09-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+448,CVE-1999-0902,,,,1999-10-23,2008-09-09,7.2,None,Local,Low,Not required,Complete,Complete,Complete
+449,CVE-1999-0901,,,,1999-10-23,2008-09-09,7.2,None,Local,Low,Not required,Complete,Complete,Complete
+450,CVE-1999-0900,,,Overflow +Priv,1999-10-23,2008-09-09,7.2,None,Local,Low,Not required,Complete,Complete,Complete
+451,CVE-1999-0899,264,,Exec Code,1999-11-04,2018-10-12,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+452,CVE-1999-0898,119,,DoS Overflow +Priv,1999-11-04,2018-10-12,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+453,CVE-1999-0896,,,Exec Code Overflow,1999-11-04,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+454,CVE-1999-0895,,,,1999-10-20,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+455,CVE-1999-0893,,,,1999-10-11,2008-09-09,2.1,None,Local,Low,Not required,None,Partial,None
+456,CVE-1999-0892,,,Overflow,1999-12-24,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+457,CVE-1999-0891,94,,,1999-09-01,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None
+458,CVE-1999-0890,,,Exec Code +Info,1999-09-16,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+459,CVE-1999-0889,,,,1999-07-01,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+460,CVE-1999-0888,,,'+Priv,1999-08-16,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+461,CVE-1999-0887,,,,1999-11-04,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+462,CVE-1999-0886,16,,,1999-09-17,2018-10-12,9.0,Admin,Remote,Low,Single system,Complete,Complete,Complete
+463,CVE-1999-0885,,,Exec Code,1999-11-03,2008-09-09,3.6,None,Local,Low,Not required,Partial,Partial,None
+464,CVE-1999-0884,,,,1999-10-25,2018-05-02,5.0,None,Remote,Low,Not required,Partial,None,None
+465,CVE-1999-0883,,,,1999-10-25,2018-05-02,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+466,CVE-1999-0882,,,,1999-10-28,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+467,CVE-1999-0881,,,,1999-10-26,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+468,CVE-1999-0880,,,DoS,1999-10-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+469,CVE-1999-0879,,,Overflow +Priv,1999-10-01,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+470,CVE-1999-0878,,,Overflow +Priv,1999-08-22,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+471,CVE-1999-0877,200,,'+Info,1999-10-01,2018-10-12,4.3,None,Remote,Medium,Not required,Partial,None,None
+472,CVE-1999-0875,16,,,1999-08-11,2018-10-30,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+473,CVE-1999-0874,119,,DoS Overflow,1999-06-16,2018-10-12,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+474,CVE-1999-0873,,,Overflow,1999-10-30,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+475,CVE-1999-0872,,,Overflow,1999-08-25,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+476,CVE-1999-0867,20,,DoS,1999-08-11,2018-10-12,5.0,None,Remote,Low,Not required,None,None,Partial
+477,CVE-1999-0866,,,Overflow +Priv,1999-12-03,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+478,CVE-1999-0865,,,Overflow,1999-12-03,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial
+479,CVE-1999-0864,,,,1999-12-03,2016-10-17,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+480,CVE-1999-0863,,,Overflow,1999-11-08,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+481,CVE-1999-0862,,,'+Priv,1999-12-02,2008-09-09,2.1,None,Local,Low,Not required,Partial,None,None
+482,CVE-1999-0861,362,,'+Info,1999-08-11,2018-10-12,2.6,None,Remote,High,Not required,Partial,None,None
+483,CVE-1999-0860,,,,1999-12-01,2018-10-30,2.1,None,Local,Low,Not required,Partial,None,None
+484,CVE-1999-0859,,,,1999-12-01,2018-10-30,2.1,None,Local,Low,Not required,Partial,None,None
+485,CVE-1999-0858,16,,,1999-12-02,2018-10-12,5.0,None,Remote,Low,Not required,None,Partial,None
+486,CVE-1999-0857,,,,1999-12-01,2008-09-09,2.1,None,Local,Low,Not required,None,Partial,None
+487,CVE-1999-0856,,,,1999-12-01,2008-09-09,5.0,None,Remote,Low,Not required,None,Partial,None
+488,CVE-1999-0855,,,Overflow,1999-12-01,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+489,CVE-1999-0854,,,,1999-11-01,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+490,CVE-1999-0853,,,Overflow +Priv,1999-12-01,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+491,CVE-1999-0852,,,,1999-12-02,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+492,CVE-1999-0851,,,DoS,1999-11-10,2018-10-30,2.1,None,Local,Low,Not required,None,None,Partial
+493,CVE-1999-0850,,,,1999-12-02,2008-09-09,3.6,None,Local,Low,Not required,Partial,Partial,None
+494,CVE-1999-0849,,,DoS,1999-11-10,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+495,CVE-1999-0848,,,DoS,1999-11-10,2018-10-30,5.0,None,Remote,Low,Not required,None,None,Partial
+496,CVE-1999-0847,,,Overflow,1999-11-29,2008-09-05,5.0,None,Remote,Low,Not required,None,None,Partial
+497,CVE-1999-0846,,,DoS,1999-12-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+498,CVE-1999-0845,,,Overflow,1999-11-25,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+499,CVE-1999-0844,,,DoS,1999-11-24,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+500,CVE-1999-0843,,,DoS,1999-11-04,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+501,CVE-1999-0842,,,,1999-11-29,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+502,CVE-1999-0841,,,Overflow +Priv,1999-11-30,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+503,CVE-1999-0840,,,Overflow +Priv,1999-11-30,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+504,CVE-1999-0839,264,,'+Priv,1999-11-29,2018-10-12,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+505,CVE-1999-0838,,,DoS Overflow,1999-12-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+506,CVE-1999-0837,,,DoS,1999-11-10,2018-10-30,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+507,CVE-1999-0835,,,DoS,1999-11-10,2018-10-30,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+508,CVE-1999-0834,,,Overflow,1999-12-01,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+509,CVE-1999-0833,,,Overflow,1999-11-10,2018-10-30,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+510,CVE-1999-0832,,,Exec Code Overflow,1999-11-09,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+511,CVE-1999-0831,,,DoS,1999-11-19,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+512,CVE-1999-0830,,,Overflow,1999-11-01,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+513,CVE-1999-0829,,,,1999-11-01,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+514,CVE-1999-0828,,,,1999-12-02,2008-09-09,3.6,None,Local,Low,Not required,Partial,Partial,None
+515,CVE-1999-0827,,,,1999-11-01,2008-09-09,2.6,None,Remote,High,Not required,Partial,None,None
+516,CVE-1999-0826,,,Overflow +Priv,1999-12-01,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+517,CVE-1999-0825,,,,1999-12-03,2008-09-09,3.6,None,Local,Low,Not required,Partial,Partial,None
+518,CVE-1999-0824,,,,1999-11-30,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+519,CVE-1999-0823,,,Overflow +Priv,1999-12-01,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+520,CVE-1999-0822,,,Overflow,1999-11-30,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+521,CVE-1999-0821,,,'+Priv,1999-11-08,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+522,CVE-1999-0820,,,'+Priv,1999-12-01,2008-09-09,4.6,None,Local,Low,Not required,Partial,Partial,Partial
+523,CVE-1999-0819,,,,1999-12-01,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None
+524,CVE-1999-0818,,,Overflow,1999-11-20,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+525,CVE-1999-0817,,,,1999-09-15,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+526,CVE-1999-0815,,,DoS,1999-12-31,2017-10-09,5.0,None,Remote,Low,Not required,None,None,Partial
+527,CVE-1999-0814,,,,1999-08-11,2008-09-09,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+528,CVE-1999-0813,,,'+Priv,1999-08-10,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+529,CVE-1999-0811,,,Overflow,1999-07-21,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+530,CVE-1999-0810,,,DoS,1999-07-21,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+531,CVE-1999-0809,,,,1999-07-09,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+532,CVE-1999-0808,,,DoS Exec Code Overflow,1999-12-31,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+533,CVE-1999-0807,,,,1999-05-01,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+534,CVE-1999-0806,,,Overflow,1999-05-10,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+535,CVE-1999-0804,,,DoS,1999-06-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+536,CVE-1999-0803,,,,1999-05-25,2016-10-17,2.1,None,Local,Low,Not required,None,Partial,None
+537,CVE-1999-0802,119,,Exec Code Overflow,1999-05-27,2018-10-12,7.6,Admin,Remote,High,Not required,Complete,Complete,Complete
+538,CVE-1999-0801,,,,1999-04-09,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+539,CVE-1999-0794,59,,,1999-10-01,2018-10-12,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+540,CVE-1999-0793,,,,1999-11-17,2018-10-12,2.6,None,Remote,High,Not required,Partial,None,None
+541,CVE-1999-0791,,,,1999-10-06,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+542,CVE-1999-0789,,,Overflow,1999-09-28,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+543,CVE-1999-0788,,,DoS,1999-09-26,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial
+544,CVE-1999-0787,,,,1999-09-17,2016-10-17,2.1,None,Local,Low,Not required,None,Partial,None
+545,CVE-1999-0786,,,,1999-09-22,2018-10-30,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+546,CVE-1999-0785,,,'+Priv,1999-05-11,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+547,CVE-1999-0778,,,Overflow,1999-06-25,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+548,CVE-1999-0777,264,,,1999-09-23,2018-10-12,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+549,CVE-1999-0776,,,,1999-05-12,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+550,CVE-1999-0775,,,,1999-06-10,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+551,CVE-1999-0774,,,Overflow,1999-08-31,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+552,CVE-1999-0773,,,Overflow,1999-05-11,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+553,CVE-1999-0772,,,DoS,1999-06-01,2008-09-09,6.4,None,Remote,Low,Not required,Partial,None,Partial
+554,CVE-1999-0771,,,,1999-05-26,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+555,CVE-1999-0770,,,DoS,1999-07-29,2008-09-09,2.1,None,Local,Low,Not required,None,None,Partial
+556,CVE-1999-0769,,,,1999-08-25,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+557,CVE-1999-0768,,,Overflow,1999-08-25,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+558,CVE-1999-0767,,,Overflow,1999-09-08,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+559,CVE-1999-0766,16,,Exec Code,1999-10-21,2018-10-12,9.3,Admin,Remote,Medium,Not required,Complete,Complete,Complete
+560,CVE-1999-0765,,,,1999-05-19,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+561,CVE-1999-0764,,,,1999-05-01,2008-09-09,6.4,None,Remote,Low,Not required,None,Partial,Partial
+562,CVE-1999-0763,,,,1999-05-01,2008-09-09,6.4,None,Remote,Low,Not required,None,Partial,Partial
+563,CVE-1999-0762,,,,1999-05-24,2008-09-09,2.6,None,Remote,High,Not required,Partial,None,None
+564,CVE-1999-0759,,,Overflow,1999-09-13,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+565,CVE-1999-0755,255,,,1999-05-27,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None
+566,CVE-1999-0754,,,'+Priv,1999-05-11,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+567,CVE-1999-0753,,,,1999-08-17,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+568,CVE-1999-0752,,,DoS Overflow,1999-07-06,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+569,CVE-1999-0751,,,Overflow,1999-09-13,2018-05-02,5.0,None,Remote,Low,Not required,None,None,Partial
+570,CVE-1999-0750,,,Exec Code,1999-09-13,2008-09-09,5.1,User,Remote,High,Not required,Partial,Partial,Partial
+571,CVE-1999-0749,,,Overflow,1999-08-16,2018-10-12,2.6,None,Remote,High,Not required,None,Partial,None
+572,CVE-1999-0748,,,Overflow,1999-06-24,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+573,CVE-1999-0747,,,DoS,1999-08-18,2008-09-09,2.1,None,Local,Low,Not required,None,None,Partial
+574,CVE-1999-0746,,,DoS,1999-08-16,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+575,CVE-1999-0745,,,Overflow,1999-08-18,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+576,CVE-1999-0743,,,,1999-08-20,2018-05-02,2.1,None,Local,Low,Not required,None,Partial,None
+577,CVE-1999-0742,,,'+Priv,1999-06-22,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+578,CVE-1999-0741,,,,1999-08-19,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+579,CVE-1999-0740,,,DoS,1999-08-19,2008-09-09,6.4,None,Remote,Low,Not required,Partial,None,Partial
+580,CVE-1999-0739,,,,1999-05-07,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None
+581,CVE-1999-0738,,,,1999-05-07,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None
+582,CVE-1999-0737,,,,1999-05-07,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None
+583,CVE-1999-0736,,,,1999-05-07,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None
+584,CVE-1999-0734,,,,1999-08-19,2019-10-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+585,CVE-1999-0733,,,Overflow,1999-06-26,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+586,CVE-1999-0732,,,,1999-08-19,2016-09-16,2.1,None,Local,Low,Not required,None,Partial,None
+587,CVE-1999-0731,,,,1999-06-23,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+588,CVE-1999-0730,,,,1999-06-12,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+589,CVE-1999-0728,264,,,1999-07-06,2018-10-12,7.8,None,Remote,Low,Not required,None,None,Complete
+590,CVE-1999-0727,,,,1999-08-06,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+591,CVE-1999-0726,20,,DoS,1999-06-30,2018-10-12,7.8,None,Remote,Low,Not required,None,None,Complete
+592,CVE-1999-0725,16,,,1999-08-19,2018-10-12,7.1,None,Remote,Medium,Not required,Complete,None,None
+593,CVE-1999-0724,,,Overflow,1999-08-12,2008-09-09,4.6,None,Local,Low,Not required,Partial,Partial,Partial
+594,CVE-1999-0723,,,DoS,1999-06-23,2018-10-12,7.1,None,Remote,Medium,Not required,None,None,Complete
+595,CVE-1999-0722,,,,1999-08-08,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+596,CVE-1999-0721,20,,DoS,1999-07-20,2018-10-12,7.8,None,Remote,Low,Not required,None,None,Complete
+597,CVE-1999-0720,,,,1999-08-23,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+598,CVE-1999-0719,,,Exec Code,1999-08-05,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+599,CVE-1999-0717,,,,1999-05-07,2018-10-12,2.6,None,Remote,High,Not required,None,Partial,None
+600,CVE-1999-0716,,,Overflow,1999-05-17,2018-10-12,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+601,CVE-1999-0715,,,DoS Exec Code Overflow,1999-05-20,2018-10-12,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+602,CVE-1999-0714,,,,1999-02-15,2008-09-09,2.1,None,Local,Low,Not required,Partial,None,None
+603,CVE-1999-0713,,,'+Priv,1999-06-11,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+604,CVE-1999-0712,,,,1999-04-27,2008-09-09,2.1,None,Local,Low,Not required,Partial,None,None
+605,CVE-1999-0711,,,Exec Code,1999-04-29,2016-10-17,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+606,CVE-1999-0710,,,,1999-07-25,2018-05-02,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+607,CVE-1999-0708,,,Overflow +Priv,1999-09-21,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+608,CVE-1999-0707,,,,1999-07-01,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+609,CVE-1999-0705,,,Overflow,1999-09-01,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+610,CVE-1999-0704,,,Overflow,1999-09-16,2008-09-09,9.3,Admin,Remote,Medium,Not required,Complete,Complete,Complete
+611,CVE-1999-0703,,,,1999-08-03,2008-09-09,3.6,None,Local,Low,Not required,None,Partial,Partial
+612,CVE-1999-0702,94,,,1999-09-10,2018-10-12,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+613,CVE-1999-0700,119,,Overflow,1999-07-29,2018-10-12,6.2,None,Local,High,Not required,Complete,Complete,Complete
+614,CVE-1999-0698,,,DoS,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+615,CVE-1999-0697,,,'+Priv,1999-09-09,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+616,CVE-1999-0696,,,Overflow,1999-07-01,2018-10-30,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+617,CVE-1999-0694,,,DoS,1999-08-11,2008-09-09,2.1,None,Local,Low,Not required,None,None,Partial
+618,CVE-1999-0692,,,'+Priv,1999-07-19,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+619,CVE-1999-0691,,,Overflow +Priv,1999-09-13,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+620,CVE-1999-0690,,,,1999-07-01,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+621,CVE-1999-0689,,,Exec Code,1999-09-13,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+622,CVE-1999-0688,,,Overflow,1999-07-01,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+623,CVE-1999-0687,,,Exec Code,1999-09-13,2018-10-30,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+624,CVE-1999-0686,,,DoS,1999-05-07,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+625,CVE-1999-0685,,,Overflow,1999-09-02,2008-09-09,5.1,User,Remote,High,Not required,Partial,Partial,Partial
+626,CVE-1999-0684,,,DoS,1999-04-19,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+627,CVE-1999-0683,,,DoS,1999-07-30,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+628,CVE-1999-0682,,,,1999-08-06,2018-10-12,5.0,None,Remote,Low,Not required,None,None,Partial
+629,CVE-1999-0680,287,,DoS,1999-08-09,2018-10-12,5.0,None,Remote,Low,Not required,None,None,Partial
+630,CVE-1999-0679,,,Exec Code Overflow,1999-08-13,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+631,CVE-1999-0678,,,,1999-01-17,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+632,CVE-1999-0677,,,,1999-08-03,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+633,CVE-1999-0676,,,,1999-08-09,2018-10-30,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+634,CVE-1999-0675,,,DoS,1999-08-09,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+635,CVE-1999-0674,,,,1999-08-09,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+636,CVE-1999-0673,,,Overflow,1999-08-08,2008-09-09,5.1,User,Remote,High,Not required,Partial,Partial,Partial
+637,CVE-1999-0672,,,Overflow,1999-08-01,2008-09-09,5.1,User,Remote,High,Not required,Partial,Partial,Partial
+638,CVE-1999-0671,,,Overflow,1999-08-03,2008-09-09,5.1,User,Remote,High,Not required,Partial,Partial,Partial
+639,CVE-1999-0670,,,Exec Code Overflow,1999-09-01,2018-10-12,4.0,None,Remote,High,Not required,Partial,Partial,None
+640,CVE-1999-0669,,,Exec Code,1999-09-01,2008-09-09,4.0,None,Remote,High,Not required,Partial,Partial,None
+641,CVE-1999-0668,,,Exec Code,1999-08-21,2018-10-12,5.1,None,Remote,High,Not required,Partial,Partial,Partial
+642,CVE-1999-0665,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+643,CVE-1999-0664,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+644,CVE-1999-0663,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+645,CVE-1999-0662,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+646,CVE-1999-0661,,,,1999-01-01,2016-10-17,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+647,CVE-1999-0657,,,,1999-01-01,2007-07-21,0.0,None,Remote,Low,Not required,None,None,None
+648,CVE-1999-0656,16,,,1999-01-01,2017-07-10,5.0,None,Remote,Low,Not required,Partial,None,None
+649,CVE-1999-0654,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+650,CVE-1999-0653,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+651,CVE-1999-0651,,,,1999-01-01,2005-10-20,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+652,CVE-1999-0650,,,,1999-01-01,2017-07-10,5.0,None,Remote,Low,Not required,Partial,None,None
+653,CVE-1999-0641,,,,1999-01-01,2007-07-13,0.0,None,Remote,Low,Not required,None,None,None
+654,CVE-1999-0640,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+655,CVE-1999-0639,,,,1999-01-01,2007-07-13,0.0,None,Remote,Low,Not required,None,None,None
+656,CVE-1999-0638,,,,1999-01-01,2007-07-13,0.0,None,Remote,Low,Not required,None,None,None
+657,CVE-1999-0637,,,,1999-01-01,2007-07-13,0.0,None,Remote,Low,Not required,None,None,None
+658,CVE-1999-0636,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+659,CVE-1999-0635,,,,1999-01-01,2007-07-13,0.0,None,Remote,Low,Not required,None,None,None
+660,CVE-1999-0632,,,,1999-01-01,2007-07-13,0.0,None,Remote,Low,Not required,None,None,None
+661,CVE-1999-0630,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+662,CVE-1999-0629,,,,1999-01-01,2010-12-01,0.0,None,Remote,Low,Not required,None,None,None
+663,CVE-1999-0625,,,,1999-01-01,2007-07-13,0.0,None,Remote,Low,Not required,None,None,None
+664,CVE-1999-0624,,,,1999-01-01,2007-07-13,0.0,None,Remote,Low,Not required,None,None,None
+665,CVE-1999-0618,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+666,CVE-1999-0613,,,,1999-01-01,2007-07-13,0.0,None,Remote,Low,Not required,None,None,None
+667,CVE-1999-0611,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+668,CVE-1999-0610,,,,1999-04-01,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None
+669,CVE-1999-0609,,,,1999-04-01,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None
+670,CVE-1999-0608,,,,1999-04-01,2017-10-09,5.0,None,Remote,Low,Not required,Partial,None,None
+671,CVE-1999-0607,,,'+Priv,1999-04-20,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None
+672,CVE-1999-0606,200,,'+Info,1999-04-01,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None
+673,CVE-1999-0605,200,,'+Info,1999-04-01,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None
+674,CVE-1999-0604,,,,1999-04-20,2016-10-17,5.0,None,Remote,Low,Not required,Partial,None,None
+675,CVE-1999-0603,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+676,CVE-1999-0602,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+677,CVE-1999-0601,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+678,CVE-1999-0600,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+679,CVE-1999-0599,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+680,CVE-1999-0598,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+681,CVE-1999-0597,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+682,CVE-1999-0596,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+683,CVE-1999-0594,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+684,CVE-1999-0593,,,,1999-01-01,2017-07-10,4.9,None,Local,Low,Not required,None,None,Complete
+685,CVE-1999-0592,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+686,CVE-1999-0591,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+687,CVE-1999-0589,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+688,CVE-1999-0588,,,,1999-01-01,2005-10-20,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+689,CVE-1999-0587,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+690,CVE-1999-0586,,,,1999-01-01,2014-11-04,0.0,None,Remote,Low,Not required,None,None,None
+691,CVE-1999-0584,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+692,CVE-1999-0583,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+693,CVE-1999-0581,,,,1999-01-01,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+694,CVE-1999-0580,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+695,CVE-1999-0579,,,,1999-01-01,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+696,CVE-1999-0578,,,,1999-01-01,2008-09-05,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+697,CVE-1999-0577,,,,1999-01-01,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+698,CVE-1999-0571,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+699,CVE-1999-0570,,,,1999-01-01,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+700,CVE-1999-0569,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+701,CVE-1999-0568,,,,1999-01-01,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+702,CVE-1999-0565,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+703,CVE-1999-0564,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+704,CVE-1999-0561,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+705,CVE-1999-0560,,,,1999-01-01,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+706,CVE-1999-0559,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+707,CVE-1999-0556,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+708,CVE-1999-0555,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+709,CVE-1999-0554,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+710,CVE-1999-0549,,,,1999-01-01,2008-09-05,7.2,None,Local,Low,Not required,Complete,Complete,Complete
+711,CVE-1999-0548,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+712,CVE-1999-0547,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+713,CVE-1999-0539,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+714,CVE-1999-0530,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+715,CVE-1999-0529,,,,1999-01-01,2005-10-20,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+716,CVE-1999-0528,,,,1999-01-01,2005-10-20,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+717,CVE-1999-0527,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+718,CVE-1999-0523,,,,1999-01-01,2010-12-01,0.0,None,Remote,Low,Not required,None,None,None
+719,CVE-1999-0520,,,,1999-01-01,2005-10-20,6.4,None,Remote,Low,Not required,Partial,Partial,None
+720,CVE-1999-0515,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+721,CVE-1999-0512,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+722,CVE-1999-0497,,,,1999-01-01,2007-07-13,0.0,None,Remote,Low,Not required,None,None,None
+723,CVE-1999-0495,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+724,CVE-1999-0493,,,,1999-06-07,2018-10-30,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+725,CVE-1999-0492,,,,1999-04-23,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+726,CVE-1999-0491,94,,Exec Code,1999-04-20,2014-12-31,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+727,CVE-1999-0490,,,,1999-04-21,2018-10-12,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+728,CVE-1999-0489,,,,1999-05-17,2018-10-12,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+729,CVE-1999-0488,,,,1999-04-21,2018-10-12,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+730,CVE-1999-0487,,,,1999-05-01,2018-10-12,2.6,None,Remote,High,Not required,Partial,None,None
+731,CVE-1999-0485,,,,1999-02-19,2008-09-09,2.6,None,Remote,High,Not required,None,None,Partial
+732,CVE-1999-0484,,,Overflow,1999-02-23,2008-09-09,2.1,None,Local,Low,Not required,None,Partial,None
+733,CVE-1999-0483,,,,1999-02-25,2008-09-09,2.1,None,Local,Low,Not required,None,None,Partial
+734,CVE-1999-0482,,,,1999-03-21,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+735,CVE-1999-0481,,,DoS,1999-03-22,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+736,CVE-1999-0480,,,DoS,1999-04-01,2008-09-09,2.1,None,Local,Low,Not required,None,None,Partial
+737,CVE-1999-0479,,,DoS,1999-03-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+738,CVE-1999-0477,,,,1999-12-25,2008-09-05,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+739,CVE-1999-0476,,,,1999-03-01,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+740,CVE-1999-0475,,,,1999-04-05,2008-09-09,1.2,None,Local,High,Not required,Partial,None,None
+741,CVE-1999-0474,,,,1999-04-05,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+742,CVE-1999-0473,,,,1999-04-07,2008-09-09,2.1,None,Local,Low,Not required,None,Partial,None
+743,CVE-1999-0472,,,,1999-04-07,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+744,CVE-1999-0471,,,,1999-04-09,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+745,CVE-1999-0470,,,,1999-04-09,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+746,CVE-1999-0469,,,,1999-04-01,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+747,CVE-1999-0468,,,,1999-04-09,2018-10-12,2.6,None,Remote,High,Not required,Partial,None,None
+748,CVE-1999-0467,,,,1999-04-01,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+749,CVE-1999-0466,,,,1999-04-21,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+750,CVE-1999-0465,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+751,CVE-1999-0464,,,DoS,1999-01-04,2016-10-17,2.1,None,Local,Low,Not required,None,None,Partial
+752,CVE-1999-0462,,,,1999-03-17,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+753,CVE-1999-0461,,,,1999-01-28,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+754,CVE-1999-0460,,,DoS Overflow,1999-02-19,2008-09-05,2.1,None,Local,Low,Not required,None,None,Partial
+755,CVE-1999-0459,,,DoS,1999-02-01,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+756,CVE-1999-0458,,,,1999-01-06,2008-09-09,2.1,None,Local,Low,Not required,Partial,None,None
+757,CVE-1999-0457,,,'+Priv,1999-01-17,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+758,CVE-1999-0455,,,,1999-12-25,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+759,CVE-1999-0454,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+760,CVE-1999-0453,200,,'+Info,1999-01-01,2008-09-05,5.0,None,Remote,Low,Not required,Partial,None,None
+761,CVE-1999-0452,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+762,CVE-1999-0451,,,DoS,1999-01-19,2008-09-05,2.1,None,Local,Low,Not required,None,None,Partial
+763,CVE-1999-0450,,,,1999-01-26,2018-10-30,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+764,CVE-1999-0449,,,DoS,1999-01-26,2008-09-09,7.8,None,Remote,Low,Not required,None,None,Complete
+765,CVE-1999-0448,,,,1999-01-01,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+766,CVE-1999-0447,,,'+Priv,1999-04-01,2013-07-23,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+767,CVE-1999-0446,,,DoS,1999-04-12,2008-09-09,2.1,None,Local,Low,Not required,None,None,Partial
+768,CVE-1999-0445,,,,1999-04-01,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+769,CVE-1999-0444,,,DoS,1999-04-12,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+770,CVE-1999-0443,,,,1999-04-01,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+771,CVE-1999-0442,,,,1999-01-07,2018-10-30,2.1,None,Local,Low,Not required,None,Partial,None
+772,CVE-1999-0441,,,DoS Overflow,1999-02-22,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+773,CVE-1999-0440,,,Exec Code,1999-03-01,2016-10-17,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+774,CVE-1999-0439,,,Exec Code Overflow,1999-04-05,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+775,CVE-1999-0438,,,DoS,1999-03-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+776,CVE-1999-0437,,,DoS,1999-03-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+777,CVE-1999-0436,,,'+Priv,1999-03-01,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+778,CVE-1999-0435,,,'+Priv,1999-03-01,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+779,CVE-1999-0434,,,DoS +Priv,1999-03-30,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+780,CVE-1999-0433,,,DoS +Priv,1999-03-21,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+781,CVE-1999-0432,,,'+Priv,1999-03-01,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+782,CVE-1999-0431,,,DoS,1999-03-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+783,CVE-1999-0430,,,DoS,1999-03-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+784,CVE-1999-0429,,,,1999-03-01,2016-10-17,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+785,CVE-1999-0428,,,Bypass,1999-03-22,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+786,CVE-1999-0426,,,,1999-03-01,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+787,CVE-1999-0425,,,,1999-03-18,2008-09-09,6.4,None,Remote,Low,Not required,None,Partial,Partial
+788,CVE-1999-0424,,,,1999-03-18,2008-09-09,2.1,None,Local,Low,Not required,Partial,None,None
+789,CVE-1999-0422,,,,1999-03-17,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+790,CVE-1999-0421,,,,1999-03-17,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+791,CVE-1999-0420,,,'+Priv,1999-03-17,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+792,CVE-1999-0419,,,DoS,1999-03-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+793,CVE-1999-0418,,,DoS,1999-03-08,2016-10-17,6.4,None,Remote,Low,Not required,Partial,None,Partial
+794,CVE-1999-0417,,,DoS,1999-03-09,2018-10-30,2.1,None,Local,Low,Not required,None,None,Partial
+795,CVE-1999-0416,,,,1999-03-11,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+796,CVE-1999-0415,,,,1999-03-11,2008-09-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+797,CVE-1999-0414,,,,1999-03-01,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+798,CVE-1999-0413,,,Overflow,1999-03-01,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+799,CVE-1999-0412,,,,1999-02-19,2008-09-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+800,CVE-1999-0411,,,,1999-03-07,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+801,CVE-1999-0410,,,Overflow,1999-03-05,2018-10-30,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+802,CVE-1999-0409,,,Overflow,1999-03-04,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+803,CVE-1999-0408,,,,1999-02-25,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+804,CVE-1999-0407,,,,1999-02-09,2016-10-17,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+805,CVE-1999-0406,,,Overflow,1999-02-19,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+806,CVE-1999-0405,,,Overflow,1999-02-18,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+807,CVE-1999-0404,,,Exec Code Overflow,1999-02-14,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+808,CVE-1999-0403,,,DoS,1999-02-01,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial
+809,CVE-1999-0402,,,,1999-01-02,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+810,CVE-1999-0401,,,,1999-01-01,2008-09-09,3.7,User,Local,High,Not required,Partial,Partial,Partial
+811,CVE-1999-0400,,,DoS,1999-01-26,2008-09-05,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+812,CVE-1999-0399,,,Exec Code,1999-01-01,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+813,CVE-1999-0398,,,,1999-01-01,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+814,CVE-1999-0397,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+815,CVE-1999-0396,,,DoS,1999-02-17,2008-09-09,2.6,None,Remote,High,Not required,None,None,Partial
+816,CVE-1999-0395,,,,1999-01-01,2008-09-09,5.1,None,Remote,High,Not required,Partial,Partial,Partial
+817,CVE-1999-0394,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+818,CVE-1999-0393,,,DoS,1999-01-01,2016-10-17,5.0,None,Remote,Low,Not required,None,None,Partial
+819,CVE-1999-0392,,,Overflow,1999-01-10,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+820,CVE-1999-0391,,,,1999-01-05,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+821,CVE-1999-0390,,,Overflow,1999-01-04,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+822,CVE-1999-0389,,,Overflow,1999-01-03,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+823,CVE-1999-0388,,,Exec Code,1999-01-01,2008-09-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+824,CVE-1999-0387,255,,,1999-11-29,2018-10-12,7.8,None,Remote,Low,Not required,Complete,None,None
+825,CVE-1999-0386,,,,1999-03-01,2018-10-12,5.0,None,Remote,Low,Not required,Partial,None,None
+826,CVE-1999-0384,,,,1999-01-01,2018-10-12,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+827,CVE-1999-0383,,,,1999-02-02,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+828,CVE-1999-0382,,,,1999-03-12,2018-10-12,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+829,CVE-1999-0381,,,Overflow,1999-02-26,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+830,CVE-1999-0380,,,,1999-02-25,2017-10-09,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+831,CVE-1999-0379,,,Exec Code,1999-02-22,2018-10-12,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+832,CVE-1999-0378,,,,1999-02-22,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+833,CVE-1999-0377,,,DoS,1999-02-22,2016-12-27,5.0,None,Remote,Low,Not required,None,None,Partial
+834,CVE-1999-0376,,,,1999-02-20,2018-10-12,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+835,CVE-1999-0375,,,Exec Code Overflow,1999-02-16,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+836,CVE-1999-0374,,,,1999-02-16,2008-09-09,2.1,None,Local,Low,Not required,Partial,None,None
+837,CVE-1999-0373,,,Exec Code Overflow,1999-02-01,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+838,CVE-1999-0372,200,,'+Info,1999-02-12,2018-10-12,2.1,None,Local,Low,Not required,Partial,None,None
+839,CVE-1999-0371,,,,1999-02-11,2008-09-09,1.2,None,Local,High,Not required,Partial,None,None
+840,CVE-1999-0370,,,,1999-02-10,2018-10-30,4.6,User,Local,Low,Not required,Partial,Partial,Partial
+841,CVE-1999-0368,,,Overflow,1999-02-09,2008-09-09,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+842,CVE-1999-0367,,,,1999-02-09,2008-09-09,2.1,None,Local,Low,Not required,Partial,None,None
+843,CVE-1999-0366,287,,,1999-02-08,2018-10-12,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+844,CVE-1999-0365,,,Exec Code,1999-02-04,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+845,CVE-1999-0364,,,,1999-01-01,2016-10-17,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+846,CVE-1999-0363,,,Overflow,1999-02-02,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+847,CVE-1999-0362,,,DoS,1999-02-02,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+848,CVE-1999-0361,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+849,CVE-1999-0360,,,Exec Code,1999-01-30,2016-10-17,7.2,None,Local,Low,Not required,Complete,Complete,Complete
+850,CVE-1999-0358,,,Overflow,1999-02-01,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+851,CVE-1999-0357,,,DoS,1999-01-25,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+852,CVE-1999-0356,,,,1999-01-25,2008-09-09,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+853,CVE-1999-0355,,,DoS,1999-01-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+854,CVE-1999-0354,,,,1999-11-01,2018-10-12,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+855,CVE-1999-0353,,,,1999-02-10,2013-09-03,9.3,Admin,Remote,Medium,Not required,Complete,Complete,Complete
+856,CVE-1999-0352,,,,1999-01-25,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+857,CVE-1999-0351,,,DoS,1999-02-01,2018-05-02,6.4,None,Remote,Low,Not required,Partial,None,Partial
+858,CVE-1999-0350,,,,1999-02-08,2008-09-09,6.2,Admin,Local,High,Not required,Complete,Complete,Complete
+859,CVE-1999-0349,119,,DoS Exec Code Overflow,1999-01-27,2018-10-12,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+860,CVE-1999-0348,200,,'+Info,1999-01-27,2018-08-13,5.0,None,Remote,Low,Not required,Partial,None,None
+861,CVE-1999-0347,,,,1999-01-26,2016-10-17,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+862,CVE-1999-0317,,,Overflow,1999-11-25,2008-09-09,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+863,CVE-1999-0291,,,,1999-02-01,2008-09-09,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+864,CVE-1999-0289,,,,1999-12-12,2008-09-05,5.0,None,Remote,Low,Not required,Partial,None,None
+865,CVE-1999-0287,,,,1999-04-09,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+866,CVE-1999-0286,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+867,CVE-1999-0285,,,DoS,1999-01-01,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+868,CVE-1999-0283,,,,1999-01-01,2016-10-17,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+869,CVE-1999-0276,,,Overflow,1999-01-01,2008-09-09,7.5,User,Remote,Low,Not required,Partial,Partial,Partial
+870,CVE-1999-0268,,,,1999-01-01,2008-09-09,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+871,CVE-1999-0261,,,Overflow,1999-03-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+872,CVE-1999-0255,,,Exec Code Overflow,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+873,CVE-1999-0248,,,,1999-01-01,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+874,CVE-1999-0243,,,,1999-01-01,2005-10-20,10.0,Admin,Remote,Low,Not required,Complete,Complete,Complete
+875,CVE-1999-0240,,,,1999-01-01,2005-10-20,7.5,None,Remote,Low,Not required,Partial,Partial,Partial
+876,CVE-1999-0231,,,DoS Overflow,1999-01-01,2008-09-05,5.0,None,Remote,Low,Not required,None,None,Partial
+877,CVE-1999-0229,,,DoS,1999-05-12,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+878,CVE-1999-0226,19,,DoS,1999-01-01,2017-05-03,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+879,CVE-1999-0224,,,DoS,1999-07-23,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+880,CVE-1999-0223,,,,1999-03-01,2018-10-30,2.1,None,Local,Low,Not required,None,None,Partial
+881,CVE-1999-0222,,,DoS,1999-03-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+882,CVE-1999-0221,,,DoS,1999-03-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+883,CVE-1999-0220,,,DoS,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+884,CVE-1999-0205,,,DoS,1999-01-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+885,CVE-1999-0200,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+886,CVE-1999-0198,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+887,CVE-1999-0197,,,,1999-01-01,2005-10-20,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+888,CVE-1999-0194,,,DoS,1999-05-01,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+889,CVE-1999-0154,,,,1999-12-31,2008-09-09,5.0,None,Remote,Low,Not required,Partial,None,None
+890,CVE-1999-0140,,,DoS,1999-06-30,2008-09-05,5.0,None,Remote,Low,Not required,None,None,Partial
+891,CVE-1999-0121,,,Overflow,1999-01-21,2005-10-20,7.2,Admin,Local,Low,Not required,Complete,Complete,Complete
+892,CVE-1999-0119,,,,1999-01-19,2008-09-05,10.0,None,Remote,Low,Not required,Complete,Complete,Complete
+893,CVE-1999-0063,,,,1999-01-11,2008-09-09,5.0,None,Remote,Low,Not required,None,None,Partial
+894,CVE-1999-0001,20,,DoS,1999-12-30,2010-12-16,5.0,None,Remote,Low,Not required,None,None,Partial
